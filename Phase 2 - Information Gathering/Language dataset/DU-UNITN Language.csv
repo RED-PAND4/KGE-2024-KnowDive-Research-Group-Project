@@ -1,0 +1,48 @@
+Dataset name,Dataset description in Italian,Dataset description in English,Field name in dataset,Field description in Italian,Field description in English
+DU-UNITN-people,Dataset contenete le info relative a tutte le persone che hanno una qualsiasi tipologia di contratto all'interno dell'università di Trento,Dataset containing information on all persons who have any type of contract within the University of Trento,id,identificatore della persona all'interno del DB UniTN,identifier of the person within the UniTN DB
+,,,nome,nome della persona,name of person
+,,,cognome,cognome della persona,surname of person
+,,,telefono,numero di telefono della persona,telephone number of the person
+,,,cun,Area scientifica di riferimento secondo il Consiglio Universitario Nazionale (CUN),Scientific area of reference according to the National University Council (CUN)
+,,,ssd,Settore Scientifico Disciplinare di appartenenza del docente,Scientific Disciplinary Area to which the teacher belongs
+,,,posizioni.ruolo,ruolo della persona all'interno di UNITN,role of the person within UNITN
+,,,posizioni.nomeStruttura,nome della struttura (organizzazione) di riferimento della persona ,name of the person's structure (organisation) of reference 
+,,,posizioni.idStruttura,identificativo della struttura (organizzazione) di riferimento della persona,identification of the person's structure (organisation) of reference
+DU-UNITN-mindprod-[xxxx],Dataset contenente le info relative a tutti gli elaborati di ricerca (testi) pubblicati da personale UniTN nell'anno [xxxx],Dataset containing information on all papers published by UniTN staff in year [xxxx].,titolo,titolo dell'elaborato,title of the paper
+,,,tipo,"tipo dell'elaborato (es. Articolo su rivista, Articolo in conferenza, tesi, ecc)","type of paper (e.g. journal article, conference paper, thesis, etc.)"
+,,,anno,anno di pubblicazione dell'elaborato,year of publication of the paper
+,,,lingua,lingua di pubblicazione dell'elaborato,language of publication of the paper
+,,,autori.nome,nome dell'autore (persona) dell'elaborato,name of the author (person) of the work
+,,,autori.cognome,cognome dell'autore (persona) dell'elaborato,surname of the author (person) of the paper
+,,,autori.id,identificatore del'autore (persona) all'interno del DB UniTN,author (person) identifier within the UniTN DB
+,,,citazioni,lista delle citazioni riportate nell'elaborato,list of quotations in the paper
+,,,file.nome,nome del file contenente la versione digitale dell'elaborato,name of the file containing the digital version of the paper
+,,,file.link,link di accesso del file contenente la versione digitale dell'elaborato,access link of the file containing the digital version of the paper
+,,,file.licenza,tipo di licenza di didstribuzione del file contenente la versione digitale dell'elaborato,type of didstribution licence of the file containing the digital version of the paper
+,,,file.formato,formato del file contenente la versione digitale dell'elaborato,format of the file containing the digital version of the paper
+,,,file.versione,numero di versione del file contenente la versione digitale dell'elaborato,version number of the file containing the digital version of the paper
+,,,file.openAccess,valore binaro (vero o falso) riguardo al tipo di distribuzione (se aperto al pubblico o ad accesso sotto richiesta) del file contenente la versione digitale dell'elaborato,binary value (true or false) regarding the type of distribution (whether open to the public or with access on request) of the file containing the digital version of the paper
+DU-UNITN-organizations,"Dataset contenente le info relative a tutte le organizzazioni (strutture, organi gestionali, uffici, ecc) dell'università di Trento","Dataset containing information on all organisations (structures, management bodies, offices, etc.) of the University of Trento",id,identificatore dell'organizzazione all'interno del DB UniTN,identifier of the organisation within the UniTN DB
+,,,tipo,Tipo di organizzazione,Type of organisation
+,,,sottoTipo,Ulteriore suddivisione in tipi più specifici di organizzazione,Further subdivision into more specific types of organisation
+,,,nome,nome dell'organizzazione,name of organisation
+,,,descrizione,descrizione dell'organizzazione,description of organisation
+,,,indirizzo,indirizzo di residenza dell'organizzazione,home address of the organisation
+,,,telefono,numero di telefono dell'organizzazione,telephone number of the organisation
+,,,email,indirizzo email dell'organizzazione,organisation's email address
+,,,sitoWeb,sito web dell'organizzazione,organisation's website
+,,,pathStruttura,La sequenza degli id che determinano la posizione della struttura nell'organigramma dell'organizzazione,The sequence of ids that determine the position of the structure in the organisation's organisation chart
+DU-UNITN-courses,Dataset contenente le info relative a tutti i corsi universitari forniti dall'università di Trento,Dataset containing information on all university courses provided by the University of Trento,nome,nome del corso ,course name 
+,,,dipartimento.nome,nome del dipartimento che fruisce il corso,name of the department using the course
+,,,dipartimento.id,identificatore del dipartimento all'interno del DB UniTN,department identifier within the UniTN DB
+,,,descrizione,descrizione del corso,course description
+,,,docenti.nome,nome del docente (persona) del corso,name of the course lecturer (person)
+,,,docenti.cognome,cognome del docente (persona) del corso,surname of the course lecturer (person)
+,,,docenti.id,identificatore del docente (persona) all'interno del DB UniTN,identifier of the teacher (person) within the UniTN DB
+,,,assistenti,lista dei nomi degli assistenti del docente del corso,list of names of course lecturer's assistants
+,,,titolari.nome,nome del titolare (persona) del corso,name of the course holder (person)
+,,,titolari.cognome,cognome del titolare (persona) del corso,surname of the course holder (person)
+,,,titolari.id,identificatore del titolare (persona) all'interno del DB UniTN,identifier of the holder (person) within the UniTN DB
+,,,tutor,lista dei nomi dei tutor assegnati al corso,list of names of tutors assigned to the course
+,,,corsoStudi,nome del corso di studi in cui il corso è inserito,name of the course in which the course is embedded
+,,,sitoWeb,sito web del corso,course website
