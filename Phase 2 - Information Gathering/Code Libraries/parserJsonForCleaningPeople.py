@@ -37,8 +37,8 @@ def save_filtered_data(filtered_data, output_file):
 
 # Example usage
 source_json = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/KRG-UNITN-member.json'  # JSON file with names
-target_json = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/DU-UNITN-people.json'  # JSON file to be filtered
-output_file = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/filtered_people.json'  # File to save filtered data
+target_json = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/not-cleaned dataset/DU-UNITN-people.json'  # JSON file to be filtered
+output_file = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/Cleaned-DU-UNITN-people.json'  # File to save filtered data
 
 # Extract names from the source file
 names_list = extract_names(source_json)
