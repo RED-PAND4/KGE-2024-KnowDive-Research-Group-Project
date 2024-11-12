@@ -100,6 +100,61 @@
       "department": null
     },
     {
+      "id": "f2h4k1v9",
+      "name": "Mayukh",
+      "surname": "Bagchi",
+      "role": "PhD Student",
+      "research_topic": "Knowledge Diversity",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null,
+      "location": "Trento, Italy"
+    },
+    {
+      "id": "f2huw1v7",
+      "name": "Simone",
+      "surname": "Bocca",
+      "role": "Software Engineer",
+      "research_topic": "Knowledge Diversity",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null,
+      "location": "Trento, Italy"
+    },
+    {
+      "id": "d6e8a9f",
+      "name": "Marco",
+      "surname": "Barbieri",
+      "role": "Master Student",
+      "research_topic": "Knowledge Diversity",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null,
+      "location": "Trento, Italy"
+    },
+    {
+      "id": "d8je90a5",
+      "name": "Matteo",
+      "surname": "Busso",
+      "role": "PhD Student",
+      "research_topic": "Human-Machine Symbiosis",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null,
+      "location": "Trento, Italy"
+    },
+    {
+      "id": "d93m6fg7",
+      "name": "Xiaoyue",
+      "surname": "Li",
+      "role": "PhD Student",
+      "research_topic": "Human-Machine Symbiosis, Knowledge Diversity",
+      "support_role": "Seminar Coordinator",
+      "university": "University of Trento",
+      "department": null,
+      "location": "Trento, Italy"
+    },
+    {
       "id": "k93ds1f0",
       "name": "Kayongo",
       "surname": "Ivan",
