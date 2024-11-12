@@ -1,0 +1,140 @@
+[
+    {
+        "Name" : "Artificial Human Cognition",
+        "Lead by" : "Alessio Zamboni",
+        "Members" : [
+            "Rui Duro",
+            "Rafael Samorinha",
+            "Adriano Tavares",
+            "Alessio Zamboni",
+            "Qi Zang",
+            "Giulia Gaggero",
+            "João Manuel Gonçalves Silva",
+            "Dragos Gruia",
+            "Andrea Bontempelli"
+        ],
+        "Directions" : ["Foundations", "Artificial Human Vision"],
+        "sub-topics" : [
+            "Knowledge Representation and Reasoning",
+            "Machine Learning",
+            "Cognitive Modeling",
+            "Neuromorphic computation",
+            "Philosophy of Language",
+            "Social Sciences",
+            "Physics"
+        ],
+        "projects" : [
+            "Smart Society",
+            "Delphi",
+            "Wenet"
+        ]
+    },
+    {
+        "Name" : "Language Diversity",
+        "Lead by" : "Fausto Giunchiglia",
+        "Members" : [
+            "Gabor Bella",
+            "Hadi Khalilia",
+            "Kubra Korkmaz",
+            "Virendra Mehta",
+            "Yamini Chandrashekar",
+            "Shandy Darma",
+            "Hao Xu",
+            "Patrik Calin Maniu"
+        ],
+        "Directions" : ["Computing lexical diversity",
+                "Diversity-aware expert and crowdsourcing",
+                "Multilingual and Multi-Domain Natural Language Understanding"
+            ],
+        "sub-topics" : [
+            "Language Diversity",
+            "Lexical Semantics",
+            "Crowdsourcing",
+            "Natural Language Understanding",
+            "Cross-Lingual and Cross-Domain NLP"
+        ],
+        "projects" : [
+            "IEHR",
+            "CyCAT",
+            "Safe Haven 1",
+            "Safe Haven 2",
+            "SPRINT",
+            "SHIB"
+        ]
+    },
+    {
+        "Name" : "Knowledge Diversity",
+        "Lead by" : "Simone Bocca",
+        "Members" : [
+            "Mayukh Bagchi",
+            "Alessio Zamboni",
+            "Simone Bocca",
+            "Xiaolei Diao",
+            "Marco Barbieri",
+            "Rui Zhang",
+            "Ivan Donà",
+            "Xiaoyue Li",
+            "Alessio Novel"
+        ],
+        "Directions" : ["Knowledge Recognition",
+                "Knowledge Diversity",
+                "Knowledge Engineering",
+                "Classification and Identification"
+            ],
+        "sub-topics" : [
+            "Knowledge Representation and Reasoning",
+            "Conceptual Modeling",
+            "Machine Learning",
+            "Applied Ontology",
+            "Cognitive Modeling"
+        ],
+        "projects" : [
+            "Digital University",
+            "CyCAT",
+            "QROWD",
+            "SHIB",
+            "SPRINT"
+        ]
+    },
+    {
+        "Name" : "Human-Machine Symbiosis",
+        "Lead by" : "Andrea Bontempelli",
+        "Members" : [
+            "Kayongo Ivan",
+            "Rafael Samorinha",
+            "Leonardo Javier Malcotti",
+            "Ivano Bison",
+            "Alessia Angeli",
+            "Munkhdelger Bayanjargal",
+            "Hao Xu",
+            "Matteo Busso",
+            "Haonan Zhao",
+            "Andrea Bontempelli",
+            "Xiaoyue Li",
+            "Ali Hamza",
+            "Roy Alia Asiku"
+        ],
+        "Directions" : ["Data and Knowledge acquisition, representation and discovery",
+                "Personal data and privacy management",
+                "Experiment execution and management"
+            ],
+        "sub-topics" : [
+            "Knowledge Representation and Reasoning",
+            "Stream data management and optimization",
+            "Machine Learning",
+            "Applied Ontology",
+            "Cognitive Modeling",
+            "Experiment management"
+        ],
+        "projects" : [
+            "Smart University",
+            "Eurostat",
+            "Smart Society",
+            "White Rabbit",
+            "Delphi",
+            "WeNet",
+            "QROWD",
+            "SHIB"
+        ]
+    } 
+]

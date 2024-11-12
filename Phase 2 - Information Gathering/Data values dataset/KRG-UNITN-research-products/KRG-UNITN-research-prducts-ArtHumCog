@@ -1,0 +1,76 @@
+[
+    {
+	    "Name" : "Towards Visual Semantics",
+	    "Publication" : "Springer Nature Computer Science (SN COMPUT. SCI.) 2, 446 (2021)",
+	    "Authors" : [
+		    "Giunchiglia, F.",
+		    "Erculiani, L.",
+		    "Passerini, A."
+	    ],
+	    "Links" : "b1ZmyD0ZzFRXfe4RwlQNchNByi7wbcMAY47Up2oNl2J0gPE6rey1h3xdKKbYxszUNEizxoEKhdrsKx7oTky7vamtUaDFtfdXQyii1UFbq68AxofyVnLNMykFVud8GwvQbPprB0ak_jEBqMMVzPKRf_3tSxLBRlYdBQ"
+    },
+    {
+        "Name" : "Continual egocentric object recognition",
+        "Publication" : "Proceeding of the 24th European Conference on Artificial Intelligence (ECAI), June 2020",
+        "Authors" : [
+            "Erculiani, Luca",
+            "Giunchiglia, Fausto",
+            "Passerini, Andrea"
+        ],
+        "Links" : "https://drive.google.com/file/d/1YFyB7EwnOsrmLOtXWPI9GYbIgH1ow4fW/view"
+    },
+    {
+        "Name" : "Teleologies: Objects, actions and functions.",
+        "Publication" : "International conference on conceptual modeling (ER). Springer, Cham, 2017.",
+        "Authors" : [
+            "Giunchiglia, F.",
+            "Fumagalli, M."
+        ],
+        "Links" : "https://drive.google.com/file/d/1V0JmiD4oWHVEeLz8UxAiLc7S8siZL8h8/view"
+    },
+    {
+        "Name" : "Artificial Intelligence in 2027",
+        "Publication" : "IJCAI, AI Matters, vol. 4, 2017",
+        "Authors" : [
+            "Maria Gini",
+            "Noa Agmon",
+            "Fausto Giunchiglia",
+            "Sven Koenig",
+            "Kevin Leyton'Brown"
+        ],
+        "Links" : "https://drive.google.com/file/d/1X9RTD2uK1uWC6Ub0Y14YXIIdnD-GGs3c/view"
+    },
+    {
+        "Name" : "Computational Humanism",
+        "Publication" : "On Line presentation at DISI, 2017. Trento, Italy",
+        "Authors" : [
+            "Fausto Giunchiglia"
+        ],
+        "Links" : "https://drive.google.com/file/d/1rVUC6CSTVq9KowmrqfPxUAVg9h9AP9yq/view"
+    },
+    {
+        "Name" : "Concepts as (Recognition) Abilities",
+        "Publication" : "In Formal Ontology in Information System: Proceedings of the 9th International Conference (FOIS 2016), vol. 283, p. 153. IOS Press,2016",
+        "Authors" : [
+            "Fausto Giunchiglia",
+            "Mattia Fumagalli"
+        ],
+        "Links" : "https://drive.google.com/file/d/1XCUXEUVG_m0lY2hevCKOdHYIvDnkBpf8/view"
+    },
+    {
+        "Name" : "The future of AI",
+        "Publication" : "Invited talk: KR 2008 Sidney, Sept 2008; Symposium for Alan Bundy, Edinburgh July 2008. Online presentation. Sept 2008; Symposium for Alan Bundy, Edinburgh July 2008.",
+        "Authors" : [
+            "Fausto Giunchiglia"
+        ],
+        "Links" : "https://drive.google.com/file/d/1fYUADLKni0UCNG4R46yEzN35lJLD8Koq/view"
+    },
+    {
+        "Name" : "Managing diversity in Knowledge",
+        "Publication" : "Invited talk, ECAI 2006, Riva del Garda, Trento, Italy",
+        "Authors" : [
+            "Fausto Giunchiglia"
+        ],
+        "Links" : "https://drive.google.com/file/d/14ynFnMNwWejLYUsQPBXZs1TF67ziExsQ/view"
+    }
+]
