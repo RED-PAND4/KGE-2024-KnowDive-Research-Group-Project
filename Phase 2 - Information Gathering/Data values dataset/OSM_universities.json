@@ -1,0 +1,328 @@
+{
+    "dataset_name" : "OSM_universities_1",
+    "last_update" : "12/11/2024",
+    "data" : [
+        {
+            "name" : "American International University - Bangladesh",
+            "locations" : [
+                {
+                    "tag": [
+                        {
+                            "_k": "abbr_name",
+                            "_v": "AIUB"
+                        },
+                        {
+                            "_k": "amenity",
+                            "_v": "university"
+                        },
+                        {
+                            "_k": "name",
+                            "_v": "আমেরিকান ইন্টারন্যাশনাল ইউনিভার্সিটি বাংলাদেশ"
+                        },
+                        {
+                            "_k": "name:bn",
+                            "_v": "আমেরিকান ইন্টারন্যাশনাল ইউনিভার্সিটি বাংলাদেশ"
+                        },
+                        {
+                            "_k": "name:en",
+                            "_v": "American International University Bangladesh"
+                        }
+                    ],
+                    "_id": "586535444",
+                    "_timestamp": "2023-07-19T06:00:08Z"
+                }
+            ]
+        },
+        {
+            "name" : "IMT Atlantique, Francia",
+            "locations" : [
+                {
+                    "tag": [
+                        {
+                            "_k": "amenity",
+                            "_v": "university"
+                        },
+                        {
+                            "_k": "loc_name",
+                            "_v": "Teubreuland"
+                        },
+                        {
+                            "_k": "name",
+                            "_v": "IMT Atlantique"
+                        },
+                        {
+                            "_k": "name:-2017",
+                            "_v": "Télécom Bretagne"
+                        },
+                        {
+                            "_k": "name:2017-",
+                            "_v": "IMT Atlantique"
+                        },
+                        {
+                            "_k": "old_name",
+                            "_v": "Télécom Bretagne"
+                        },
+                        {
+                            "_k": "operator",
+                            "_v": "IMT"
+                        },
+                        {
+                            "_k": "website",
+                            "_v": "https://www.imt-atlantique.fr/lecole/campus/campus-de-brest"
+                        },
+                        {
+                            "_k": "wikidata",
+                            "_v": "Q27962533"
+                        },
+                        {
+                            "_k": "wikipedia",
+                            "_v": "fr:École nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+                        }
+                    ],
+                    "_id": "25284202",
+                    "_timestamp": "2022-07-19T15:57:31Z"
+                },
+                {
+                    "tag": [
+                        {
+                            "_k": "addr:city",
+                            "_v": "Cesson-Sévigné"
+                        },
+                        {
+                            "_k": "addr:housenumber",
+                            "_v": "2"
+                        },
+                        {
+                            "_k": "addr:postcode",
+                            "_v": "35576"
+                        },
+                        {
+                            "_k": "addr:street",
+                            "_v": "Rue de la Chétaigneraie"
+                        },
+                        {
+                            "_k": "amenity",
+                            "_v": "university"
+                        },
+                        {
+                            "_k": "name",
+                            "_v": "IMT Atlantique - École nationale supérieure Mines-Télécom"
+                        },
+                        {
+                            "_k": "old_name",
+                            "_v": "Télécom Bretagne"
+                        },
+                        {
+                            "_k": "operator",
+                            "_v": "IMT"
+                        },
+                        {
+                            "_k": "ref:UAI",
+                            "_v": "0352402W"
+                        },
+                        {
+                            "_k": "short_name",
+                            "_v": "IMT Atlantique"
+                        },
+                        {
+                            "_k": "source",
+                            "_v": "local knowledge"
+                        },
+                        {
+                            "_k": "source:addr",
+                            "_v": "Rennes Métropole"
+                        },
+                        {
+                            "_k": "source:addr:housenumber:ref",
+                            "_v": "47433"
+                        }
+                    ],
+                    "_id": "332598456",
+                    "_timestamp": "2018-11-04T10:15:15Z"
+                }
+            ]
+        },
+        {
+            "name" : "University of Jilin, China",
+            "locations" : [
+                {
+                    "tag": [
+                        {
+                            "_k": "amenity",
+                            "_v": "university"
+                        },
+                        {
+                            "_k": "name",
+                            "_v": "????(????)"
+                        },
+                        {
+                            "_k": "name:en",
+                            "_v": "Jilin University (Chaoyang Campus)"
+                        },
+                        {
+                            "_k": "old_name",
+                            "_v": "??????"
+                        },
+                        {
+                            "_k": "old_name:en",
+                            "_v": "Changchun University of Science and Technology"
+                        },
+                        {
+                            "_k": "old_name:wikidata",
+                            "_v": "Q17499649"
+                        },
+                        {
+                            "_k": "wikidata",
+                            "_v": "Q1432030"
+                        }
+                    ],
+                    "_id": "297554556",
+                    "_timestamp": "2024-06-13T06:19:28Z"
+                }
+            ]
+        },
+        {
+            "name" : "University of Minho, Portugal",
+            "locations" : [
+                {
+                    "tag": [
+                        {
+                            "_k": "amenity",
+                            "_v": "university"
+                        },
+                        {
+                            "_k": "name",
+                            "_v": "Universidade do Minho - Campus de Azur�m/Guimaraes"
+                        },
+                        {
+                            "_k": "note",
+                            "_v": "verificar �rea real da universidade; tra�ado feito com base no bing e dados do OpensStreetMap"
+                        },
+                        {
+                            "_k": "source",
+                            "_v": "bing"
+                        },
+                        {
+                            "_k": "wheelchair",
+                            "_v": "limited"
+                        },
+                        {
+                            "_k": "wikidata",
+                            "_v": "Q29673"
+                        },
+                        {
+                            "_k": "wikipedia",
+                            "_v": "pt:Universidade do Minho"
+                        }
+                    ],
+                    "_id": "182091438",
+                    "_timestamp": "2024-02-18T13:25:50Z"
+                },
+                {
+                    "tag": [
+                        {
+                            "_k": "addr:city",
+                            "_v": "Braga"
+                        },
+                        {
+                            "_k": "addr:postcode",
+                            "_v": "4710-057"
+                        },
+                        {
+                            "_k": "addr:street",
+                            "_v": "Rua da Universidade"
+                        },
+                        {
+                            "_k": "amenity",
+                            "_v": "university"
+                        },
+                        {
+                            "_k": "check_date",
+                            "_v": "2022-10-17"
+                        },
+                        {
+                            "_k": "name",
+                            "_v": "Universidade do Minho - Campus de Gualtar, Braga"
+                        },
+                        {
+                            "_k": "phone",
+                            "_v": "+351 253 601 100"
+                        },
+                        {
+                            "_k": "website",
+                            "_v": "https://www.uminho.pt/"
+                        },
+                        {
+                            "_k": "wheelchair",
+                            "_v": "yes"
+                        },
+                        {
+                            "_k": "wikidata",
+                            "_v": "Q29673"
+                        },
+                        {
+                            "_k": "wikipedia",
+                            "_v": "pt:Universidade do Minho"
+                        }
+                    ],
+                    "_id": "165563981",
+                    "_timestamp": "2024-10-15T10:15:41Z"
+                }
+            ]
+        },
+        {
+            "name" : "University of Trento, Italy",
+            "locations" : [
+                {
+                    "tag": [
+                    {
+                        "_k": "addr:city",
+                        "_v": "Trento"
+                    },
+                    {
+                        "_k": "addr:housenumber",
+                        "_v": "14"
+                    },
+                    {
+                        "_k": "addr:postcode",
+                        "_v": "38122"
+                    },
+                    {
+                        "_k": "addr:street",
+                        "_v": "Via Calepina"
+                    },
+                    {
+                        "_k": "contact:email",
+                        "_v": "staff.rettorato@unitn.it"
+                    },
+                    {
+                        "_k": "contact:instagram",
+                        "_v": "unitrento"
+                    },
+                    {
+                        "_k": "contact:website",
+                        "_v": "https://webapps.unitn.it/du/it/StrutturaGestionale/STO0000006/Persone"
+                    },
+                    {
+                        "_k": "name",
+                        "_v": "Rettorato - Universita di Trento"
+                    },
+                    {
+                        "_k": "office",
+                        "_v": "educational_institution"
+                    },
+                    {
+                        "_k": "operator",
+                        "_v": "Universita degli studi di Trento"
+                    }
+                ],
+                "_id": "2776349948",
+                "_timestamp": "2022-11-09T13:30:30Z"
+                }
+            ]
+        },
+        {
+
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": "node",
+    "node": {
+        "tag": [
+            {
+                "_k": "addr:city",
+                "_v": "Trento"
+            },
+            {
+                "_k": "addr:housenumber",
+                "_v": "14"
+            },
+            {
+                "_k": "addr:postcode",
+                "_v": "38122"
+            },
+            {
+                "_k": "addr:street",
+                "_v": "Via Calepina"
+            },
+            {
+                "_k": "contact:email",
+                "_v": "staff.rettorato@unitn.it"
+            },
+            {
+                "_k": "contact:instagram",
+                "_v": "unitrento"
+            },
+            {
+                "_k": "contact:website",
+                "_v": "https://webapps.unitn.it/du/it/StrutturaGestionale/STO0000006/Persone"
+            },
+            {
+                "_k": "name",
+                "_v": "Rettorato - Università di Trento"
+            },
+            {
+                "_k": "office",
+                "_v": "educational_institution"
+            },
+            {
+                "_k": "operator",
+                "_v": "Università degli studi di Trento"
+            }
+        ],
+        "_id": "2776349948",
+        "_visible": "true",
+        "_version": "3",
+        "_changeset": "128688196",
+        "_timestamp": "2022-11-09T13:30:30Z",
+        "_user": "paganella31",
+        "_uid": "3277757",
+        "_lat": "46.0667750",
+        "_lon": "11.1230581"
+    },
+    "_version": "0.6",
+    "_generator": "openstreetmap-cgimap 2.0.1 (2051426 spike-08.openstreetmap.org)",
+    "_copyright": "OpenStreetMap and contributors",
+    "_attribution": "http://www.openstreetmap.org/copyright",
+    "_license": "http://opendatacommons.org/licenses/odbl/1-0/"
+}

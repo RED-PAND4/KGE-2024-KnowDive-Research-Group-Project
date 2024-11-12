@@ -1,0 +1,107 @@
+[
+    [    {
+            "tag": [
+                {
+                    "_k": "amenity",
+                    "_v": "university"
+                },
+                {
+                    "_k": "loc_name",
+                    "_v": "Teubreuland"
+                },
+                {
+                    "_k": "name",
+                    "_v": "IMT Atlantique"
+                },
+                {
+                    "_k": "name:-2017",
+                    "_v": "Télécom Bretagne"
+                },
+                {
+                    "_k": "name:2017-",
+                    "_v": "IMT Atlantique"
+                },
+                {
+                    "_k": "old_name",
+                    "_v": "Télécom Bretagne"
+                },
+                {
+                    "_k": "operator",
+                    "_v": "IMT"
+                },
+                {
+                    "_k": "website",
+                    "_v": "https://www.imt-atlantique.fr/lecole/campus/campus-de-brest"
+                },
+                {
+                    "_k": "wikidata",
+                    "_v": "Q27962533"
+                },
+                {
+                    "_k": "wikipedia",
+                    "_v": "fr:École nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+                }
+            ],
+            "_id": "25284202",
+            "_timestamp": "2022-07-19T15:57:31Z"
+                
+        },
+        {
+            "tag": [
+                {
+                    "_k": "addr:city",
+                    "_v": "Cesson-Sévigné"
+                },
+                {
+                    "_k": "addr:housenumber",
+                    "_v": "2"
+                },
+                {
+                    "_k": "addr:postcode",
+                    "_v": "35576"
+                },
+                {
+                    "_k": "addr:street",
+                    "_v": "Rue de la Châtaigneraie"
+                },
+                {
+                    "_k": "amenity",
+                    "_v": "university"
+                },
+                {
+                    "_k": "name",
+                    "_v": "IMT Atlantique - École nationale supérieure Mines-Télécom"
+                },
+                {
+                    "_k": "old_name",
+                    "_v": "Télécom Bretagne"
+                },
+                {
+                    "_k": "operator",
+                    "_v": "IMT"
+                },
+                {
+                    "_k": "ref:UAI",
+                    "_v": "0352402W"
+                },
+                {
+                    "_k": "short_name",
+                    "_v": "IMT Atlantique"
+                },
+                {
+                    "_k": "source",
+                    "_v": "local knowledge"
+                },
+                {
+                    "_k": "source:addr",
+                    "_v": "Rennes Métropole"
+                },
+                {
+                    "_k": "source:addr:housenumber:ref",
+                    "_v": "47433"
+                }
+            ],
+                "_id": "332598456",
+                "_timestamp": "2018-11-04T10:15:15Z"
+            }]
+]

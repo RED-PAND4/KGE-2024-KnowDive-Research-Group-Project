@@ -1,0 +1,82 @@
+{   
+    "type" : "way",
+    "way": {
+        "nd": [
+            {
+                "_ref": "3014413924"
+            },
+            {
+                "_ref": "3014413925"
+            },
+            {
+                "_ref": "3014413926"
+            },
+            {
+                "_ref": "3014413927"
+            },
+            {
+                "_ref": "3014413928"
+            },
+            {
+                "_ref": "3014414437"
+            },
+            {
+                "_ref": "3014414438"
+            },
+            {
+                "_ref": "7965417290"
+            },
+            {
+                "_ref": "7965417289"
+            },
+            {
+                "_ref": "3014414439"
+            },
+            {
+                "_ref": "3014413924"
+            }
+        ],
+        "tag": [
+            {
+                "_k": "amenity",
+                "_v": "university"
+            },
+            {
+                "_k": "name",
+                "_v": "吉林大学（朝阳校区）"
+            },
+            {
+                "_k": "name:en",
+                "_v": "Jilin University (Chaoyang Campus)"
+            },
+            {
+                "_k": "old_name",
+                "_v": "长春科技大学"
+            },
+            {
+                "_k": "old_name:en",
+                "_v": "Changchun University of Science and Technology"
+            },
+            {
+                "_k": "old_name:wikidata",
+                "_v": "Q17499649"
+            },
+            {
+                "_k": "wikidata",
+                "_v": "Q1432030"
+            }
+        ],
+        "_id": "297554556",
+        "_visible": "true",
+        "_version": "9",
+        "_changeset": "152615954",
+        "_timestamp": "2024-06-13T06:19:28Z",
+        "_user": "Arthur2e5",
+        "_uid": "3189456"
+    },
+    "_version": "0.6",
+    "_generator": "openstreetmap-cgimap 2.0.1 (2051419 spike-08.openstreetmap.org)",
+    "_copyright": "OpenStreetMap and contributors",
+    "_attribution": "http://www.openstreetmap.org/copyright",
+    "_license": "http://opendatacommons.org/licenses/odbl/1-0/"
+}
