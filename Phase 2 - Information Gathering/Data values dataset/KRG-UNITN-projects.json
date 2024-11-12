@@ -1,0 +1,183 @@
+[
+    {
+        "Name" : "JIDEP: Joint Industrial Data Exchange Platform",
+        "Start Date" : "1 June 2022",
+        "End Date" : "31 May 2025",
+        "Coordinator" : "Fausto Giunchiglia",
+        "Partners" : [ "Brunel University London", "Arteevo Technologies Ltd", "University Degli Studi Di Trento", "Technovative Solutions Ltd", "The Chancellor Masters And Scholars Of University Of Cambridge", "Adscensus", "MB", "TPI Composites", "ALMAS Partecipazioni Industriali S.P.A.", "Centro Ricerche Fiat Scpa", "Precision Varionic International Limited", "Zorlu Enerji Elektrik Uretim As", "Univerzita of Pardubice", "Fachhochschule Vorarlberg GMBH"],
+        "Members partecipating" : ["Fausto Giuchiglia","Mayukh Bagchi","Simone Bocca","Alessio Zamboni"],
+        "Related Topics" : ["Knowledge Diversity"],
+        "Funding" : "Horizon Europe Research and Innovation, Grant agreement ID: 101058732",
+        "Keywords" : "N/A"
+        
+    },
+    {
+        "Name" : "ISTAT - SmartSurveys",
+        "Start Date" : "June 2021",
+        "End Date" : "June 2026",
+        "Coordinator" : "N/A",
+        "Partners" : [ "ISTAT", "Dipartimento di Sociologia dell’Università di Trento", "Dipartimento di Ingegneria e Scienza dell’informazione dell’Università di Trento"],
+        "Members partecipating" : ["Matteo Busso", "Ronald Chenu Abente", "Marcelo Dario Rodas Brites", "Can Gunel"],
+        "Related Topics" : ["Human- Machine symbiosis"],
+        "Funding" : "Self-funded by the partners",
+        "Keywords" : "Smart Surveys, Pervasive Systems, Data Streams, Modelling and Understanding Human Behavior, Machine Learning"
+        
+    },
+    {
+        "Name" : "Delphi – Discovering Life Patterns",
+        "Start Date" : "01/09/2021",
+        "End Date" : "31/08/2023",
+        "Coordinator" : "N/A",
+        "Partners" : [],
+        "Members partecipating" : ["Matteo Busso", "Ronald Chenu Abente", "Marcelo Dario Rodas Brites", "Can Gunel"],
+        "Related Topics" : ["Human- Machine symbiosis"],
+        "Funding" : "Programma MUR anno 2017, Prot. 2017F3LMRF, Costo totale 919,790, Finanziamento UniTn.",
+        "Keywords" : "N/A"
+        
+    },
+    {
+        "Name" : "Wenet - The Internet of Us",
+        "Start Date" : "January 2019",
+        "End Date" : "December 2022",
+        "Coordinator" : "Fausto Giunchiglia",
+        "Partners" : ["UNIVERSITY OF TRENTO", "ANOIKTO PANEPISTIMIO KYPROU (OPEN UNIVERSITY OF CYPRUS)", "BEN-GURION UNIVERSITY OF THE NEGEV", "MARTEL GMBH, U-HOPPER SRL", "AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS", "FONDATION DE L'INSTITUT DE RECHERCHE", "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE", "EBERHARD KARLS UNIVERSITAET TUEBINGEN", "AALBORG UNIVERSITET", "UNIVERSIDAD CATOLICA NUESTRA SENORA DE LA ASUNCION", "NATIONAL UNIVERSITY OF MONGOLIA", "AMRITA VISHWA VIDYAPEETHAM", "INSTITUTO POTOSINO DE INVESTIGACION CIENTIFICA Y TECNOLOGIA", "JILIN UNIVERSITY"],
+        "Members partecipating" : ["Fausto Giuchiglia", "Ronald Chenu-Abente", "Roberto Bona", "Marcelo Dario Rodas Britez", "Matteo Busso", "Wanyi Zhang", "Sergio de Cristofaro", "Andrea Bontempelli"],
+        "Related Topics" : ["Human-Machine Symbiosis", "Artificial Human Cognition"],
+        "Funding" : "European Union - Horizon 2020",
+        "Keywords" : "Socially and Perception-aware Knowledge, Knowledge Management, Language Processing, Domain Development, Data Integration, Machine Learning, Artificial Intelligence"
+        
+    },
+    {
+        "Name" : "InteropEHRate: Health Records in People's Hands Across Europe",
+        "Start Date" : "1 January 2019",
+        "End Date" : "30 June 2022",
+        "Coordinator" : "Engineering – Ingegneria Informatica S.p.A. (Italy) / University of Trento",
+        "Partners" : ["Andaman7 Software (Belgium)", "EHTEL – European Health Telematics Association (Belgium)", "DTCA Hygeia – Diagnostic and Therapeutic Center of Athens (Greece)", "University of Vienna (Austria)", "EFN – European Federation of Nurses Associations (Belgium)", "FTGM – Fondazione Toscana Gabriele Monasterio per la Ricerca Medica e di Sanità Pubblica (Italy)", "CHU de Liege – Centre Hospitalier Universitaire de Liège (Belgium)", "UBITECH Limited (Cyprus)", "UPRC – University of Piraeus Research Center (Greece)", "SCUBA – “Bagdasar-Arseni” Clinical Emergency Hospital of Bucharest (Romania)", "SIVECO Romania S.A. (Romania)", "Fraunhofer ISST – Institute for Software and Systems Engineering (Germany)", "ISA – Iatrikos Syllogos Athinon (Greece)", "Byte Computer S.A. (Greece)"],
+        "Members partecipating" : ["Gábor Bella", "Subhashis Das", "Simone Bocca"],
+        "Related Topics" : ["Language Diversity"],
+        "Funding" : "EU H2020",
+        "Keywords" : "Multilingual Lexical Semantics, Multilingual NLP, Knowledge-Based Data Integration, Domain Knowledge, Health Data Integration"
+        
+    },
+    {
+        "Name" : "Cyprus Center for Algorithmic Transparency (CyCAT)",
+        "Start Date" : "November 2018",
+        "End Date" : "(Ongoing)",
+        "Coordinator" : "Open University of Cyprus",
+        "Partners" : ["University of Sheffield", "University of Haifa", "University of Trento", "University of Edinburgh"],
+        "Members partecipating" : ["Fausto Giunchiglia", "Nandu Chandran Nair"],
+        "Related Topics" : ["Language Diversity", "Knowledge Diversity"],
+        "Funding" : "European Union’s Horizon 2020 research and innovation programme under grant agreement No. 810105",
+        "Keywords" : null
+        
+    },
+    {
+        "Name" : "Digital University",
+        "Start Date" : "January 2014",
+        "End Date" : "(Ongoing)",
+        "Coordinator" : "Vincenzo Maltese",
+        "Partners" : ["University of Trento"],
+        "Members partecipating" : ["Alessio Zamboni", "Gabor Bella", "Vincenzo Maltese", "Stella Margonar"],
+        "Related Topics" : [" Knowledge Diversity"],
+        "Funding" : "University of Trento",
+        "Keywords" : "Data Integration"
+        
+    },
+    {
+        "Name" : "WhiteRabbit - Private Data Manager",
+        "Start Date" : "April 2017",
+        "End Date" : "July 2018",
+        "Coordinator" : "UNIVERSITY OF TRENTO",
+        "Partners" : ["META GROUP SRL, Italy"],
+        "Members partecipating" : ["Fausto Giunchiglia", "Ronald Chenu-Abente"],
+        "Related Topics" : ["Human-Machine Symbiosis"],
+        "Funding" : "H2020-EU.1.2.1.",
+        "Keywords" : "Privacy management, Data Integration, Access control, Knowledge Representation"
+        
+    },
+    {
+        "Name" : "SmartSociety - Hybrid and Diversity-Aware Collective Adaptive Systems",
+        "Start Date" : "January 2013",
+        "End Date" : "December 2016",
+        "Coordinator" : "UNIVERSITY OF TRENTO",
+        "Partners" : [" TECHNISCHE UNIVERSITAET WIEN", "Austria", "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH", "Germany", "BEN-GURION UNIVERSITY OF THE NEGEV", "Israel", "IMAGINARY SRL", "Italy", "U-HOPPER SRL", "Italy", "KARLSTADS UNIVERSITET", "Sweden", "THE CHANCELLOR", "MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD", "United Kingdom", "UNIVERSITY OF SOUTHAMPTON", "United Kingdom", "THE UNIVERSITY OF EDINBURGH", "United Kingdom"],
+        "Members partecipating" : ["Fausto Giunchiglia", "Ronald Chenu-Abente"],
+        "Related Topics" : ["Human-Machine Symbiosis", "Artificial Human Cognition"],
+        "Funding" : "FP7-ICT EU",
+        "Keywords" : "Socially and Perception-aware Knowledge, Privacy protection, Knowledge Management, Domain Development, Data Integration, Machine Learning, Artificial Intelligence"
+        
+    },
+    {
+        "Name" : "Eurostat",
+        "Start Date" : "December 2018",
+        "End Date" : "April 2019",
+        "Coordinator" : "Mattia Zeni",
+        "Partners" : ["European Commission (Eurostat)", "University of Trento"],
+        "Members partecipating" : ["Roberto Bona", "Mattia Zeni, Enrico Bignotti"],
+        "Related Topics" : ["Human-Machine Symbiosis"],
+        "Funding" : " European Commission (Eurostat)",
+        "Keywords" : "Sensor Data Collection, Big Data, Big Data Analysis"
+        
+    },
+    {
+        "Name" : "SPRINT - Graph-Based Data Federation for Healthcare Data Science",
+        "Start Date" : "April 2019",
+        "End Date" : "December 2019",
+        "Coordinator" : "University of Edinburgh",
+        "Partners" : ["University of Trento", "University of Aberdeen", "NSS National Health Services of Scotland", "University of Dundee"],
+        "Members partecipating" : ["Gábor Bella", "Subhashis Das", "Simone Bocca"],
+        "Related Topics" : ["Language Diversity", "Knowledge Diversity"],
+        "Funding" : "HDR UK SPRINT",
+        "Keywords" : "Knowledge-Based Data Integration, Domain Knowledge, Health Data Integration"
+        
+    },
+    {
+        "Name" : "Safe Haven 1 - Healthcare Data Safe Havens",
+        "Start Date" : "January 2016",
+        "End Date" : "December 2017",
+        "Coordinator" : "University of Edinburgh, UK",
+        "Partners" : ["The DataLab (UK)", "Engineering – Ingegneria Informatica S.p.A. (Italy)", "University of Trento", "NSS National Health Services of Scotland (UK)"],
+        "Members partecipating" : ["Gábor Bella", "Subhashis Das", "David Leoni"],
+        "Related Topics" : ["Language Diversity"],
+        "Funding" : "EIT Digital",
+        "Keywords" : "Knowledge-Based Data Integration, Domain Knowledge, Health Data Integration"
+        
+    },
+    {
+        "Name" : "Safe Haven 2 - Digital Health Data Federation",
+        "Start Date" : "January 2016",
+        "End Date" : "December 2017",
+        "Coordinator" : "The DataLab, UK",
+        "Partners" : ["University of Edinburgh (UK)", "Engineering – Ingegneria Informatica S.p.A. (Italy)", "University of Trento", "NSS National Health Services of Scotland (UK)"],
+        "Members partecipating" : ["Gábor Bella", "Subhashis Das", "David Leoni"],
+        "Related Topics" : ["Language Diversity"],
+        "Funding" : "EIT Digital",
+        "Keywords" : "Knowledge-Based Data Integration, Domain Knowledge, Health Data Integration"
+        
+    },
+    {
+        "Name" : "SHIB - Safe Haven in a Box",
+        "Start Date" : "April 2017",
+        "End Date" : "December 2017",
+        "Coordinator" : "University of Trento, Fausto Giunchiglia",
+        "Partners" : [" NSS National Health Services of Scotland", "University of Edinburgh"],
+        "Members partecipating" : ["Gábor Bella", "Subhashis Das", "David Leoni"],
+        "Related Topics" : ["Language Diversity", "Knowledge Diversity"],
+        "Funding" : "University of Edinburgh",
+        "Keywords" : "Language Diversity, Human-Machine Symbiosis, Research and Innovation, Unity Through Diversity"
+        
+    },
+    {
+        "Name" : "QROWD - Because Big Data Integration is Humanly Possible",
+        "Start Date" : "December 2016",
+        "End Date" : "November 2019",
+        "Coordinator" : "UNIVERSITY OF SOUTHAMPTON, UK",
+        "Partners" : ["ATOS SPAIN SA", "Spain", "TOMTOM DEVELOPMENT GERMANY GMBH", "Germany", "COMUNE DI TRENTO", "Italy", "AI4BD GMBH", "Switzerland", "INMARK EUROPA SA", "Spain", "INSTITUT FUR ANGEWANDTE INFORMATIK (INFAI)", "Germany", "UNIVERSITY OF TRENTO", "Italy", "TOMTOM LOCATION TECHNOLOGY GERMANY", "Germany"],
+        "Members partecipating" : ["Mattia Zeni", "Enrico Bignotti", "Ronald Chenu-Abente", "Fausto Giunchiglia"],
+        "Related Topics" : ["Knowledge Diversity", "Human-Machine Symbiosis"],
+        "Funding" : "H2020-EU.2.1.1.",
+        "Keywords" : "Socially and Perception-aware Knowledge, Data Integration, Machine Learning, Artificial Intelligence, Quality in Mobile Crowdsourcing"
+        
+    }
+    
+    ]
