@@ -1,0 +1,334 @@
+[
+    {
+      "id": "u7n5a3p9",
+      "name": "Fausto",
+      "surname": "Giunchiglia",
+      "role": "Coordinator",
+      "research_topic": "KnowDive",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": "DISI"
+    },
+    {
+      "id": "q3c8v6r1",
+      "name": "Adriano",
+      "surname": "Tavares",
+      "role": "External Member",
+      "research_topic": "Artificial Human Cognition",
+      "support_role": null,
+      "university": "University of Minho",
+      "department": null
+    },
+    {
+      "id": "w2b1k5t9",
+      "name": "Ivano",
+      "surname": "Bison",
+      "role": "External Member",
+      "research_topic": "Human-Machine Symbiosis",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": "Department of Sociology and Social Research"
+    },
+    {
+      "id": "r9m6z4p2",
+      "name": "Hao",
+      "surname": "Xu",
+      "role": "External Member",
+      "research_topic": "Language Diversity, Human-Machine Symbiosis",
+      "support_role": null,
+      "university": "University of Jilin",
+      "department": "College of Computer Science and Technology"
+    },
+    {
+      "id": "y5k3b1w8",
+      "name": "Khandaker Tabin",
+      "surname": "Hasan",
+      "role": "External Member",
+      "research_topic": "Human-Computer Interaction (HCI)",
+      "support_role": "Teaching HCI, ML, DS",
+      "university": "American International University - Bangladesh",
+      "department": null
+    },
+    {
+      "id": "a6f0x9l7",
+      "name": "Gabor",
+      "surname": "Bella",
+      "role": "External Member",
+      "research_topic": "Language Diversity",
+      "support_role": null,
+      "university": "IMT Atlantique",
+      "department": "Department of Computer Science"
+    },
+    {
+      "id": "z1t7c4o5",
+      "name": "Alessio",
+      "surname": "Zamboni",
+      "role": "Software Engineer",
+      "research_topic": "Artificial Human Cognition",
+      "support_role": "Code Repository Coordinator, Knowledge Diversity Coordinator",
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "m3y2k8r4",
+      "name": "Yamini",
+      "surname": "Chandrashekar",
+      "role": "Thesis Student",
+      "research_topic": "Language Diversity",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "p8b7n6q3",
+      "name": "Rui",
+      "surname": "Zhang",
+      "role": "External Member",
+      "research_topic": "Knowledge Diversity",
+      "support_role": "Teaching (Distribute Knowledge and Data Integration)",
+      "university": "University of Jilin",
+      "department": "College of Computer Science and Technology"
+    },
+    {
+      "id": "f2h4k1v7",
+      "name": "Andrea",
+      "surname": "Bontempelli",
+      "role": "PhD Student",
+      "research_topic": "Artificial Human Cognition, Human-Machine Symbiosis",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "k93ds1f0",
+      "name": "Kayongo",
+      "surname": "Ivan",
+      "role": "PhD Student",
+      "research_topic": "Human-Machine Symbiosis",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "p9a8k4w2",
+      "name": "Xiaolei",
+      "surname": "Diao",
+      "role": "PhD Student",
+      "research_topic": "Knowledge Diversity",
+      "support_role": "Website Coordinator, Social Media Coordinator",
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "v7s4b3z0",
+      "name": "Shandy",
+      "surname": "Darma",
+      "role": "Master Student",
+      "research_topic": "Language Diversity",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "z2n0f1c8",
+      "name": "Haonan",
+      "surname": "Zhao",
+      "role": "PhD Student",
+      "research_topic": "Human-Machine Symbiosis",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "q4p3t6a9",
+      "name": "Ali",
+      "surname": "Hamza",
+      "role": "Senior Researcher",
+      "research_topic": "Human-Machine Symbiosis",
+      "support_role": "Software Engineer",
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "m6y1h8b2",
+      "name": "Hadi",
+      "surname": "Khalilia",
+      "role": "PhD Student",
+      "research_topic": "Language Diversity",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "l5f7c3d1",
+      "name": "Leonardo Javier",
+      "surname": "Malcotti",
+      "role": "Master Student",
+      "research_topic": "Human-Machine Symbiosis",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "s9b4z2n6",
+      "name": "Qi",
+      "surname": "Zang",
+      "role": "Visiting Student",
+      "research_topic": "Artificial Human Cognition",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "x1j9d0p7",
+      "name": "Ivan",
+      "surname": "Donà",
+      "role": "Internship Student",
+      "research_topic": "Knowledge Diversity",
+      "support_role": null,
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "a2r8y6k3",
+      "name": "Roy Alia",
+      "surname": "Asiku",
+      "role": "Senior Researcher",
+      "research_topic": "Human-Machine Symbiosis",
+      "support_role": "Software Engineer",
+      "university": "University of Trento",
+      "department": null
+    },
+    {
+      "id": "f1g6h7j8k9l",
+      "name": "Rui",
+      "surname": "Duro",
+      "role": "PhD Student",
+      "research topic": "Artificial Human Cognition",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "a3b9c5d8e1j",
+      "name": "Kubra",
+      "surname": "Korkmaz",
+      "role": "Internship Student",
+      "research topic": "Language Diversity",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "g2h4j5k7l8m",
+      "name": "Alessia",
+      "surname": "Angeli",
+      "role": "Internship Student",
+      "research topic": "Human-Machine Symbiosis",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "n1p2o3q4r5s",
+      "name": "Giulia",
+      "surname": "Gaggero",
+      "role": "Host Research Collaborator",
+      "research topic": "Artificial Human Cognition",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "t6u8i9o0p1q",
+      "name": "Alessio",
+      "surname": "Novel",
+      "role": "Internship Student",
+      "research topic": "Knowledge Diversity",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "v4w6x9y0z1a",
+      "name": "Rafael",
+      "surname": "Samorinha",
+      "role": "PhD Student",
+      "research topic": "Human-Machine Symbiosis",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "b2c3d5e7f9g",
+      "name": "Virendra",
+      "surname": "Mehta",
+      "role": "PhD Student",
+      "research topic": "Language Diversity",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "h5j7k8l0m9n",
+      "name": "Munkhdelger",
+      "surname": "Bayanjargal",
+      "role": "Internship Student",
+      "research topic": "Human-Machine Symbiosis",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "p3q5r7s8t0u",
+      "name": "João Manuel",
+      "surname": "Gonçalves Silva",
+      "role": "PhD Student",
+      "research topic": "Artificial Human Cognition",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "v5w6x7y9z2a",
+      "name": "Patrik Calin",
+      "surname": "Maniu",
+      "role": "Internship Student",
+      "research topic": "Language Diversity",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "b1c3d4f5g7h",
+      "name": "Rodrigo Alessandro",
+      "surname": "Salas Ichocán",
+      "role": "Internship Student",
+      "research topic": "",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "i2j4k6l7m8n",
+      "name": "Dragos",
+      "surname": "Gruia",
+      "role": "Senior researcher",
+      "research topic": "Artificial Human Cognition",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    },
+    {
+      "id": "o3p5q7r8s0t",
+      "name": "Tetiana",
+      "surname": "Bihun",
+      "role": "DataScientia",
+      "research topic": "Content Creator",
+      "support role": "",
+      "university": "University of Trento",
+      "department": ""
+    }
+  ]
+  
+  
