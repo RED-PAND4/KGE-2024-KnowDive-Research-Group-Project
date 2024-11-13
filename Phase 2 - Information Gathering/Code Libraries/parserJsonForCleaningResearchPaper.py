@@ -7,7 +7,7 @@ def extract_names(source_json):
         data = json.load(file)
     
     # Extract the list of names (assuming each entity has 'name' and 'surname' fields)
-    names = [f"{item['name']} {item['surname']}" for item in data]
+    names = [f"{item['Name']}" for item in data]
     return names
 
 # Function to filter the target JSON by matching name
@@ -22,8 +22,14 @@ def filter_by_names(target_json, names_list):
     # Filter entities that match any name in the names_list
     filtered_data = [
         item for item in data_list
-        if f"{item['nome']} {item['cognome']}" in names_list
+        if f"{item['titolo']}" in names_list
     ]
+
+    #filtered_data = []
+    #for item in data_list:
+        # Check if any author in the 'autori' field matches a name in names_list
+    #    if any(f"{author['nome']} {author['cognome']}" in names_list for author in item.get('autori', [])):
+    #        filtered_data.append(item)
     
     # Update the 'data' field with the filtered list
     data['value']['data'] = filtered_data
@@ -42,11 +48,12 @@ def drop_fields(data):
     new_data = []
     for entry in data_list:
         new_entry = {
-            "id" : entry["id"],
-            "nome" : entry["nome"],
-            "cognome" : entry["cognome"],
-            "telefono" : entry["telefono"],
-            "posizioni" : entry["posizioni"]
+            "titolo" : entry["titolo"],
+            "tipo" : entry["tipo"],
+            "anno" : entry["anno"],
+            "lingua" : entry["lingua"],
+            "autori" : entry["autori"],
+            "file" : entry["file"]
         }
         new_data.append(new_entry)
 
@@ -58,9 +65,9 @@ def save_filtered_data(filtered_data, output_file):
         json.dump(filtered_data, file, indent=4)
 
 # Example usage
-source_json = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/KRG-UNITN-member.json'  # JSON file with names
-target_json = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/not-cleaned dataset/DU-UNITN-people.json'  # JSON file to be filtered
-output_file = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/Cleaned-DU-UNITN-member.json'  # File to save filtered data
+source_json = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/KRG-UNITN-research-products/KRG-UNITN-research-products-KnowDiver.json'  # JSON file with names
+target_json = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/not-cleaned dataset/Research paper/DU-UNITN-mindprod-2016.json'  # JSON file to be filtered
+output_file = '/home/deborah/Documenti/uni magistrale/KGE/KGE-Project/Phase 2 - Information Gathering/Data values dataset/Cleaned Research paper/Cleaned-DU-UNITN-esearch-prducts-KnowDiver-2016.json'  # File to save filtered data
 
 # Extract names from the source file
 names_list = extract_names(source_json)

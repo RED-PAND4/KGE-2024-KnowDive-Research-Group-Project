@@ -1,0 +1,35 @@
+[
+    {
+        "titolo": "Lexical diversity in kinship across languages and dialects",
+        "tipo": "articolo su rivista",
+        "anno": 2023,
+        "lingua": [
+            "inglese"
+        ],
+        "autori": [
+            {
+                "nome": "Hadi Mahmoud Yousef",
+                "cognome": "Khalilia",
+                "id": "d3fc863f2ec69757a24bb36eaef8f112"
+            },
+            {
+                "nome": "Abed Alhakim Ali Kayed",
+                "cognome": "Freihat",
+                "id": ""
+            },
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            }
+        ],
+        "file": {
+            "nome": "fpsyg-14-1229697_compressed.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/399391/738594/fpsyg-14-1229697_compressed.pdf",
+            "licenza": "creative commons by",
+            "formato": "application/pdf",
+            "versione": "versione editoriale",
+            "openAccess": "true"
+        }
+    }
+]

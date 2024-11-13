@@ -1,0 +1,35 @@
+[
+    {
+        "titolo": "CogNet: a Large-Scale Cognate Database",
+        "tipo": "articolo in conferenza",
+        "anno": 2019,
+        "lingua": [
+            "inglese"
+        ],
+        "autori": [
+            {
+                "nome": "Khuyagbaatar",
+                "cognome": "Batsuren",
+                "id": ""
+            },
+            {
+                "nome": "Gabor",
+                "cognome": "Bella",
+                "id": "42e98ad405ca64edcf8c34ed73a1379d"
+            },
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            }
+        ],
+        "file": {
+            "nome": "2019-ACL-Cognet.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/244265/283587/2019-ACL-Cognet.pdf",
+            "licenza": "tutti i diritti riservati",
+            "formato": "application/pdf",
+            "versione": "versione editoriale",
+            "openAccess": "true"
+        }
+    }
+]

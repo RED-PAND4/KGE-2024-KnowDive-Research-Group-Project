@@ -1,0 +1,45 @@
+[
+    {
+        "titolo": "Mobile social media usage and academic performance",
+        "tipo": "articolo su rivista",
+        "anno": 2018,
+        "lingua": [
+            "inglese"
+        ],
+        "autori": [
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            },
+            {
+                "nome": "Mattia",
+                "cognome": "Zeni",
+                "id": ""
+            },
+            {
+                "nome": "Elisa",
+                "cognome": "Gobbi",
+                "id": ""
+            },
+            {
+                "nome": "Enrico",
+                "cognome": "Bignotti",
+                "id": ""
+            },
+            {
+                "nome": "Ivano",
+                "cognome": "Bison",
+                "id": "8ca436c6d4542a583fa596aef556c9af"
+            }
+        ],
+        "file": {
+            "nome": "Manuscript.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/205214/453145/Manuscript.pdf",
+            "licenza": "tutti i diritti riservati",
+            "formato": "application/pdf",
+            "versione": "preprint",
+            "openAccess": "true"
+        }
+    }
+]

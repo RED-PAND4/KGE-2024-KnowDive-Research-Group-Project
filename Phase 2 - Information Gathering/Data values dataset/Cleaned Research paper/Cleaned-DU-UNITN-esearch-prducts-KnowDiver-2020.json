@@ -1,0 +1,35 @@
+[
+    {
+        "titolo": "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge",
+        "tipo": "articolo in conferenza",
+        "anno": 2020,
+        "lingua": [
+            "inglese"
+        ],
+        "autori": [
+            {
+                "nome": "Gabor",
+                "cognome": "Bella",
+                "id": "42e98ad405ca64edcf8c34ed73a1379d"
+            },
+            {
+                "nome": "Subhashis",
+                "cognome": "Das",
+                "id": ""
+            },
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            }
+        ],
+        "file": {
+            "nome": "FAIA-325-FAIA200469.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/263141/526274/FAIA-325-FAIA200469.pdf",
+            "licenza": "creative commons by-nc",
+            "formato": "application/pdf",
+            "versione": "versione editoriale",
+            "openAccess": "true"
+        }
+    }
+]

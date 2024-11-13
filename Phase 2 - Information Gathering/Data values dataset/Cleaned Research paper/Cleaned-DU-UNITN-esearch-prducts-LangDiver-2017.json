@@ -1,0 +1,35 @@
+[
+    {
+        "titolo": "Understanding and Exploiting Language Diversity",
+        "tipo": "articolo in conferenza",
+        "anno": 2017,
+        "lingua": [
+            "inglese"
+        ],
+        "autori": [
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            },
+            {
+                "nome": "Khuyagbaatar",
+                "cognome": "Batsuren",
+                "id": ""
+            },
+            {
+                "nome": "Gabor",
+                "cognome": "Bella",
+                "id": "42e98ad405ca64edcf8c34ed73a1379d"
+            }
+        ],
+        "file": {
+            "nome": "0560.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/176893/526101/0560.pdf",
+            "licenza": "tutti i diritti riservati",
+            "formato": "application/pdf",
+            "versione": "versione editoriale",
+            "openAccess": "false"
+        }
+    }
+]

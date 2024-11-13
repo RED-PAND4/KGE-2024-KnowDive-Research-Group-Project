@@ -1,0 +1,30 @@
+[
+    {
+        "titolo": "On Knowledge Diversity",
+        "tipo": "articolo in conferenza",
+        "anno": 2019,
+        "lingua": [
+            "inglese"
+        ],
+        "autori": [
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            },
+            {
+                "nome": "Mattia",
+                "cognome": "Fumagalli",
+                "id": ""
+            }
+        ],
+        "file": {
+            "nome": "paper-WOMOCOE2.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/244269/376261/paper-WOMOCOE2.pdf",
+            "licenza": "creative commons by",
+            "formato": "application/pdf",
+            "versione": "versione editoriale",
+            "openAccess": "true"
+        }
+    }
+]
