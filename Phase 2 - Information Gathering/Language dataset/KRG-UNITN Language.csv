@@ -1,0 +1,39 @@
+Dataset name,dataset description,field  name in dataset,field description
+KRG-UNITN-Member,Dataset containing information on all the member of the Knowdive Reserch Group,id ,Unique identifier of the person
+,,name,First name
+,,surname,Last name
+,,role ,Role related to the university
+,,researchTopic ,Topic in which they work
+,,supportRole ,Role related to the Knowdive research group
+,,university ,University they are affiliate with
+,,department ,Which department they are part of
+KRG-UNITN-Alumni,Dataset containing information on all the alumni of the Knowdive Reserch Group,id ,Unique identifier of the person
+,,name, First name
+,,surname ,Last name
+,,role ,Role related to the university they had
+,,university ,University they are affiliate with
+,,endDate ,Date in which they left the Knowdive Research Group
+KRG-UNITN-Research-Topic,Dataset containing information on the Research topic of the Knowdive Reserch Group,name ,The name of the research topic
+,,Lead by ,Name of the leading member on the topic
+,,Members ,list of members that work on the topic
+,,Direction ,listed directions on the Knowdive site
+,,sub-topics ,listed sub-topics on the Knowdive site
+,,projects,listed projects on the Knowdive site
+KRG-UNITN-Products,Dataset containing information on the Products of the Knowdive Reserch Group,name ,The name of the research product
+,,publication ,Where the product is available
+,,authors ,The authors of the product
+,,links ,A link to the product
+KRG-UNITN-Projects,Dataset containing information on the Projects of the Knowdive Reserch Group,name ,The name of the project
+,,start Date ,When the project started
+,,end Date ,When the project ended
+,,coordinator ,The Person or University coordinating the project
+,,partners ,The list of Universities or Organizations partecipating in the project
+,,members Partecipating ,The list of members of the KRG taking part in the project
+,,related Topics ,List of the KRG Research Topics related to the project
+,,funding ,Organization or Program funding the project
+,,keywords ,List of keywords regarding the project
+KRG-UNITN-Courses,Dataset containing information on the Course teached by a member of the Knowdive Reserch Group,name ,The name of the course
+,,teachers ,The listed teachers for the course
+,,year ,The year the course
+,,university ,The university that hosted the course
+,,webpage ,The webpage of the course
