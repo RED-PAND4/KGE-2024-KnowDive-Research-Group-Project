@@ -29,7 +29,8 @@
                         }
                     ],
                     "_id": "586535444",
-                    "_timestamp": "2023-07-19T06:00:08Z"
+                    "_timestamp": "2023-07-19T06:00:08Z",
+                    "latitude/longitude" : "23.821888/90.427381"
                 }
             ]
         },
@@ -80,7 +81,8 @@
                         }
                     ],
                     "_id": "25284202",
-                    "_timestamp": "2022-07-19T15:57:31Z"
+                    "_timestamp": "2022-07-19T15:57:31Z",
+                    "latitude/longitude" : "48.360737/-4.571876"
                 },
                 {
                     "tag": [
@@ -138,7 +140,8 @@
                         }
                     ],
                     "_id": "332598456",
-                    "_timestamp": "2018-11-04T10:15:15Z"
+                    "_timestamp": "2018-11-04T10:15:15Z",
+                    "latitude/longitude" : "48.1202251/-1.6290429"
                 }
             ]
         },
@@ -177,7 +180,8 @@
                         }
                     ],
                     "_id": "297554556",
-                    "_timestamp": "2024-06-13T06:19:28Z"
+                    "_timestamp": "2024-06-13T06:19:28Z",
+                    "latitude/longitude" : "43.880890/125.301111"
                 }
             ]
         },
@@ -192,11 +196,11 @@
                         },
                         {
                             "_k": "name",
-                            "_v": "Universidade do Minho - Campus de Azur�m/Guimaraes"
+                            "_v": "Universidade do Minho - Campus de Azurém/Guimaraes"
                         },
                         {
                             "_k": "note",
-                            "_v": "verificar �rea real da universidade; tra�ado feito com base no bing e dados do OpensStreetMap"
+                            "_v": "verificar àrea real da universidade; traçado feito com base no bing e dados do OpensStreetMap"
                         },
                         {
                             "_k": "source",
@@ -216,7 +220,8 @@
                         }
                     ],
                     "_id": "182091438",
-                    "_timestamp": "2024-02-18T13:25:50Z"
+                    "_timestamp": "2024-02-18T13:25:50Z",
+                    "latitude/longitude" : "41.452691/-8.290193"
                 },
                 {
                     "tag": [
@@ -266,7 +271,8 @@
                         }
                     ],
                     "_id": "165563981",
-                    "_timestamp": "2024-10-15T10:15:41Z"
+                    "_timestamp": "2024-10-15T10:15:41Z",
+                    "latitude/longitude" : "41.561811/-8.397412"
                 }
             ]
         },
@@ -317,7 +323,8 @@
                     }
                 ],
                 "_id": "2776349948",
-                "_timestamp": "2022-11-09T13:30:30Z"
+                "_timestamp": "2022-11-09T13:30:30Z",
+                "latitude/longitude" : "46.0667750/11.1230581"
                 }
             ]
         },
