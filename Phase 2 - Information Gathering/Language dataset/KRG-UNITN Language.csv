@@ -7,6 +7,7 @@ KRG-UNITN-Member,Dataset containing information on all the member of the Knowdiv
 ,,supportRole ,Role related to the Knowdive research group
 ,,university ,University they are affiliate with
 ,,department ,Which department they are part of
+,,email ,Person's email
 KRG-UNITN-Alumni,Dataset containing information on all the alumni of the Knowdive Reserch Group,id ,Unique identifier of the person
 ,,name, First name
 ,,surname ,Last name
