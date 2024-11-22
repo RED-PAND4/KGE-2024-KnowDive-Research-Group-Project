@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Understanding and Exploiting Language Diversity",
+        "type": "articolo in conferenza",
+        "year": 2017,
+        "language": [
+            "inglese"
+        ],
+        "authors": [
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            },
+            {
+                "nome": "Khuyagbaatar",
+                "cognome": "Batsuren",
+                "id": ""
+            },
+            {
+                "nome": "Gabor",
+                "cognome": "Bella",
+                "id": "42e98ad405ca64edcf8c34ed73a1379d"
+            }
+        ],
+        "file": {
+            "nome": "0560.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/176893/526101/0560.pdf",
+            "licenza": "tutti i diritti riservati",
+            "formato": "application/pdf",
+            "versione": "versione editoriale",
+            "openAccess": "false"
+        }
+    },
+    {
+        "name": "CogNet: a Large-Scale Cognate Database",
+        "type": "articolo in conferenza",
+        "year": 2019,
+        "language": [
+            "inglese"
+        ],
+        "authors": [
+            {
+                "nome": "Khuyagbaatar",
+                "cognome": "Batsuren",
+                "id": ""
+            },
+            {
+                "nome": "Gabor",
+                "cognome": "Bella",
+                "id": "42e98ad405ca64edcf8c34ed73a1379d"
+            },
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            }
+        ],
+        "file": {
+            "nome": "2019-ACL-Cognet.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/244265/283587/2019-ACL-Cognet.pdf",
+            "licenza": "tutti i diritti riservati",
+            "formato": "application/pdf",
+            "versione": "versione editoriale",
+            "openAccess": "true"
+        }
+    },
+    {
+        "name": "Lexical diversity in kinship across languages and dialects",
+        "type": "articolo su rivista",
+        "year": 2023,
+        "language": [
+            "inglese"
+        ],
+        "authors": [
+            {
+                "nome": "Hadi Mahmoud Yousef",
+                "cognome": "Khalilia",
+                "id": "d3fc863f2ec69757a24bb36eaef8f112"
+            },
+            {
+                "nome": "Abed Alhakim Ali Kayed",
+                "cognome": "Freihat",
+                "id": ""
+            },
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            }
+        ],
+        "file": {
+            "nome": "fpsyg-14-1229697_compressed.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/399391/738594/fpsyg-14-1229697_compressed.pdf",
+            "licenza": "creative commons by",
+            "formato": "application/pdf",
+            "versione": "versione editoriale",
+            "openAccess": "true"
+        }
+    }
+]

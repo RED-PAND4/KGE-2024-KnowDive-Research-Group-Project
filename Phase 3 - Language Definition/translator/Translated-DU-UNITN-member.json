@@ -1,0 +1,218 @@
+[
+    {
+        "id": "7fd9607fb38787b37d823bc321cc95e0",
+        "name": "Haonan",
+        "surname": "Zhao",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "42e98ad405ca64edcf8c34ed73a1379d",
+        "name": "Gabor",
+        "surname": "Bella",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Ospite",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    },
+    {
+        "id": "8ca436c6d4542a583fa596aef556c9af",
+        "name": "Ivano",
+        "surname": "Bison",
+        "phone number": [
+            "0461 281315"
+        ],
+        "roles": [
+            {
+                "ruolo": "Delegato del Rettore per rilevazioni e analisi riguardanti la comunit\u00e0 universitaria",
+                "nomeStruttura": "Universit\u00e0 degli Studi di Trento",
+                "idStruttura": "STO0000001"
+            },
+            {
+                "ruolo": "Professore ordinario",
+                "nomeStruttura": "Dipartimento di Sociologia e Ricerca Sociale",
+                "idStruttura": "STO0008630"
+            }
+        ]
+    },
+    {
+        "id": "7b0dae9c66af5c195ab943cd02d796c4",
+        "name": "Mayukh",
+        "surname": "Bagchi",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "2a9f8066b3604755146a4eed3b9409e6",
+        "name": "Fausto",
+        "surname": "Giunchiglia",
+        "phone number": [
+            "0461 281533"
+        ],
+        "roles": [
+            {
+                "ruolo": "Professore ordinario",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    },
+    {
+        "id": "fc09db62a896b322979590660d9c9895",
+        "name": "Xiaoyue",
+        "surname": "Li",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "28815183ece02bfa2b5e3ba0a859559c",
+        "name": "Xiaolei",
+        "surname": "Diao",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "51c5266cbdb2ab95ecdb9aad8f538209",
+        "name": "Alessio",
+        "surname": "Zamboni",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Collaboratore di ricerca",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            },
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "92d028c9897f2bcf2e9a86cc39ac23e2",
+        "name": "Andrea",
+        "surname": "Bontempelli",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "d227d8791834c86b159f1830582aaff5",
+        "name": "Simone",
+        "surname": "Bocca",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Assegnista di ricerca",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            },
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "ee3431373bf2df084bc74fa8d37b2efe",
+        "name": "Matteo",
+        "surname": "Busso",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "339602160d7a7fcf040da191696286c1",
+        "name": "Giulia",
+        "surname": "Gaggero",
+        "phone number": [
+            "0464 808667"
+        ],
+        "roles": [
+            {
+                "ruolo": "Ospite",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    },
+    {
+        "id": "ab4b67db512458192d34d6e92d13128e",
+        "name": "Yamini",
+        "surname": "Chandrashekar",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Assegnista di ricerca",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    },
+    {
+        "id": "61c977774d81a8642c806d2cdcbb6cda",
+        "name": "Ali",
+        "surname": "Hamza",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Borsista di ricerca",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    },
+    {
+        "id": "0f54f9292e083bc2670d7de2427d0eb1",
+        "name": "Roy Alia",
+        "surname": "Asiku",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Borsista di ricerca",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "id": "0bdcfc463816ea8491a20c774f150789",
+        "name": "Alessandro",
+        "surname": "Tomasi",
+        "phone number": [
+            "0461 282079"
+        ],
+        "roles": [
+            {
+                "ruolo": "Esercitatore",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            },
+            {
+                "ruolo": "Personale TA",
+                "nomeStruttura": "Supporto Tecnico-Dip. Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008897"
+            }
+        ]
+    },
+    {
+        "id": "42e98ad405ca64edcf8c34ed73a1379d",
+        "name": "Gabor",
+        "surname": "Bella",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Ospite",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    },
+    {
+        "id": "0da8c922a4d5801b796d848767eeb4e4",
+        "name": "Marco",
+        "surname": "Prest",
+        "phone number": [
+            "0461 283449"
+        ],
+        "roles": [
+            {
+                "ruolo": "Personale TA",
+                "nomeStruttura": "Privacy Compliance",
+                "idStruttura": "STO0013549"
+            }
+        ]
+    },
+    {
+        "id": "641135683c8db4fb9d454ef3e26964c7",
+        "name": "Simone",
+        "surname": "Alghisi",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Esercitatore",
+                "nomeStruttura": "Centro Interdipartimentale di Scienze Mediche - CISMED",
+                "idStruttura": "STO0013533"
+            },
+            {
+                "ruolo": "Esercitatore",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            },
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato (D.M.45/2013) - Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0013634"
+            }
+        ]
+    },
+    {
+        "id": "4bc3abdc4538ce5e6038cc4d1e095ab7",
+        "name": "Kyriakos",
+        "surname": "Kyriakou",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Ospite",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    },
+    {
+        "id": "f5d531bb0ca381082dd7bfd7ff4f3f05",
+        "name": "Viktor",
+        "surname": "Pravdin",
+        "phone number": [
+            "0461 283408"
+        ],
+        "roles": [
+            {
+                "ruolo": "Personale TA",
+                "nomeStruttura": "Ufficio Sviluppo Middleware",
+                "idStruttura": "STO0012563"
+            }
+        ]
+    },
+    {
+        "id": "76fd2ed093498f8486668846753d2010",
+        "name": "Daqian",
+        "surname": "Shi",
+        "phone number": [],
+        "roles": [
+            {
+                "ruolo": "Dottorando",
+                "nomeStruttura": "Corso di Dottorato - Informatica e telecomunicazioni",
+                "idStruttura": "STO0000451"
+            }
+        ]
+    },
+    {
+        "id": "1d2a7621a5362ac0c5b20ac24c042a0d",
+        "name": "Elena",
+        "surname": "Pavan",
+        "phone number": [
+            "0461 281378"
+        ],
+        "roles": [
+            {
+                "ruolo": "Professore associato",
+                "nomeStruttura": "Dipartimento di Sociologia e Ricerca Sociale",
+                "idStruttura": "STO0008630"
+            },
+            {
+                "ruolo": "Docente a contratto",
+                "nomeStruttura": "Dipartimento di Sociologia e Ricerca Sociale",
+                "idStruttura": "STO0008630"
+            }
+        ]
+    },
+    {
+        "id": "ad21adc75a4c52a6612ff7fd16cb935e",
+        "name": "Mario",
+        "surname": "Passamani",
+        "phone number": [
+            "0461 283171"
+        ],
+        "roles": [
+            {
+                "ruolo": "Responsabile",
+                "nomeStruttura": "Ufficio Gestione Sistemi, HPC e Data Center",
+                "idStruttura": "STO0000399"
+            },
+            {
+                "ruolo": "Personale TA",
+                "nomeStruttura": "Ufficio Gestione Sistemi, HPC e Data Center",
+                "idStruttura": "STO0000399"
+            }
+        ]
+    },
+    {
+        "id": "004a687793d75821df582b21d21da041",
+        "name": "Veronica",
+        "surname": "Rizzi",
+        "phone number": [
+            "0461 282005"
+        ],
+        "roles": [
+            {
+                "ruolo": "Personale TA",
+                "nomeStruttura": "Supporto Tecnico-Dip. Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008897"
+            }
+        ]
+    },
+    {
+        "id": "93fca9330ee64ada2c4e5fc559c08a38",
+        "name": "Stefano",
+        "surname": "Teso",
+        "phone number": [
+            "0464 808612"
+        ],
+        "roles": [
+            {
+                "ruolo": "Ricercatore",
+                "nomeStruttura": "Centro Interdipartimentale Mente/Cervello - CIMEC",
+                "idStruttura": "STO0008663"
+            },
+            {
+                "ruolo": "Ricercatore",
+                "nomeStruttura": "Dipartimento di Ingegneria e Scienza dell'Informazione",
+                "idStruttura": "STO0008629"
+            }
+        ]
+    }
+]

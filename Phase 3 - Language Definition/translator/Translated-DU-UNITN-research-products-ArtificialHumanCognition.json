@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Continual egocentric object recognition",
+        "type": "articolo in conferenza",
+        "year": 2020,
+        "language": [
+            "inglese"
+        ],
+        "authors": [
+            {
+                "nome": "Luca",
+                "cognome": "Erculiani",
+                "id": ""
+            },
+            {
+                "nome": "Fausto",
+                "cognome": "Giunchiglia",
+                "id": "2a9f8066b3604755146a4eed3b9409e6"
+            },
+            {
+                "nome": "Andrea",
+                "cognome": "Passerini",
+                "id": "fc2a82bd5aaa5ceee750403518cf5e89"
+            }
+        ],
+        "file": {
+            "nome": "2020-ArXivFausto-egocentric-vision.pdf",
+            "link": "https://iris.unitn.it/retrieve/handle/11572/277395/373453/2020-ArXivFausto-egocentric-vision.pdf",
+            "licenza": "tutti i diritti riservati",
+            "formato": "application/pdf",
+            "versione": "postprint",
+            "openAccess": "true"
+        }
+    }
+]
