@@ -12,10 +12,10 @@ def translate(source_json):
         new_entry = {
             "name": entry["nome"],
             "description": entry["descrizione"],
-            "teachers": entry["docenti"],
+            "teacher": entry["docenti"],
             "assistants": entry["assistenti"],
             "holder": entry["titolari"],
-            "website" : entry["sitoWeb"]
+            "webpage" : entry["sitoWeb"]
         }
         new_data.append(new_entry)
 

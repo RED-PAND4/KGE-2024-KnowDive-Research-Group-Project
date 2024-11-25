@@ -13,8 +13,8 @@ def translate(source_json):
             "id": entry["id"],
             "name": entry["nome"],
             "surname": entry["cognome"],
-            "phone number": entry["telefono"],
-            "roles": entry["posizioni"]
+            "phone": entry["telefono"],
+            "position": entry["posizioni"]
         }
         new_data.append(new_entry)
 

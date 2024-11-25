@@ -14,7 +14,7 @@ def drop_fields(source_json):
             "type": entry["tipo"],
             "year": entry["anno"],
             "language": entry["lingua"],
-            "authors": entry["autori"],
+            "author": entry["autori"],
             "file": entry["file"]
         }
         new_data.append(new_entry)

@@ -2,7 +2,7 @@
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -11,12 +11,12 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0517H&annoOrdinamento=2011&pds=P0105&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0517H&annoOrdinamento=2011&pds=P0105&ad=146114"
     },
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -25,12 +25,12 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0517H&annoOrdinamento=2011&pds=P0205&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0517H&annoOrdinamento=2011&pds=P0205&ad=146114"
     },
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -39,12 +39,12 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0522H&annoOrdinamento=2018&pds=P0005&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0522H&annoOrdinamento=2018&pds=P0005&ad=146114"
     },
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -53,12 +53,12 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0342H&annoOrdinamento=2020&pds=P0003&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0342H&annoOrdinamento=2020&pds=P0003&ad=146114"
     },
     {
         "name": "Computational Logic",
         "description": "<ul><li>The student can describe the basic concepts and tools in computational logic and use them to reason about computer science and AI applications.</li><li>The student can build logical models for various computational problems.</li></ul><p><br></p>",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -67,12 +67,12 @@
                 "id": "07f78638893cf133f3596fae2c3e923a"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0514G&annoOrdinamento=2008&pds=P0005&ad=146199"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0514G&annoOrdinamento=2008&pds=P0005&ad=146199"
     },
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -81,12 +81,12 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0521H&annoOrdinamento=2016&pds=P0205&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0521H&annoOrdinamento=2016&pds=P0205&ad=146114"
     },
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -95,12 +95,12 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0521H&annoOrdinamento=2016&pds=P0305&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0521H&annoOrdinamento=2016&pds=P0305&ad=146114"
     },
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -109,12 +109,12 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0340H&annoOrdinamento=2016&pds=P0103&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0340H&annoOrdinamento=2016&pds=P0103&ad=146114"
     },
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -123,12 +123,12 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0521H&annoOrdinamento=2016&pds=P0105&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0521H&annoOrdinamento=2016&pds=P0105&ad=146114"
     },
     {
         "name": "Knowledge Graph Engineering",
         "description": "",
-        "teachers": [],
+        "teacher": [],
         "assistants": [],
         "holder": [
             {
@@ -137,6 +137,6 @@
                 "id": "2a9f8066b3604755146a4eed3b9409e6"
             }
         ],
-        "website": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0521H&annoOrdinamento=2016&pds=P0405&ad=146114"
+        "webpage": "https://unitn.coursecatalogue.cineca.it/af/2023?corso=0521H&annoOrdinamento=2016&pds=P0405&ad=146114"
     }
 ]
