@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/deborah/ontologies/2024/10/untitled-ontology-7"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/deborah/ontologies/2024/10/untitled-ontology-7">
+    <Prefix name="" IRI="http://www.semanticweb.org/deborah/ontologies/2024/10/untitled-ontology-7/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Import>http://num.edu.mn/ontology</Import>
+    <Import>http://swrc.ontoware.org/ontology-07</Import>
+    <Import>http://vivoweb.org/ontology/core</Import>
+    <Declaration>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.org/vocab/aiiso/schema#Course"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://swrc.ontoware.org/ontology#University"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Alumni"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Member"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ResearchProduct"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ResearchProject"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ResearchTopic"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#coordinate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_a"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_produced"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_worked"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_part_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#lead_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#related_to"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#status_alumni"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#status_member"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#teach"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#working_in"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://purl.org/vocab/aiiso/schema#name"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://swrc.ontoware.org/ontology#phone"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#is"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#position"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#surname"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/identifier"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://purl.org/vocab/aiiso/schema#Course"/>
+        <Class IRI="http://swrc.ontoware.org/ontology#University"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Alumni"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Member"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+        <Class IRI="http://swrc.ontoware.org/ontology#University"/>
+        <Class IRI="#ResearchProduct"/>
+        <Class IRI="#ResearchProject"/>
+        <Class IRI="#ResearchTopic"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Alumni"/>
+        <Class IRI="#Member"/>
+    </DisjointClasses>
+    <DisjointUnion>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+        <Class IRI="#Alumni"/>
+        <Class IRI="#Member"/>
+    </DisjointUnion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://purl.org/vocab/aiiso/schema#name"/>
+        <AnonymousIndividual nodeID="_:genid2147483648"/>
+        <Literal></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://swrc.ontoware.org/ontology#phone"/>
+        <AnonymousIndividual nodeID="_:genid2147483648"/>
+        <Literal></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#is"/>
+        <AnonymousIndividual nodeID="_:genid2147483648"/>
+        <Literal></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#position"/>
+        <AnonymousIndividual nodeID="_:genid2147483648"/>
+        <Literal></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#surname"/>
+        <AnonymousIndividual nodeID="_:genid2147483648"/>
+        <Literal></Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://purl.org/vocab/aiiso/schema#name"/>
+        <AnonymousIndividual nodeID="_:genid2147483649"/>
+        <Literal>Mario</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="http://swrc.ontoware.org/ontology#phone"/>
+        <AnonymousIndividual nodeID="_:genid2147483649"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">123</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#is"/>
+        <AnonymousIndividual nodeID="_:genid2147483649"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">01</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#position"/>
+        <AnonymousIndividual nodeID="_:genid2147483649"/>
+        <Literal>Trento</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#surname"/>
+        <AnonymousIndividual nodeID="_:genid2147483649"/>
+        <Literal>Rossi</Literal>
+    </DataPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#coordinate"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_a"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_produced"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_worked"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#is_part_of"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#lead_by"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#related_to"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#status_alumni"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#status_member"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#teach"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#working_in"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#coordinate"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_a"/>
+        <Class IRI="http://swrc.ontoware.org/ontology#University"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_produced"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_worked"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_part_of"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#lead_by"/>
+        <Class IRI="#ResearchTopic"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#related_to"/>
+        <Class IRI="#ResearchProduct"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#related_to"/>
+        <Class IRI="#ResearchProject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#related_to"/>
+        <ObjectUnionOf>
+            <Class IRI="#ResearchProduct"/>
+            <Class IRI="#ResearchProject"/>
+        </ObjectUnionOf>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#status_alumni"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#status_member"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#teach"/>
+        <Class IRI="#Member"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#working_in"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#coordinate"/>
+        <Class IRI="#ResearchProject"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_a"/>
+        <Class IRI="http://purl.org/vocab/aiiso/schema#Course"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_produced"/>
+        <Class IRI="#ResearchProduct"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_worked"/>
+        <Class IRI="#ResearchProject"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_part_of"/>
+        <Class IRI="http://swrc.ontoware.org/ontology#University"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#lead_by"/>
+        <Class IRI="#Member"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#related_to"/>
+        <Class IRI="#ResearchTopic"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#status_alumni"/>
+        <Class IRI="#Alumni"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#status_member"/>
+        <Class IRI="#Member"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#teach"/>
+        <Class IRI="http://purl.org/vocab/aiiso/schema#Course"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#working_in"/>
+        <Class IRI="#ResearchTopic"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://purl.org/vocab/aiiso/schema#name"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="http://swrc.ontoware.org/ontology#phone"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#is"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#position"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#surname"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://purl.org/vocab/aiiso/schema#name"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://swrc.ontoware.org/ontology#phone"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#position"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#surname"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </DataPropertyDomain>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
+        <IRI>http://num.edu.mn/ontology#Person</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">36</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/identifier"/>
+        <IRI>http://num.edu.mn/ontology#Person</IRI>
+        <Literal>UKC-36</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://num.edu.mn/ontology#Person</IRI>
+        <Literal xml:lang="en"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://num.edu.mn/ontology#Person</IRI>
+        <Literal>a human being</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.org/vocab/aiiso/schema#name</IRI>
+        <AnonymousIndividual nodeID="_:genid2147483649"/>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
+        <IRI>#position</IRI>
+        <Literal>vv</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#position</IRI>
+        <Literal>String</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
