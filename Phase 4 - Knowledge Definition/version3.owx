@@ -136,13 +136,25 @@
         <DataProperty IRI="#lead"/>
     </Declaration>
     <Declaration>
+        <DataProperty IRI="#member"/>
+    </Declaration>
+    <Declaration>
         <DataProperty IRI="#partners"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#project"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#support_role"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#teacher"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#topic"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#university"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="http://www.w3.org/2006/vcard/ns#role"/>
@@ -327,7 +339,15 @@
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
+        <DataProperty IRI="#member"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
         <DataProperty IRI="#partners"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#project"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
@@ -336,6 +356,14 @@
     </SubDataPropertyOf>
     <SubDataPropertyOf>
         <DataProperty IRI="#teacher"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#topic"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#university"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <DataPropertyDomain>
@@ -353,6 +381,10 @@
     <DataPropertyDomain>
         <DataProperty IRI="http://num.edu.mn/ontology#Identifier"/>
         <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://num.edu.mn/ontology#Identifier"/>
+        <Class IRI="#Alumni"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="http://num.edu.mn/ontology#Surname"/>
@@ -459,11 +491,23 @@
         <Class IRI="http://swrc.ontoware.org/ontology#ResearchProject"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
+        <DataProperty IRI="#project"/>
+        <Class IRI="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
         <DataProperty IRI="#support_role"/>
         <Class IRI="#Member"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#teacher"/>
+        <Class IRI="http://purl.org/vocab/aiiso/schema#Course"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#university"/>
+        <Class IRI="http://num.edu.mn/ontology#Person"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#university"/>
         <Class IRI="http://purl.org/vocab/aiiso/schema#Course"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
