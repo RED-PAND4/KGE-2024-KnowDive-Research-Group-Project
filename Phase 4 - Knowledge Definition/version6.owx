@@ -28,10 +28,10 @@
         <Class IRI="http://vivoweb.org/ontology/core#University"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Alumno"/>
+        <Class IRI="#ResearchProduct"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ResearchProduct"/>
+        <Class IRI="https://schema.org/alumni"/>
     </Declaration>
     <Declaration>
         <Class IRI="https://schema.org/member"/>
@@ -173,7 +173,7 @@
         <Class IRI="http://vivoweb.org/ontology/core#University"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Alumno"/>
+        <Class IRI="https://schema.org/alumni"/>
         <Class IRI="http://num.edu.mn/ontology#Person"/>
     </SubClassOf>
     <SubClassOf>
@@ -188,12 +188,12 @@
         <Class IRI="#ResearchProduct"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#Alumno"/>
+        <Class IRI="https://schema.org/alumni"/>
         <Class IRI="https://schema.org/member"/>
     </DisjointClasses>
     <DisjointUnion>
         <Class IRI="http://num.edu.mn/ontology#Person"/>
-        <Class IRI="#Alumno"/>
+        <Class IRI="https://schema.org/alumni"/>
         <Class IRI="https://schema.org/member"/>
     </DisjointUnion>
     <DataPropertyAssertion>
@@ -308,7 +308,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#status_alumni"/>
-        <Class IRI="#Alumno"/>
+        <Class IRI="https://schema.org/alumni"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#status_member"/>
@@ -396,7 +396,7 @@
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="http://swrc.ontoware.org/ontology#endDate"/>
-        <Class IRI="#Alumno"/>
+        <Class IRI="https://schema.org/alumni"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="http://swrc.ontoware.org/ontology#howpublished"/>
@@ -492,7 +492,7 @@
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="http://www.w3.org/2006/vcard/ns#role"/>
-        <Class IRI="#Alumno"/>
+        <Class IRI="https://schema.org/alumni"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="http://www.w3.org/2006/vcard/ns#role"/>
@@ -768,17 +768,6 @@ uate education and postgraduate education</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
-        <IRI>#Alumno</IRI>
-        <Literal>KGE24-13-0003</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
-        <IRI>#Alumno</IRI>
-        <Literal xml:lang="en">an university’s student whom graduate and is no more enrolled in a
-course</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
         <IRI>#ResearchProduct</IRI>
         <Literal>KGE24-13-0007</Literal>
     </AnnotationAssertion>
@@ -837,6 +826,17 @@ research purpose</Literal>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
         <IRI>https://dbpedia.org/ontology/projectCoordinator</IRI>
         <Literal xml:lang="en">someone whose task is to see that work goes harmoniously</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
+        <IRI>https://schema.org/alumni</IRI>
+        <Literal>KGE24-13-0003</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://schema.org/alumni</IRI>
+        <Literal xml:lang="en">an university’s student whom graduate and is no more enrolled in a
+course</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
