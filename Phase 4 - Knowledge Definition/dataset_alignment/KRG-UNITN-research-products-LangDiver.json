@@ -1,0 +1,78 @@
+[
+    {
+        "Name" : "Lexical diversity in kinship across languages and dialects",
+        "Publication" : "Frontiers in Psychology, 14, 1229697, (2023)",
+        "Authors" : [
+            "Khalilia, H",
+            "Bella, G.",
+            "Freihat, A.",
+            "Darma, S.",
+            "Giunchiglia, F."
+        ],
+        "Note/Links" : ""
+    },
+    {
+        "Name" : "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge.",
+        "Publication" : "Prestigious Applications of Intelligent Systems, ECAI 2020, Santiago de Compostela, Spain",
+        "Authors" : [
+            "Bella, G",
+            "Elliot, L",
+            "Das, S",
+            "Pavis, S",
+            "Turra, E",
+            "Robertson, D",
+            "Giunchiglia, F"
+        ],
+        "Note/Links" : "https://drive.google.com/file/d/1IRtcwcm7dNG5ibYyIr2Rz_y4CCRhWgq7/view"
+    },
+    {
+        "Name" : "CogNet: a Large-Scale Cognate Database",
+        "Publication" : "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 3136–3145 Florence, Italy, July 28 - August 2, 2019",
+        "Authors" : [
+            "Khuyagbaatar Batsuren",
+            "Gábor Bella",
+            "Fausto Giunchiglia"
+        ],
+        "Note/Links" : "https://drive.google.com/file/d/1f-YkBoTemub0e64TFGFzLDgQcGWk4fLq/view"
+    },
+    {
+        "Name" : "One World - Seven Thousand Languages",
+        "Publication" : "19th International Conference on Computational Linguistics and Intelligent Text Processing, Hanoi, Vietnam, 2018",
+        "Authors" : [
+            "Fausto Giunchiglia",
+            "Khuyagbaatar Batsuren",
+            "Abel Alhakim Freihat"
+        ],
+        "Note/Links" : "https://drive.google.com/file/d/15ur-I9FU4rJeIVG_0O2yr-kW_r5R2DOu/view"
+    },
+    {
+        "Name" : "Understanding and Exploiting Language Diversity",
+        "Publication" : "Proceedings of IJCAI 2017, Melbourne",
+        "Authors" : [
+            "Fausto Giunchiglia",
+            "Khuyagbaatar Batsuren",
+            "Gábor Bella"
+        ],
+        "Note/Links" : "https://drive.google.com/file/d/1VtWxhG9Y5RHh9CHhwJvl0NPJP0kwmilI/view"
+    },
+    {
+        "Name" : "Language and Domain Aware Lightweight Ontology Matching",
+        "Publication" : "Journal of Web Semantics, vol. 43, March 2017, pp. 1-17",
+        "Authors" : [
+            "Gábor Bella",
+            "Fausto Giunchiglia",
+            "Fiona McNeill"
+        ],
+        "Note/Links" : "https://drive.google.com/file/d/14GWzWPHdSjViaTQoL7jBhSk82k5zF5Q0/view"
+    },
+    {
+        "Name" : "Domain-Based Sense Disambiguation on Multilingual Structured Data",
+        "Publication" : "Proceedings of the ECAI, 2016, workshop on Diversity Aware Artificial Intelligence, The Hague, Netherlands",
+        "Authors" : [
+            "Gábor Bella",
+            "Alessio Zamboni",
+            "Fausto Giunchiglia"
+        ],
+        "Note/Links" : "https://drive.google.com/file/d/1iN4fYgb6nsDhj9cn_Eubso2D3Dh01saC/view"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Improving time use measurement with personal big data collection - the experience of the European Big Data Hackathon 2019.",
+        "howpublished": "Journal of Official Statistics, 2020",
+        "author": [
+            "Mattia Zeni",
+            "Ivano Bison",
+            "Britta Gauckler",
+            "Fernando Reis",
+            "Fausto Giunchiglia"
+        ],
+        "file": "https://drive.google.com/file/d/1vWMHbLVKXgK-fky7YzX9G2BsJoAa42kf/view"
+    },
+    {
+        "name": "Fixing mislabeling by human annotators leveraging conflict resolution and prior knowledge[J]",
+        "howpublished": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2019, 3(1): 1-23",
+        "author": [
+            "Zeni M",
+            "Zhang W",
+            "Bignotti E"
+        ],
+        "file": "https://drive.google.com/file/d/1WLbBTwCM_Btr-zAhS2orcIq1QGosCN3A/view"
+    },
+    {
+        "name": "Mobile social media usage and academic performance",
+        "howpublished": "Computers in Human Behavior, vol. 82, p. 177-185, 2018",
+        "author": [
+            "Giunchiglia, F",
+            "Zeni, Mattia",
+            "Gobbi, Elisa",
+            "Bignotti, Enrico",
+            "Bison, Ivano"
+        ],
+        "file": "https://drive.google.com/file/d/1yqhL-3AHojG-FM4wgSBraa9s7Kqlp0gw/view"
+    },
+    {
+        "name": "Personal context recognition via reliable human-machine collaboration",
+        "howpublished": "2018 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE, 2018: 379-384",
+        "author": [
+            "Giunchiglia F",
+            "Zeni M",
+            "Big E"
+        ],
+        "file": "https://drive.google.com/file/d/1Hj-DFlsCwB8djF_9vqeuU1Cfmy1FGe1C/view"
+    },
+    {
+        "name": "Personal context modelling and annotation",
+        "howpublished": "2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE, 2017: 117-122",
+        "author": [
+            "Giunchiglia F",
+            "Bignotti E",
+            "Zeni M"
+        ],
+        "file": "https://drive.google.com/file/d/1TJIHn26jeWRG51a4YbJFvo4xeohAo6_k/view"
+    },
+    {
+        "name": "Multi-device activity logging",
+        "howpublished": "Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication. 2014: 299-302",
+        "author": [
+            "Zeni M",
+            "Zaihrayeu I",
+            "Giunchiglia F"
+        ],
+        "file": "https://drive.google.com/file/d/1wzmGS-tRrSeaBdrQCm2fW7wpDfiMUxOm/view"
+    },
+    {
+        "name": "The open platform for personal lifelogging: the elifelog architecture",
+        "howpublished": "Extended Abstracts on Human Factors in Computing Systems. 2013: 1677-1682",
+        "author": [
+            "Kim P H",
+            "Giunchiglia F"
+        ],
+        "file": "https://drive.google.com/file/d/1cvmQICd5mTnwNwqQtw87zyT_Q3e8gqsy/view"
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Artificial Human Cognition",
+        "Leader": "Alessio Zamboni",
+        "member": [
+            "Rui Duro",
+            "Rafael Samorinha",
+            "Adriano Tavares",
+            "Alessio Zamboni",
+            "Qi Zang",
+            "Giulia Gaggero",
+            "Jo\u00c3\u00a3o Manuel Gon\u00c3\u00a7alves Silva",
+            "Dragos Gruia",
+            "Andrea Bontempelli"
+        ],
+        "project": [
+            "Smart Society",
+            "Delphi",
+            "Wenet"
+        ]
+    },
+    {
+        "name": "Language Diversity",
+        "Leader": "Fausto Giunchiglia",
+        "member": [
+            "Gabor Bella",
+            "Hadi Khalilia",
+            "Kubra Korkmaz",
+            "Virendra Mehta",
+            "Yamini Chandrashekar",
+            "Shandy Darma",
+            "Hao Xu",
+            "Patrik Calin Maniu"
+        ],
+        "project": [
+            "IEHR",
+            "CyCAT",
+            "Safe Haven 1",
+            "Safe Haven 2",
+            "SPRINT",
+            "SHIB"
+        ]
+    },
+    {
+        "name": "Knowledge Diversity",
+        "Leader": "Simone Bocca",
+        "member": [
+            "Mayukh Bagchi",
+            "Alessio Zamboni",
+            "Simone Bocca",
+            "Xiaolei Diao",
+            "Marco Barbieri",
+            "Rui Zhang",
+            "Ivan Don\u00c3\u00a0",
+            "Xiaoyue Li",
+            "Alessio Novel"
+        ],
+        "project": [
+            "Digital University",
+            "CyCAT",
+            "QROWD",
+            "SHIB",
+            "SPRINT"
+        ]
+    },
+    {
+        "name": "Human-Machine Symbiosis",
+        "Leader": "Andrea Bontempelli",
+        "member": [
+            "Kayongo Ivan",
+            "Rafael Samorinha",
+            "Leonardo Javier Malcotti",
+            "Ivano Bison",
+            "Alessia Angeli",
+            "Munkhdelger Bayanjargal",
+            "Hao Xu",
+            "Matteo Busso",
+            "Haonan Zhao",
+            "Andrea Bontempelli",
+            "Xiaoyue Li",
+            "Ali Hamza",
+            "Roy Alia Asiku"
+        ],
+        "project": [
+            "Smart University",
+            "Eurostat",
+            "Smart Society",
+            "White Rabbit",
+            "Delphi",
+            "WeNet",
+            "QROWD",
+            "SHIB"
+        ]
+    }
+]

@@ -3,7 +3,8 @@ import json
 
 # Function to save the filtered data to a new file
 def save_filtered_data(filtered_data, output_file):
-    with open(output_file, 'w') as file:
+    target_file = output_file + ".json"
+    with open(target_file, 'w') as file:
         json.dump(filtered_data, file, indent=4)
 
 def drop_fields(source_json):
@@ -17,12 +18,10 @@ def drop_fields(source_json):
     new_data = []
     for entry in data:
         new_entry = {
-            "name": entry["titolo"],
-            "type": entry["tipo"],
-            "year": entry["anno"],
-            "language": entry["lingua"],
-            "author": entry["autori"],
-            "file": entry["file"]
+            "name": entry["name"],
+            "description": entry["description"],
+            "teacher": entry["holder"],
+            "website": entry["webpage"]
         }
         new_data.append(new_entry)
 
@@ -30,8 +29,8 @@ def drop_fields(source_json):
 
 def combine_and_translate (source_name, suffix):
     final_data = []
-    for year in suffix:
-        new_source_name = source_name + year + ".json"
+    for suff in suffix:
+        new_source_name = source_name + suff + ".json"
         data_list = drop_fields(new_source_name)
         for entry in data_list:
             final_data.append(entry)
@@ -40,18 +39,12 @@ def combine_and_translate (source_name, suffix):
 
 # Example usage
 sources = [
-    "./Cleaned-DU-UNITN-esearch-prducts-ArtHumCog-",
-    "./Cleaned-DU-UNITN-esearch-prducts-HumMacSymb-",
-    "./Cleaned-DU-UNITN-esearch-prducts-KnowDiver-",
-    "./Cleaned-DU-UNITN-esearch-prducts-LangDiver-"
+    "./Translated-DU-UNITN-courses"
 ]
-suffix = ["2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023"]
+suffix = [""]
 
 outputs = [
-    "./Translated-DU-UNITN-research-products-ArtificialHumanCognition.json",
-    "./Translated-DU-UNITN-research-products-HumanMachineSymbiosis.json",
-    "./Translated-DU-UNITN-research-products-KnowledgeDiversity.json",
-    "./Translated-DU-UNITN-research-products-LanguageDiversity.json"
+    "./Aligned-DU-UNITN-courses"
 ]
 
 if len(sources) == len(outputs):
