@@ -1,0 +1,213 @@
+[
+    {
+        "name": "Computational Logic (CL)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Leonardo Javier Malcotti"
+        ],
+        "year": "2024",
+        "University": "University of Trento",
+        "website": "https://datascientiafoundation.github.io/datascientia-education-logica-2024-25-unitn/"
+    },
+    {
+        "name": "Knowledge Graph Engineering (KGE)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Simone Bocca",
+            "Mayukh Bagchi"
+        ],
+        "year": "2024",
+        "University": "University of Trento",
+        "website": "https://unitn-knowledge-graph-engineering.github.io/KGE2024-website/"
+    },
+    {
+        "name": "Knowledge Graph Engineering (KGE)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Simone Bocca",
+            "Mayukh Bagchi",
+            "Xiaoyue Li",
+            "Matteo Busso"
+        ],
+        "year": "2023",
+        "University": "University of Trento",
+        "website": "https://unitn-knowledge-graph-engineering.github.io/KGE2023-website/"
+    },
+    {
+        "name": "Knowledge Graph Engineering (KGE)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Simone Bocca",
+            "Mayukh Bagchi"
+        ],
+        "year": "2022",
+        "University": "University of Trento",
+        "website": "https://unitn-knowledge-graph-engineering.github.io/KGE2022-website/"
+    },
+    {
+        "name": "Knowledge and Data Integration (KDI)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Simone Bocca",
+            "Mayukh Bagchi",
+            "Daqian Shi",
+            "Alessio Zamboni"
+        ],
+        "year": "2021",
+        "University": "University of Trento",
+        "website": "https://unitn-kdi-2021.github.io/unitn-kdi-2021-website/"
+    },
+    {
+        "name": "Knowledge and Data Integration (KDI)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Mauro Dragoni",
+            "Simone Bocca",
+            "Mayukh Bagchi",
+            "Alessio Zamboni",
+            "Yamini Chandrashekar"
+        ],
+        "year": "2020",
+        "University": "University of Trento",
+        "website": "https://unitn-kdi-2020.github.io/unitn-kdi-2020/"
+    },
+    {
+        "name": "Knowledge and Data Integration (ICSI500)",
+        "teacher": [
+            "Amarsanaa Ganbold",
+            "Naranchimeg Bold",
+            "Tsolmon Zundui"
+        ],
+        "year": "2022",
+        "University": "National University of Mongolia",
+        "website": "https://kde-milab.github.io/num-kdi-2022-website/"
+    },
+    {
+        "name": "Knowledge Graph Engineering (ICSI500)",
+        "teacher": [
+            "Amarsanaa Ganbold",
+            "Simone Bocca"
+        ],
+        "year": "2024",
+        "University": "National University of Mongolia",
+        "website": "https://kde-milab.github.io/num-kge-2024-website/"
+    },
+    {
+        "name": "Knowledge and Data Integration (KDI)",
+        "teacher": [
+            "Rui Zhang"
+        ],
+        "year": "2024Autumn",
+        "University": "University of Jilin",
+        "website": "https://mooc1.chaoxing.com/course/245442552.html"
+    },
+    {
+        "name": "Knowledge and Data Integration (KDI)",
+        "teacher": [
+            "Rui Zhang"
+        ],
+        "year": "2024Spring",
+        "University": "University of Jilin",
+        "website": "https://mooc1.chaoxing.com/course/242145182.html"
+    },
+    {
+        "name": "Knowledge and Data Integration (KDI)",
+        "teacher": [
+            "Rui Zhang"
+        ],
+        "year": "2023",
+        "University": "University of Jilin",
+        "website": "https://mooc1.chaoxing.com/course/228885246.html"
+    },
+    {
+        "name": "Knowledge and Data Integration (KDI)",
+        "teacher": [
+            "Rui Zhang"
+        ],
+        "year": "2022",
+        "University": "University of Jilin",
+        "website": "https://mooc1.chaoxing.com/course/228885246.html"
+    },
+    {
+        "name": "Data engineering for the quantified self (SHB)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Ivano Bison",
+            "Andrea Bontempelli",
+            "Matteo Busso"
+        ],
+        "year": "2024",
+        "University": "University of Trento",
+        "website": "https://datascientiafoundation.github.io/datascientia-education-eai3-2024-25-unitn/"
+    },
+    {
+        "name": "Studies on Human Behaviour: procuring the data (SHB)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Ivano Bison",
+            "Marcelo Rodas Britez",
+            "Marco Tonin"
+        ],
+        "year": "2023",
+        "University": "University of Trento",
+        "website": "https://datascientiafoundation.github.io/datascientia-education-eai3-2024-25-unitn/"
+    },
+    {
+        "name": "Studies on Human Behaviour: procuring the data (SHB)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Ivano Bison",
+            "Marcelo Rodas Britez",
+            "Marco Tonin"
+        ],
+        "year": "2023",
+        "University": "University of Trento",
+        "website": "https://datascientiafoundation.github.io/datascientia-education-shb-2023-24-unitn-/"
+    },
+    {
+        "name": "Studies on Human Behaviour (SHB)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Ivano Bison",
+            "Marcelo Rodas Britez",
+            "Marco Chierici"
+        ],
+        "year": "2022",
+        "University": "University of Trento",
+        "website": "https://unitn-shb-2020.github.io/unitn-shb-2022.github.io/"
+    },
+    {
+        "name": "Studies on Human Behaviour (SHB)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Ivano Bison",
+            "Marcelo Rodas Britez",
+            "Marco Chierici"
+        ],
+        "year": "2021",
+        "University": "University of Trento",
+        "website": "https://unitn-shb-2020.github.io/unitn-shb-2021.github.io/"
+    },
+    {
+        "name": "Studies on Human Behaviour (SHB)",
+        "teacher": [
+            "Fausto Giunchiglia",
+            "Ivano Bison",
+            "Matteo Busso",
+            "Mattia Zeni"
+        ],
+        "year": "2020",
+        "University": "University of Trento",
+        "website": "https://unitn-shb-2020.github.io/"
+    },
+    {
+        "name": "AI in Everyday Life",
+        "teacher": [
+            "Matteo Busso",
+            "Fausto Giunchiglia"
+        ],
+        "year": "2024",
+        "University": "University of Trento",
+        "website": "https://datascientiafoundation.github.io/datascientia-education-eai-soi-2024-unitn/"
+    }
+]
