@@ -130,9 +130,6 @@
         <DataProperty IRI="http://www.ontotext.com/proton/protontop.html#Topic"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#coordinator"/>
-    </Declaration>
-    <Declaration>
         <DataProperty IRI="#support_role"/>
     </Declaration>
     <Declaration>
@@ -143,6 +140,9 @@
     </Declaration>
     <Declaration>
         <DataProperty IRI="https://dbpedia.org/ontology/partner"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://dbpedia.org/ontology/projectCoordinator"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="https://schema.org/Project"/>
@@ -331,10 +331,6 @@
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#coordinator"/>
-        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
-    </SubDataPropertyOf>
-    <SubDataPropertyOf>
         <DataProperty IRI="#support_role"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
@@ -344,6 +340,10 @@
     </SubDataPropertyOf>
     <SubDataPropertyOf>
         <DataProperty IRI="https://dbpedia.org/ontology/partner"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="https://dbpedia.org/ontology/projectCoordinator"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
@@ -487,10 +487,6 @@
         <Class IRI="https://schema.org/member"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#coordinator"/>
-        <Class IRI="http://swrc.ontoware.org/ontology#ResearchProject"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
         <DataProperty IRI="#support_role"/>
         <Class IRI="https://schema.org/member"/>
     </DataPropertyDomain>
@@ -508,6 +504,10 @@
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="https://dbpedia.org/ontology/partner"/>
+        <Class IRI="http://swrc.ontoware.org/ontology#ResearchProject"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://dbpedia.org/ontology/projectCoordinator"/>
         <Class IRI="http://swrc.ontoware.org/ontology#ResearchProject"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
@@ -790,16 +790,6 @@ research purpose</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
-        <IRI>#coordinator</IRI>
-        <Literal>UKC-48923</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
-        <IRI>#coordinator</IRI>
-        <Literal xml:lang="en">someone whose task is to see that work goes harmoniously</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
         <IRI>#support_role</IRI>
         <Literal>KGE24-13-0002</Literal>
     </AnnotationAssertion>
@@ -837,6 +827,16 @@ research purpose</Literal>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
         <IRI>https://dbpedia.org/ontology/partner</IRI>
         <Literal xml:lang="en">a person or an organisation who is a member of a partnership</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
+        <IRI>https://dbpedia.org/ontology/projectCoordinator</IRI>
+        <Literal>UKC-48923</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://dbpedia.org/ontology/projectCoordinator</IRI>
+        <Literal xml:lang="en">someone whose task is to see that work goes harmoniously</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
