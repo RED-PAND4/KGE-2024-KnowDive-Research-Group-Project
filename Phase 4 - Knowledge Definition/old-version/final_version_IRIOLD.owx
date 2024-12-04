@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.semanticweb.org/ontologies/2024/10/KGE-13"
+     xml:base="http://www.semanticweb.org/ontologies/2024/KGE-13"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/ontologies/2024/10/KGE-13">
-    <Prefix name="" IRI="http://www.semanticweb.org/ontologies/2024/10/KGE-13/"/>
+     ontologyIRI="http://www.semanticweb.org/ontologies/2024/KGE-13">
+    <Prefix name="" IRI="http://www.semanticweb.org/ontologies/2024/KGE-13/"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -61,7 +61,7 @@
         <ObjectProperty IRI="#is_part_of"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#relatedTo"/>
+        <ObjectProperty IRI="#related_to"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#status_alumni"/>
@@ -255,11 +255,11 @@
         <Class IRI="http://num.edu.mn/ontology#Person"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#relatedTo"/>
+        <ObjectProperty IRI="#related_to"/>
         <Class IRI="http://swrc.ontoware.org/ontology#ResearchProject"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#relatedTo"/>
+        <ObjectProperty IRI="#related_to"/>
         <Class IRI="#ResearchProduct"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
@@ -303,7 +303,7 @@
         <Class IRI="http://vivoweb.org/ontology/core#University"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#relatedTo"/>
+        <ObjectProperty IRI="#related_to"/>
         <Class IRI="http://swrc.ontoware.org/ontology#ResearchTopic"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
@@ -647,12 +647,12 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
         <IRI>http://swrc.ontoware.org/ontology#howpublished</IRI>
-        <Literal>KGE24-13-0008</Literal>
+        <Literal>UKC-34686</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
         <IRI>http://swrc.ontoware.org/ontology#howpublished</IRI>
-        <Literal xml:lang="en">where the work is published</Literal>
+        <Literal xml:lang="en">a copy of a printed work offered for distribution</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
@@ -717,7 +717,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
         <IRI>http://vivoweb.org/ontology/core#Keyword</IRI>
-        <Literal>KGE24-13-00010</Literal>
+        <Literal>KGE24-13-0006</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
@@ -768,8 +768,18 @@ uate education and postgraduate education</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
+        <IRI>http://www.ontotext.com/proton/protontop.html#Topic</IRI>
+        <Literal>KGE24-13-0001</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://www.ontotext.com/proton/protontop.html#Topic</IRI>
+        <Literal>the subject matter of a research</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
         <IRI>#ResearchProduct</IRI>
-        <Literal>KGE24-13-0007</Literal>
+        <Literal>KGE24-13-0003</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
@@ -810,12 +820,12 @@ research purpose</Literal>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
         <IRI>https://dbpedia.org/ontology/partner</IRI>
-        <Literal>KGE24-13-0006</Literal>
+        <Literal>UKC-48778</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
         <IRI>https://dbpedia.org/ontology/partner</IRI>
-        <Literal xml:lang="en">a person or an organisation who is a member of a partnership</Literal>
+        <Literal xml:lang="en">an associate who works with others toward a common goal</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
@@ -829,24 +839,34 @@ research purpose</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
+        <IRI>https://schema.org/Project</IRI>
+        <Literal>UKC-4011</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://schema.org/Project</IRI>
+        <Literal>any piece of work that is undertaken or attempted</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
         <IRI>https://schema.org/alumni</IRI>
-        <Literal>KGE24-13-0003</Literal>
+        <Literal>UKC-47887</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
         <IRI>https://schema.org/alumni</IRI>
-        <Literal xml:lang="en">an university’s student whom graduate and is no more enrolled in a
-course</Literal>
+        <Literal xml:lang="en">a person who has received a degree from a school (high school or college
+or university)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
         <IRI>https://schema.org/author</IRI>
-        <Literal>KGE24-13-0009</Literal>
+        <Literal>UKC-53828</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
         <IRI>https://schema.org/author</IRI>
-        <Literal xml:lang="en">writes (books or stories or articles or the like) to be published</Literal>
+        <Literal xml:lang="en">writes (books or stories or articles or the like) professionally (for pay)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://num.edu.mn/ontology#ConceptID"/>
