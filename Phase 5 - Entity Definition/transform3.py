@@ -38,6 +38,6 @@ def substitute_identifier(source_file, target_file):
 
 # Example usage
 source_file = 'person.json'  # JSON file containing identifiers
-target_file = 'member.json'  # JSON file where identifiers need to be substituted
+target_file = 'alumni.json'  # JSON file where identifiers need to be substituted
 
 substitute_identifier(source_file, target_file)
