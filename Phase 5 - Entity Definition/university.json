@@ -1,0 +1,32 @@
+[
+    {
+        "name": "University of Trento",
+        "location": "Trento",
+        "courses_id": ["CL-2024", "KGE-2024", "KGE-2023", "KGE-2022", "KDI-2021", "KDI-2020", "DEQS_2024","SHB_2024","SHB_2023","SHB_2022","SHB_2021","SHB_2020","AIEL_2024"]
+    },
+    {
+        "name": "University of Minho",
+        "location": "Braga",
+        "courses_id": []
+    },
+    {
+        "name": "University of Jilin",
+        "location": "Jilin",
+        "courses_id": ["KDI-2024Autumn", "KDI-2024Spring", "KDI-2023", "KDI-2022"]
+    },
+    {
+        "name": "American International University - Bangladesh",
+        "location": "Bangladesh",
+        "courses_id": []
+    },
+    {
+        "name": "IMT Atlantique",
+        "location": "Paris",
+        "courses_id": []
+    },
+    {
+        "name": "National University of Mongolia",
+        "location": "Ulaanbaatar",
+        "courses_id": ["ICSI500-2022", "ICSI500-2024"]
+    }
+]

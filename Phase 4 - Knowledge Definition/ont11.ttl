@@ -1,0 +1,429 @@
+@prefix : <http://www.semanticweb.org/ontologies/2024/KGE-13/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/ontologies/2024/KGE-13/> .
+
+<http://knowdive.disi.unitn.it/etype#> rdf:type owl:Ontology .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://num.edu.mn/ontology#ConceptID
+<http://num.edu.mn/ontology#ConceptID> rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/identifier
+<http://purl.org/dc/elements/1.1/identifier> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/ontologies/2024/KGE-13#Datatype
+<http://www.semanticweb.org/ontologies/2024/KGE-13#Datatype> rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#has_produced
+:has_produced rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdfs:domain <http://num.edu.mn/ontology#Person> ;
+              rdfs:range :ResearchProduct .
+
+
+###  http://knowdive.disi.unitn.it/etype#is_part_of
+:is_part_of rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf owl:topObjectProperty ;
+            rdfs:domain <http://num.edu.mn/ontology#Person> ;
+            rdfs:range <http://vivoweb.org/ontology/core#University> .
+
+
+###  http://knowdive.disi.unitn.it/etype#related_to
+:related_to rdf:type owl:ObjectProperty ;
+            rdfs:domain :ResearchProduct ,
+                        <http://swrc.ontoware.org/ontology#ResearchProject> ;
+            rdfs:range <http://swrc.ontoware.org/ontology#ResearchTopic> .
+
+
+###  http://knowdive.disi.unitn.it/etype#status_alumni
+:status_alumni rdf:type owl:ObjectProperty ;
+               rdfs:subPropertyOf owl:topObjectProperty ;
+               rdfs:domain <http://num.edu.mn/ontology#Person> ;
+               rdfs:range <https://schema.org/alumni> .
+
+
+###  http://knowdive.disi.unitn.it/etype#status_member
+:status_member rdf:type owl:ObjectProperty ;
+               rdfs:subPropertyOf owl:topObjectProperty ;
+               rdfs:domain <http://num.edu.mn/ontology#Person> ;
+               rdfs:range <https://schema.org/member> .
+
+
+###  http://num.edu.mn/ontology#expertise_in
+<http://num.edu.mn/ontology#expertise_in> rdf:type owl:ObjectProperty ;
+                                          rdfs:domain <http://num.edu.mn/ontology#Person> ;
+                                          rdfs:range <http://swrc.ontoware.org/ontology#ResearchTopic> .
+
+
+###  http://num.edu.mn/ontology#has_subject
+<http://num.edu.mn/ontology#has_subject> rdf:type owl:ObjectProperty ;
+                                         rdfs:domain <http://vivoweb.org/ontology/core#University> ;
+                                         rdfs:range <http://purl.org/vocab/aiiso/schema#Course> .
+
+
+###  http://purl.org/vocab/aiiso/schema#responsibleFor
+<http://purl.org/vocab/aiiso/schema#responsibleFor> rdf:type owl:ObjectProperty ;
+                                                    rdfs:domain <http://num.edu.mn/ontology#Person> ;
+                                                    rdfs:range <http://swrc.ontoware.org/ontology#ResearchProject> .
+
+
+###  http://purl.org/vocab/aiiso/schema#teaches
+<http://purl.org/vocab/aiiso/schema#teaches> rdf:type owl:ObjectProperty ;
+                                             rdfs:domain <https://schema.org/member> ;
+                                             rdfs:range <http://purl.org/vocab/aiiso/schema#Course> .
+
+
+###  http://swrc.ontoware.org/ontology#headOf
+<http://swrc.ontoware.org/ontology#headOf> rdf:type owl:ObjectProperty ;
+                                           rdfs:domain <https://schema.org/member> ;
+                                           rdfs:range <http://swrc.ontoware.org/ontology#ResearchTopic> .
+
+
+###  http://swrc.ontoware.org/ontology#worksAtProject
+<http://swrc.ontoware.org/ontology#worksAtProject> rdf:type owl:ObjectProperty ;
+                                                   rdfs:domain <http://num.edu.mn/ontology#Person> ;
+                                                   rdfs:range <http://swrc.ontoware.org/ontology#ResearchProject> .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#support_role
+:support_role rdf:type owl:DatatypeProperty ;
+              rdfs:subPropertyOf owl:topDataProperty ;
+              rdfs:domain <https://schema.org/member> ;
+              <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0002" ;
+              rdfs:isDefinedBy "secondary actions and activitives assigned to or required or expected of a person or group distinctive from a role"@en .
+
+
+###  http://linkedscience.org/teach/ns#Teacher
+<http://linkedscience.org/teach/ns#Teacher> rdf:type owl:DatatypeProperty ;
+                                            rdfs:subPropertyOf owl:topDataProperty ;
+                                            rdfs:domain <http://purl.org/vocab/aiiso/schema#Course> ;
+                                            <http://num.edu.mn/ontology#ConceptID> "UKC- 53192" ;
+                                            rdfs:isDefinedBy "a person whose occupation is teaching"@en .
+
+
+###  http://num.edu.mn/ontology#Description
+<http://num.edu.mn/ontology#Description> rdf:type owl:DatatypeProperty ;
+                                         rdfs:domain <http://purl.org/vocab/aiiso/schema#Course> ;
+                                         <http://num.edu.mn/ontology#ConceptID> "UKC-3" ;
+                                         rdfs:isDefinedBy "a statement that represents something in words"@en .
+
+
+###  http://num.edu.mn/ontology#Email
+<http://num.edu.mn/ontology#Email> rdf:type owl:DatatypeProperty ;
+                                   rdfs:domain <https://schema.org/member> ;
+                                   <http://num.edu.mn/ontology#ConceptID> "UKC-33270" ;
+                                   rdfs:isDefinedBy "(computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that is generated at the recipient's terminal when he logs in"@en .
+
+
+###  http://num.edu.mn/ontology#Fund
+<http://num.edu.mn/ontology#Fund> rdf:type owl:DatatypeProperty ;
+                                  rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                  <http://num.edu.mn/ontology#ConceptID> "UKC-63194" ;
+                                  rdfs:isDefinedBy "a reserve of money set aside for some purpose"@en .
+
+
+###  http://num.edu.mn/ontology#Identifier
+<http://num.edu.mn/ontology#Identifier> rdf:type owl:DatatypeProperty ;
+                                        rdfs:domain <http://num.edu.mn/ontology#Person> ;
+                                        <http://num.edu.mn/ontology#ConceptID> "UKC-36255" ;
+                                        rdfs:isDefinedBy "a card or badge used to identify the bearer"@en .
+
+
+###  http://num.edu.mn/ontology#Surname
+<http://num.edu.mn/ontology#Surname> rdf:type owl:DatatypeProperty ;
+                                     rdfs:domain <http://num.edu.mn/ontology#Person> ;
+                                     <http://num.edu.mn/ontology#ConceptID> "UKC-33528" ;
+                                     rdfs:isDefinedBy "the name used to identify the members of a family (as distinguished from each member's given name)"@en .
+
+
+###  http://swrc.ontoware.org/ontology#endDate
+<http://swrc.ontoware.org/ontology#endDate> rdf:type owl:DatatypeProperty ;
+                                            rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ,
+                                                        <https://schema.org/alumni> ;
+                                            <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0004" ;
+                                            rdfs:isDefinedBy "the date in which something ended"@en .
+
+
+###  http://swrc.ontoware.org/ontology#howpublished
+<http://swrc.ontoware.org/ontology#howpublished> rdf:type owl:DatatypeProperty ;
+                                                 rdfs:domain :ResearchProduct ;
+                                                 <http://num.edu.mn/ontology#ConceptID> "UKC-34686" ;
+                                                 rdfs:isDefinedBy "a copy of a printed work offered for distribution"@en .
+
+
+###  http://swrc.ontoware.org/ontology#location
+<http://swrc.ontoware.org/ontology#location> rdf:type owl:DatatypeProperty ;
+                                             rdfs:domain <http://vivoweb.org/ontology/core#University> ;
+                                             <http://num.edu.mn/ontology#ConceptID> "UKC-50" ;
+                                             rdfs:isDefinedBy "a point or extent in space"@en .
+
+
+###  http://swrc.ontoware.org/ontology#name
+<http://swrc.ontoware.org/ontology#name> rdf:type owl:DatatypeProperty ;
+                                         rdfs:domain :ResearchProduct ,
+                                                     <http://num.edu.mn/ontology#Person> ,
+                                                     <http://purl.org/vocab/aiiso/schema#Course> ,
+                                                     <http://swrc.ontoware.org/ontology#ResearchProject> ,
+                                                     <http://swrc.ontoware.org/ontology#ResearchTopic> ,
+                                                     <http://vivoweb.org/ontology/core#University> ;
+                                         <http://num.edu.mn/ontology#ConceptID> "UKC-2" ;
+                                         rdfs:isDefinedBy "a language unit by which a person or thing is known"@en .
+
+
+###  http://swrc.ontoware.org/ontology#phone
+<http://swrc.ontoware.org/ontology#phone> rdf:type owl:DatatypeProperty ;
+                                          rdfs:subPropertyOf owl:topDataProperty ;
+                                          rdfs:domain <http://num.edu.mn/ontology#Person> ;
+                                          <http://num.edu.mn/ontology#ConceptID> "UKC-34007" ;
+                                          rdfs:isDefinedBy "the number is used in calling a particular telephone"@en .
+
+
+###  http://swrc.ontoware.org/ontology#startDate
+<http://swrc.ontoware.org/ontology#startDate> rdf:type owl:DatatypeProperty ;
+                                              rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                              <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0005" ;
+                                              rdfs:isDefinedBy "the date in which something started"@en .
+
+
+###  http://swrc.ontoware.org/ontology#type
+<http://swrc.ontoware.org/ontology#type> rdf:type owl:DatatypeProperty ;
+                                         rdfs:domain :ResearchProduct ;
+                                         <http://num.edu.mn/ontology#ConceptID> "UKC-31362" ;
+                                         rdfs:isDefinedBy "a subdivision of a particular kind of thing"@en .
+
+
+###  http://swrc.ontoware.org/ontology#year
+<http://swrc.ontoware.org/ontology#year> rdf:type owl:DatatypeProperty ;
+                                         rdfs:domain :ResearchProduct ,
+                                                     <http://purl.org/vocab/aiiso/schema#Course> ;
+                                         <http://num.edu.mn/ontology#ConceptID> "UKC-73248" ;
+                                         rdfs:isDefinedBy "a period of time containing 365 (or 366) days"@en .
+
+
+###  http://vivoweb.org/ontology/core#Keyword
+<http://vivoweb.org/ontology/core#Keyword> rdf:type owl:DatatypeProperty ;
+                                           rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                           <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0006" ;
+                                           rdfs:isDefinedBy "a word or a list of words that describe the content of the thing they are associated to"@en .
+
+
+###  http://vivoweb.org/ontology/core#University
+<http://vivoweb.org/ontology/core#University> rdf:type owl:DatatypeProperty ;
+                                              rdfs:subPropertyOf owl:topDataProperty ;
+                                              rdfs:domain <http://num.edu.mn/ontology#Person> ,
+                                                          <http://purl.org/vocab/aiiso/schema#Course> .
+
+
+###  http://www.knowdive.disi.unitn.it/etype#Language
+<http://www.knowdive.disi.unitn.it/etype#Language> rdf:type owl:DatatypeProperty ;
+                                                   rdfs:domain :ResearchProduct ;
+                                                   <http://num.edu.mn/ontology#ConceptID> "UKC-33289" ;
+                                                   rdfs:isDefinedBy "a systematic means of communicating by the use of sounds or conventional symbols"@en .
+
+
+###  http://www.knowdive.disi.unitn.it/etype#Position
+<http://www.knowdive.disi.unitn.it/etype#Position> rdf:type owl:DatatypeProperty ;
+                                                   rdfs:domain <http://num.edu.mn/ontology#Person> ;
+                                                   <http://num.edu.mn/ontology#ConceptID> "UKC-2929" ;
+                                                   rdfs:isDefinedBy "a job in an organization"@en .
+
+
+###  http://www.knowdive.disi.unitn.it/etype#Website
+<http://www.knowdive.disi.unitn.it/etype#Website> rdf:type owl:DatatypeProperty ;
+                                                  rdfs:domain <http://purl.org/vocab/aiiso/schema#Course> ;
+                                                  <http://num.edu.mn/ontology#ConceptID> "UKC-33648" ;
+                                                  rdfs:isDefinedBy "a document connected to the World Wide Web and viewable by anyone connected to the internet who has a web browser"@en .
+
+
+###  http://www.ontotext.com/proton/protontop.html#Topic
+<http://www.ontotext.com/proton/protontop.html#Topic> rdf:type owl:DatatypeProperty ;
+                                                      rdfs:subPropertyOf owl:topDataProperty ;
+                                                      rdfs:domain :ResearchProduct ,
+                                                                  <http://swrc.ontoware.org/ontology#ResearchProject> ,
+                                                                  <https://schema.org/member> ;
+                                                      <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0001" ;
+                                                      rdfs:isDefinedBy "the subject matter of a research" .
+
+
+###  http://www.w3.org/2006/vcard/ns#role
+<http://www.w3.org/2006/vcard/ns#role> rdf:type owl:DatatypeProperty ;
+                                       rdfs:domain <https://schema.org/alumni> ,
+                                                   <https://schema.org/member> ;
+                                       <http://num.edu.mn/ontology#ConceptID> "UKC-3646" ;
+                                       rdfs:isDefinedBy "the actions and activities assigned to or required or expected of a person or group"@en .
+
+
+###  https://dbpedia.org/ontology/leader
+<https://dbpedia.org/ontology/leader> rdf:type owl:DatatypeProperty ;
+                                      rdfs:subPropertyOf owl:topDataProperty ;
+                                      rdfs:domain <http://swrc.ontoware.org/ontology#ResearchTopic> ;
+                                      <http://num.edu.mn/ontology#ConceptID> "UKC-46947" ;
+                                      rdfs:isDefinedBy "a person who rules or guides or inspires others"@en .
+
+
+###  https://dbpedia.org/ontology/partner
+<https://dbpedia.org/ontology/partner> rdf:type owl:DatatypeProperty ;
+                                       rdfs:subPropertyOf owl:topDataProperty ;
+                                       rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                       <http://num.edu.mn/ontology#ConceptID> "UKC-48778" ;
+                                       rdfs:isDefinedBy "an associate who works with others toward a common goal"@en .
+
+
+###  https://dbpedia.org/ontology/projectCoordinator
+<https://dbpedia.org/ontology/projectCoordinator> rdf:type owl:DatatypeProperty ;
+                                                  rdfs:subPropertyOf owl:topDataProperty ;
+                                                  rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                                  <http://num.edu.mn/ontology#ConceptID> "UKC-48923" ;
+                                                  rdfs:isDefinedBy "someone whose task is to see that work goes harmoniously"@en .
+
+
+###  https://schema.org/Project
+<https://schema.org/Project> rdf:type owl:DatatypeProperty ;
+                             rdfs:subPropertyOf owl:topDataProperty ;
+                             rdfs:domain <http://swrc.ontoware.org/ontology#ResearchTopic> ;
+                             <http://num.edu.mn/ontology#ConceptID> "UKC-4011" ;
+                             rdfs:isDefinedBy "any piece of work that is undertaken or attempted" .
+
+
+###  https://schema.org/author
+<https://schema.org/author> rdf:type owl:DatatypeProperty ;
+                            rdfs:subPropertyOf owl:topDataProperty ;
+                            rdfs:domain :ResearchProduct ;
+                            <http://num.edu.mn/ontology#ConceptID> "UKC-53828" ;
+                            rdfs:isDefinedBy "writes (books or stories or articles or the like) professionally (for pay)"@en .
+
+
+###  https://schema.org/department
+<https://schema.org/department> rdf:type owl:DatatypeProperty ;
+                                rdfs:subPropertyOf owl:topDataProperty ;
+                                rdfs:domain <https://schema.org/member> ;
+                                <http://num.edu.mn/ontology#ConceptID> "UKC-43201" ;
+                                rdfs:isDefinedBy "a specialized division of a large organization"@en .
+
+
+###  https://schema.org/member
+<https://schema.org/member> rdf:type owl:DatatypeProperty ;
+                            rdfs:subPropertyOf owl:topDataProperty ;
+                            rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ,
+                                        <http://swrc.ontoware.org/ontology#ResearchTopic> .
+
+
+###  https://trdf.sourceforge.net/provenance/ns.html#File
+<https://trdf.sourceforge.net/provenance/ns.html#File> rdf:type owl:DatatypeProperty ;
+                                                       rdfs:subPropertyOf owl:topDataProperty ;
+                                                       rdfs:domain :ResearchProduct ;
+                                                       <http://num.edu.mn/ontology#ConceptID> "UKC-34276" ;
+                                                       rdfs:isDefinedBy "a set of related records (either written or electronic) kept together"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://knowdive.disi.unitn.it/etype#ResearchProduct
+:ResearchProduct rdf:type owl:Class ;
+                 <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0003" ;
+                 rdfs:isDefinedBy """an artifact that has been created by someone or some process for the
+research purpose"""@en .
+
+
+###  http://num.edu.mn/ontology#Person
+<http://num.edu.mn/ontology#Person> rdf:type owl:Class ;
+                                    owl:disjointUnionOf ( <https://schema.org/alumni>
+                                                          <https://schema.org/member>
+                                                        ) ;
+                                    <http://num.edu.mn/ontology#ConceptID> "UKC-36" ;
+                                    rdfs:isDefinedBy "a human being"@en .
+
+
+###  http://purl.org/vocab/aiiso/schema#Course
+<http://purl.org/vocab/aiiso/schema#Course> rdf:type owl:Class ;
+                                            rdfs:subClassOf <http://vivoweb.org/ontology/core#University> ;
+                                            <http://num.edu.mn/ontology#ConceptID> "UKC-4463" ;
+                                            rdfs:isDefinedBy "education imparted in a series of lessons or meetings"@en .
+
+
+###  http://swrc.ontoware.org/ontology#ResearchProject
+<http://swrc.ontoware.org/ontology#ResearchProject> rdf:type owl:Class ;
+                                                    <http://num.edu.mn/ontology#ConceptID> "UKC-4011" ;
+                                                    rdfs:isDefinedBy "any piece of work that is undertaken or attempted"@en .
+
+
+###  http://swrc.ontoware.org/ontology#ResearchTopic
+<http://swrc.ontoware.org/ontology#ResearchTopic> rdf:type owl:Class ;
+                                                  <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0001" ;
+                                                  rdfs:isDefinedBy "the subject matter of a research"@en .
+
+
+###  http://vivoweb.org/ontology/core#University
+<http://vivoweb.org/ontology/core#University> rdf:type owl:Class .
+
+
+###  https://schema.org/alumni
+<https://schema.org/alumni> rdf:type owl:Class ;
+                            rdfs:subClassOf <http://num.edu.mn/ontology#Person> ;
+                            owl:disjointWith <https://schema.org/member> ;
+                            <http://num.edu.mn/ontology#ConceptID> "UKC-47887" ;
+                            rdfs:isDefinedBy """a person who has received a degree from a school (high school or college
+or university)"""@en .
+
+
+###  https://schema.org/member
+<https://schema.org/member> rdf:type owl:Class ;
+                            rdfs:subClassOf <http://num.edu.mn/ontology#Person> .
+
+
+[ <http://swrc.ontoware.org/ontology#phone> ""
+] .
+
+[ <http://swrc.ontoware.org/ontology#phone> 123
+ ] .
+
+#################################################################
+#    Annotations
+#################################################################
+
+<http://vivoweb.org/ontology/core#University> <http://num.edu.mn/ontology#ConceptID> "UKC-44043" ;
+                                               rdfs:isDefinedBy """an educational institution of higher education and research which grants
+academic degrees in a variety of subjects and provides both undergrad-
+uate education and postgraduate education"""@en .
+
+
+<https://schema.org/member> <http://num.edu.mn/ontology#ConceptID> "UKC-14" ;
+                            rdfs:isDefinedBy """one of the persons who compose a social group (especially individuals
+who have joined and participates in a group organization)"""@en .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :ResearchProduct
+                <http://num.edu.mn/ontology#Person>
+                <http://swrc.ontoware.org/ontology#ResearchProject>
+                <http://swrc.ontoware.org/ontology#ResearchTopic>
+                <http://vivoweb.org/ontology/core#University>
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
