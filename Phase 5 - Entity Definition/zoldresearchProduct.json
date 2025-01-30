@@ -3,7 +3,7 @@
         "name": "Towards Visual Semantics",
         "howpublished": "Springer Nature Computer Science (SN COMPUT. SCI.) 2, 446 (2021)",
         "author": [
-            "u7n5a3p9",
+            "Giunchiglia, F.",
             "Erculiani, L.",
             "Passerini, A."
         ],
@@ -17,7 +17,7 @@
         "howpublished": "Proceeding of the 24th European Conference on Artificial Intelligence (ECAI), June 2020",
         "author": [
             "Erculiani, Luca",
-            "u7n5a3p9",
+            "Giunchiglia, Fausto",
             "Passerini, Andrea"
         ],
         "file": "https://drive.google.com/file/d/1YFyB7EwnOsrmLOtXWPI9GYbIgH1ow4fW/view",
@@ -29,8 +29,8 @@
         "name": "Teleologies: Objects, actions and functions.",
         "howpublished": "International conference on conceptual modeling (ER). Springer, Cham, 2017.",
         "author": [
-            "u7n5a3p9",
-            "ID3n4o5p6"
+            "Giunchiglia, F.",
+            "Fumagalli, M."
         ],
         "file": "https://drive.google.com/file/d/1V0JmiD4oWHVEeLz8UxAiLc7S8siZL8h8/view",
         "researchTopic_name": [
@@ -43,7 +43,7 @@
         "author": [
             "Maria Gini",
             "Noa Agmon",
-            "u7n5a3p9",
+            "Fausto Giunchiglia",
             "Sven Koenig",
             "Kevin Leyton'Brown"
         ],
@@ -56,7 +56,7 @@
         "name": "Computational Humanism",
         "howpublished": "On Line presentation at DISI, 2017. Trento, Italy",
         "author": [
-            "u7n5a3p9"
+            "Fausto Giunchiglia"
         ],
         "file": "https://drive.google.com/file/d/1rVUC6CSTVq9KowmrqfPxUAVg9h9AP9yq/view",
         "researchTopic_name": [
@@ -67,8 +67,8 @@
         "name": "Concepts as (Recognition) Abilities",
         "howpublished": "In Formal Ontology in Information System: Proceedings of the 9th International Conference (FOIS 2016), vol. 283, p. 153. IOS Press,2016",
         "author": [
-            "u7n5a3p9",
-            "ID3n4o5p6"
+            "Fausto Giunchiglia",
+            "Mattia Fumagalli"
         ],
         "file": "https://drive.google.com/file/d/1XCUXEUVG_m0lY2hevCKOdHYIvDnkBpf8/view",
         "researchTopic_name": [
@@ -79,7 +79,7 @@
         "name": "The future of AI",
         "howpublished": "Invited talk: KR 2008 Sidney, Sept 2008; Symposium for Alan Bundy, Edinburgh July 2008. Online presentation. Sept 2008; Symposium for Alan Bundy, Edinburgh July 2008.",
         "author": [
-            "u7n5a3p9"
+            "Fausto Giunchiglia"
         ],
         "file": "https://drive.google.com/file/d/1fYUADLKni0UCNG4R46yEzN35lJLD8Koq/view",
         "researchTopic_name": [
@@ -90,7 +90,7 @@
         "name": "Managing diversity in Knowledge",
         "howpublished": "Invited talk, ECAI 2006, Riva del Garda, Trento, Italy",
         "author": [
-            "u7n5a3p9"
+            "Fausto Giunchiglia"
         ],
         "file": "https://drive.google.com/file/d/14ynFnMNwWejLYUsQPBXZs1TF67ziExsQ/view",
         "researchTopic_name": [
@@ -101,11 +101,11 @@
         "name": "Improving time use measurement with personal big data collection - the experience of the European Big Data Hackathon 2019.",
         "howpublished": "Journal of Official Statistics, 2020",
         "author": [
-            "ID7q8r9s0",
-            "w2b1k5t9",
+            "Mattia Zeni",
+            "Ivano Bison",
             "Britta Gauckler",
             "Fernando Reis",
-            "u7n5a3p9"
+            "Fausto Giunchiglia"
         ],
         "file": "https://drive.google.com/file/d/1vWMHbLVKXgK-fky7YzX9G2BsJoAa42kf/view",
         "researchTopic_name": [
@@ -116,7 +116,7 @@
         "name": "Fixing mislabeling by human annotators leveraging conflict resolution and prior knowledge[J]",
         "howpublished": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2019, 3(1): 1-23",
         "author": [
-            "ID7q8r9s0",
+            "Zeni M",
             "Zhang W",
             "Bignotti E"
         ],
@@ -129,11 +129,11 @@
         "name": "Mobile social media usage and academic performance",
         "howpublished": "Computers in Human Behavior, vol. 82, p. 177-185, 2018",
         "author": [
-            "u7n5a3p9",
-            "ID7q8r9s0",
+            "Giunchiglia, F",
+            "Zeni, Mattia",
             "Gobbi, Elisa",
             "Bignotti, Enrico",
-            "w2b1k5t9"
+            "Bison, Ivano"
         ],
         "file": "https://drive.google.com/file/d/1yqhL-3AHojG-FM4wgSBraa9s7Kqlp0gw/view",
         "researchTopic_name": [
@@ -144,8 +144,8 @@
         "name": "Personal context recognition via reliable human-machine collaboration",
         "howpublished": "2018 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE, 2018: 379-384",
         "author": [
-            "u7n5a3p9",
-            "ID7q8r9s0",
+            "Giunchiglia F",
+            "Zeni M",
             "Big E"
         ],
         "file": "https://drive.google.com/file/d/1Hj-DFlsCwB8djF_9vqeuU1Cfmy1FGe1C/view",
@@ -157,9 +157,9 @@
         "name": "Personal context modelling and annotation",
         "howpublished": "2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE, 2017: 117-122",
         "author": [
-            "u7n5a3p9",
+            "Giunchiglia F",
             "Bignotti E",
-            "ID7q8r9s0"
+            "Zeni M"
         ],
         "file": "https://drive.google.com/file/d/1TJIHn26jeWRG51a4YbJFvo4xeohAo6_k/view",
         "researchTopic_name": [
@@ -170,9 +170,9 @@
         "name": "Multi-device activity logging",
         "howpublished": "Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication. 2014: 299-302",
         "author": [
-            "ID7q8r9s0",
+            "Zeni M",
             "Zaihrayeu I",
-            "u7n5a3p9"
+            "Giunchiglia F"
         ],
         "file": "https://drive.google.com/file/d/1wzmGS-tRrSeaBdrQCm2fW7wpDfiMUxOm/view",
         "researchTopic_name": [
@@ -184,7 +184,7 @@
         "howpublished": "Extended Abstracts on Human Factors in Computing Systems. 2013: 1677-1682",
         "author": [
             "Kim P H",
-            "u7n5a3p9"
+            "Giunchiglia F"
         ],
         "file": "https://drive.google.com/file/d/1cvmQICd5mTnwNwqQtw87zyT_Q3e8gqsy/view",
         "researchTopic_name": [
@@ -195,13 +195,13 @@
         "name": "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge",
         "howpublished": "European Conference on Artificial Intelligence, Prestigious Applications of Intelligent Systems, 2020 (ECAI-PAIS), Spain 2020 Systems, 2020 (ECAI-PAIS), Spain 2020",
         "author": [
-            "ID1t2u3v4",
+            "Bella, G",
             "Elliot, L",
             "Das, S",
             "Pavis, S",
             "Turra, E",
             "Robertson, D",
-            "u7n5a3p9"
+            "Giunchiglia, F"
         ],
         "file": "https://drive.google.com/file/d/1IRtcwcm7dNG5ibYyIr2Rz_y4CCRhWgq7/view",
         "researchTopic_name": [
@@ -212,8 +212,8 @@
         "name": "On Knowledge Diversity",
         "howpublished": "JOWO, 2019",
         "author": [
-            "u7n5a3p9",
-            "ID3n4o5p6"
+            "Giunchiglia, F.",
+            "Fumagalli, M."
         ],
         "file": "https://drive.google.com/file/d/1-Nq_q2nYo1Q2My2eDeXFE1LbCUI569sI/view",
         "researchTopic_name": [
@@ -224,7 +224,7 @@
         "name": "Beyond being online as we are online now",
         "howpublished": "IJCAI ,24 august 2017, University of Trento, Melbourne",
         "author": [
-            "u7n5a3p9"
+            "Giunchiglia, F."
         ],
         "file": "https://drive.google.com/file/d/1Y1xFpt7v040iHNRryPPfHjJ5M4vstKFB/view",
         "researchTopic_name": [
@@ -235,8 +235,8 @@
         "name": "Language and Domain Aware Lightweight Ontology Matching",
         "howpublished": "Journal of Web Semantics, vol. 43, March 2017, pp. 1-17",
         "author": [
-            "a6f0x9l7",
-            "u7n5a3p9",
+            "G\u00c3\u00a1bor Bella",
+            "Fausto Giunchiglia",
             "Fiona McNeill"
         ],
         "file": "https://drive.google.com/file/d/14GWzWPHdSjViaTQoL7jBhSk82k5zF5Q0/view",
@@ -248,8 +248,8 @@
         "name": "Teleologies: Objects, actions and functions.",
         "howpublished": "International conference on conceptual modeling (ER). Springer, Cham, 2017",
         "author": [
-            "u7n5a3p9",
-            "ID3n4o5p6"
+            "Fausto Giunchiglia",
+            "Fumagalli, M."
         ],
         "file": "https://drive.google.com/file/d/1V0JmiD4oWHVEeLz8UxAiLc7S8siZL8h8/view",
         "researchTopic_name": [
@@ -260,8 +260,8 @@
         "name": "Concepts as (Recognition) Abilities",
         "howpublished": "In Formal Ontology in Information System: Proceedings of the 9th International Conference (FOIS 2016), vol. 283, p. 153. IOS Press,2016",
         "author": [
-            "u7n5a3p9",
-            "ID3n4o5p6"
+            "Fausto Giunchiglia",
+            "Mattia Fumagalli."
         ],
         "file": "https://drive.google.com/file/d/1XCUXEUVG_m0lY2hevCKOdHYIvDnkBpf8/view",
         "researchTopic_name": [
@@ -272,9 +272,9 @@
         "name": "Domains and context: first steps towards managing diversity in knowledge",
         "howpublished": "Journal of Web Semantics, special issue on Reasoning with Context in the Semantic Web, April 2012, Italy",
         "author": [
-            "u7n5a3p9",
+            "Fausto Giunchiglia",
             "Vincenzo Maltese",
-            "ID9g0h1i2"
+            "Biswanath Dutta"
         ],
         "file": "https://drive.google.com/file/d/1RoEDt-Pc-_1JvGG16Tcj8lj2EKpOoUMU/view",
         "researchTopic_name": [
@@ -285,7 +285,7 @@
         "name": " Managing diversity in Knowledge",
         "howpublished": "Invited talk, ECAI 2006, Riva del Garda, Trento, Italy.",
         "author": [
-            "u7n5a3p9"
+            "Fausto Giunchiglia"
         ],
         "file": "https://drive.google.com/file/d/14ynFnMNwWejLYUsQPBXZs1TF67ziExsQ/view",
         "researchTopic_name": [
@@ -296,11 +296,11 @@
         "name": "Lexical diversity in kinship across languages and dialects",
         "howpublished": "Frontiers in Psychology, 14, 1229697, (2023)",
         "author": [
-            "m6y1h8b2",
-            "ID1t2u3v4",
+            "Khalilia, H",
+            "Bella, G.",
             "Freihat, A.",
-            "v7s4b3z0",
-            "u7n5a3p9"
+            "Darma, S.",
+            "Giunchiglia, F."
         ],
         "file": "",
         "researchTopic_name": [
@@ -311,13 +311,13 @@
         "name": "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge.",
         "howpublished": "Prestigious Applications of Intelligent Systems, ECAI 2020, Santiago de Compostela, Spain",
         "author": [
-            "ID1t2u3v4",
+            "Bella, G",
             "Elliot, L",
             "Das, S",
             "Pavis, S",
             "Turra, E",
             "Robertson, D",
-            "u7n5a3p9"
+            "Giunchiglia, F"
         ],
         "file": "https://drive.google.com/file/d/1IRtcwcm7dNG5ibYyIr2Rz_y4CCRhWgq7/view",
         "researchTopic_name": [
@@ -329,8 +329,8 @@
         "howpublished": "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 3136\u00e2\u20ac\u201c3145 Florence, Italy, July 28 - August 2, 2019",
         "author": [
             "Khuyagbaatar Batsuren",
-            "a6f0x9l7",
-            "u7n5a3p9"
+            "G\u00c3\u00a1bor Bella",
+            "Fausto Giunchiglia"
         ],
         "file": "https://drive.google.com/file/d/1f-YkBoTemub0e64TFGFzLDgQcGWk4fLq/view",
         "researchTopic_name": [
@@ -341,7 +341,7 @@
         "name": "One World - Seven Thousand Languages",
         "howpublished": "19th International Conference on Computational Linguistics and Intelligent Text Processing, Hanoi, Vietnam, 2018",
         "author": [
-            "u7n5a3p9",
+            "Fausto Giunchiglia",
             "Khuyagbaatar Batsuren",
             "Abel Alhakim Freihat"
         ],
@@ -354,9 +354,9 @@
         "name": "Understanding and Exploiting Language Diversity",
         "howpublished": "Proceedings of IJCAI 2017, Melbourne",
         "author": [
-            "u7n5a3p9",
+            "Fausto Giunchiglia",
             "Khuyagbaatar Batsuren",
-            "a6f0x9l7"
+            "G\u00c3\u00a1bor Bella"
         ],
         "file": "https://drive.google.com/file/d/1VtWxhG9Y5RHh9CHhwJvl0NPJP0kwmilI/view",
         "researchTopic_name": [
@@ -367,8 +367,8 @@
         "name": "Language and Domain Aware Lightweight Ontology Matching",
         "howpublished": "Journal of Web Semantics, vol. 43, March 2017, pp. 1-17",
         "author": [
-            "a6f0x9l7",
-            "u7n5a3p9",
+            "G\u00c3\u00a1bor Bella",
+            "Fausto Giunchiglia",
             "Fiona McNeill"
         ],
         "file": "https://drive.google.com/file/d/14GWzWPHdSjViaTQoL7jBhSk82k5zF5Q0/view",
@@ -380,9 +380,9 @@
         "name": "Domain-Based Sense Disambiguation on Multilingual Structured Data",
         "howpublished": "Proceedings of the ECAI, 2016, workshop on Diversity Aware Artificial Intelligence, The Hague, Netherlands",
         "author": [
-            "a6f0x9l7",
-            "z1t7c4o5",
-            "u7n5a3p9"
+            "G\u00c3\u00a1bor Bella",
+            "Alessio Zamboni",
+            "Fausto Giunchiglia"
         ],
         "file": "https://drive.google.com/file/d/1iN4fYgb6nsDhj9cn_Eubso2D3Dh01saC/view",
         "researchTopic_name": [

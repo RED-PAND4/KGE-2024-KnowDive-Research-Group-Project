@@ -5,37 +5,7 @@
         "surname": "Giunchiglia",
         "vcard:role": "Coordinator",
         "researchTopic_name": "KnowDive",
-        "researchProduct_name": [
-            "Towards Visual Semantics",
-            "Continual egocentric object recognition",
-            "Teleologies: Objects, actions and functions.",
-            "Artificial Intelligence in 2027",
-            "Computational Humanism",
-            "Concepts as (Recognition) Abilities",
-            "The future of AI",
-            "Managing diversity in Knowledge",
-            "Improving time use measurement with personal big data collection - the experience of the European Big Data Hackathon 2019.",
-            "Mobile social media usage and academic performance",
-            "Personal context recognition via reliable human-machine collaboration",
-            "Personal context modelling and annotation",
-            "Multi-device activity logging",
-            "The open platform for personal lifelogging: the elifelog architecture",
-            "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge",
-            "On Knowledge Diversity",
-            "Beyond being online as we are online now",
-            "Language and Domain Aware Lightweight Ontology Matching",
-            "Teleologies: Objects, actions and functions.",
-            "Concepts as (Recognition) Abilities",
-            "Domains and context: first steps towards managing diversity in knowledge",
-            " Managing diversity in Knowledge",
-            "Lexical diversity in kinship across languages and dialects",
-            "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge.",
-            "CogNet: a Large-Scale Cognate Database",
-            "One World - Seven Thousand Languages",
-            "Understanding and Exploiting Language Diversity",
-            "Language and Domain Aware Lightweight Ontology Matching",
-            "Domain-Based Sense Disambiguation on Multilingual Structured Data"
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "JIDEP: Joint Industrial Data Exchange Platform",
@@ -53,7 +23,7 @@
         "surname": "Tavares",
         "vcard:role": "External Member",
         "researchTopic_name": "Artificial Human Cognition",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Minho",
         "project_name": [],
         "phone": ""
@@ -64,10 +34,7 @@
         "surname": "Bison",
         "vcard:role": "External Member",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [
-            "Improving time use measurement with personal big data collection - the experience of the European Big Data Hackathon 2019.",
-            "Mobile social media usage and academic performance"
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": "0461 281315"
@@ -78,7 +45,7 @@
         "surname": "Xu",
         "vcard:role": "External Member",
         "researchTopic_name": "Language Diversity, Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Jilin",
         "project_name": [],
         "phone": ""
@@ -89,7 +56,7 @@
         "surname": "Hasan",
         "vcard:role": "External Member",
         "researchTopic_name": "Human-Computer Interaction (HCI)",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "American International University - Bangladesh",
         "project_name": [],
         "phone": ""
@@ -100,13 +67,7 @@
         "surname": "Bella",
         "vcard:role": "External Member",
         "researchTopic_name": "Language Diversity",
-        "researchProduct_name": [
-            "Language and Domain Aware Lightweight Ontology Matching",
-            "CogNet: a Large-Scale Cognate Database",
-            "Understanding and Exploiting Language Diversity",
-            "Language and Domain Aware Lightweight Ontology Matching",
-            "Domain-Based Sense Disambiguation on Multilingual Structured Data"
-        ],
+        "researchProduct_name": "",
         "University": "IMT Atlantique",
         "project_name": [],
         "phone": ""
@@ -117,9 +78,7 @@
         "surname": "Zamboni",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "Artificial Human Cognition",
-        "researchProduct_name": [
-            "Domain-Based Sense Disambiguation on Multilingual Structured Data"
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "JIDEP: Joint Industrial Data Exchange Platform",
@@ -133,7 +92,7 @@
         "surname": "Chandrashekar",
         "vcard:role": "Thesis Student",
         "researchTopic_name": "Language Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -144,7 +103,7 @@
         "surname": "Zhang",
         "vcard:role": "External Member",
         "researchTopic_name": "Knowledge Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Jilin",
         "project_name": [],
         "phone": ""
@@ -155,7 +114,7 @@
         "surname": "Bontempelli",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Artificial Human Cognition, Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "Wenet - The Internet of Us"
@@ -168,7 +127,7 @@
         "surname": "Bagchi",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Knowledge Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "JIDEP: Joint Industrial Data Exchange Platform"
@@ -181,7 +140,7 @@
         "surname": "Bocca",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "Knowledge Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "JIDEP: Joint Industrial Data Exchange Platform",
@@ -196,7 +155,7 @@
         "surname": "Barbieri",
         "vcard:role": "Master Student",
         "researchTopic_name": "Knowledge Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -207,7 +166,7 @@
         "surname": "Busso",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "ISTAT - SmartSurveys",
@@ -222,7 +181,7 @@
         "surname": "Li",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Human-Machine Symbiosis, Knowledge Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -233,7 +192,7 @@
         "surname": "Ivan",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -244,7 +203,7 @@
         "surname": "Diao",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Knowledge Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -255,9 +214,7 @@
         "surname": "Darma",
         "vcard:role": "Master Student",
         "researchTopic_name": "Language Diversity",
-        "researchProduct_name": [
-            "Lexical diversity in kinship across languages and dialects"
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -268,7 +225,7 @@
         "surname": "Zhao",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -279,7 +236,7 @@
         "surname": "Hamza",
         "vcard:role": "Senior Researcher",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "Software Engineer",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -290,9 +247,7 @@
         "surname": "Khalilia",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Language Diversity",
-        "researchProduct_name": [
-            "Lexical diversity in kinship across languages and dialects"
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -303,7 +258,7 @@
         "surname": "Malcotti",
         "vcard:role": "Master Student",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -314,7 +269,7 @@
         "surname": "Zang",
         "vcard:role": "Visiting Student",
         "researchTopic_name": "Artificial Human Cognition",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -325,7 +280,7 @@
         "surname": "Don\u00c3\u00a0",
         "vcard:role": "Internship Student",
         "researchTopic_name": "Knowledge Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -336,7 +291,7 @@
         "surname": "Asiku",
         "vcard:role": "Senior Researcher",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -347,7 +302,7 @@
         "surname": "Duro",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Artificial Human Cognition",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -358,7 +313,7 @@
         "surname": "Korkmaz",
         "vcard:role": "Internship Student",
         "researchTopic_name": "Language Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -369,7 +324,7 @@
         "surname": "Angeli",
         "vcard:role": "Internship Student",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -380,7 +335,7 @@
         "surname": "Gaggero",
         "vcard:role": "Host Research Collaborator",
         "researchTopic_name": "Artificial Human Cognition",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": "0464 808667"
@@ -391,7 +346,7 @@
         "surname": "Novel",
         "vcard:role": "Internship Student",
         "researchTopic_name": "Knowledge Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -402,7 +357,7 @@
         "surname": "Samorinha",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -413,7 +368,7 @@
         "surname": "Mehta",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Language Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -424,7 +379,7 @@
         "surname": "Bayanjargal",
         "vcard:role": "Internship Student",
         "researchTopic_name": "Human-Machine Symbiosis",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -435,7 +390,7 @@
         "surname": "Gon\u00c3\u00a7alves Silva",
         "vcard:role": "PhD Student",
         "researchTopic_name": "Artificial Human Cognition",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -446,7 +401,7 @@
         "surname": "Maniu",
         "vcard:role": "Internship Student",
         "researchTopic_name": "Language Diversity",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -457,7 +412,7 @@
         "surname": "Salas Ichoc\u00c3\u00a1n",
         "vcard:role": "Internship Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -468,7 +423,7 @@
         "surname": "Gruia",
         "vcard:role": "Senior researcher",
         "researchTopic_name": "Artificial Human Cognition",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -479,7 +434,7 @@
         "surname": "Bihun",
         "vcard:role": "DataScientia",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -490,7 +445,7 @@
         "surname": "Shvaiko",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -501,7 +456,7 @@
         "surname": "Corubolo",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -512,9 +467,7 @@
         "surname": "Dutta",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [
-            "Domains and context: first steps towards managing diversity in knowledge"
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -525,7 +478,7 @@
         "surname": "Pavan",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -536,7 +489,7 @@
         "surname": "Trecarchi",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -547,7 +500,7 @@
         "surname": "Menendez",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -558,7 +511,7 @@
         "surname": "Pane",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -569,7 +522,7 @@
         "surname": "Autayeu",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -580,7 +533,7 @@
         "surname": "Kharkevich",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -591,7 +544,7 @@
         "surname": "Yang",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -602,7 +555,7 @@
         "surname": "Kim",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -613,7 +566,7 @@
         "surname": "Jovanovic",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -624,7 +577,7 @@
         "surname": "Teso",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -635,13 +588,7 @@
         "surname": "Fumagalli",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [
-            "Teleologies: Objects, actions and functions.",
-            "Concepts as (Recognition) Abilities",
-            "On Knowledge Diversity",
-            "Teleologies: Objects, actions and functions.",
-            "Concepts as (Recognition) Abilities"
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -652,14 +599,7 @@
         "surname": "Zeni",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [
-            "Improving time use measurement with personal big data collection - the experience of the European Big Data Hackathon 2019.",
-            "Fixing mislabeling by human annotators leveraging conflict resolution and prior knowledge[J]",
-            "Mobile social media usage and academic performance",
-            "Personal context recognition via reliable human-machine collaboration",
-            "Personal context modelling and annotation",
-            "Multi-device activity logging"
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "Eurostat",
@@ -673,11 +613,7 @@
         "surname": "Bella",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [
-            "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge",
-            "Lexical diversity in kinship across languages and dialects",
-            "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge."
-        ],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "Digital University"
@@ -690,7 +626,7 @@
         "surname": "Kyriakou",
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -701,7 +637,7 @@
         "surname": "Ivanyukovich",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -712,7 +648,7 @@
         "surname": "Babenko",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -723,7 +659,7 @@
         "surname": "Morshed",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -734,7 +670,7 @@
         "surname": "Xu",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -745,7 +681,7 @@
         "surname": "Noori",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -756,7 +692,7 @@
         "surname": "Vintila",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -767,7 +703,7 @@
         "surname": "Battisti",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -778,7 +714,7 @@
         "surname": "Frai",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -789,7 +725,7 @@
         "surname": "Ojha",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -800,7 +736,7 @@
         "surname": "Shi",
         "vcard:role": "PhD Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -811,7 +747,7 @@
         "surname": "Giuffrida",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -822,7 +758,7 @@
         "surname": "Kanhabua",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -833,7 +769,7 @@
         "surname": "Ahmad",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -844,7 +780,7 @@
         "surname": "Nurjahan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -855,7 +791,7 @@
         "surname": "Kumar Nanduri",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -866,7 +802,7 @@
         "surname": "Syed",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -877,7 +813,7 @@
         "surname": "Syed",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -888,7 +824,7 @@
         "surname": "Khan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -899,7 +835,7 @@
         "surname": "Sipei",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -910,7 +846,7 @@
         "surname": "Aslam",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -921,7 +857,7 @@
         "surname": "Jameel",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -932,7 +868,7 @@
         "surname": "Favero",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -943,7 +879,7 @@
         "surname": "Naidan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -954,7 +890,7 @@
         "surname": "Ruslan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -965,7 +901,7 @@
         "surname": "Schuster",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -976,7 +912,7 @@
         "surname": "Billal Qwaider",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -987,7 +923,7 @@
         "surname": "Alkhabbas",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -998,7 +934,7 @@
         "surname": "Karanjit",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1009,7 +945,7 @@
         "surname": "Hossain",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1020,7 +956,7 @@
         "surname": "Reddy Daggumati",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1031,7 +967,7 @@
         "surname": "Das",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1042,7 +978,7 @@
         "surname": "Pandey",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1053,7 +989,7 @@
         "surname": "Yang",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1064,7 +1000,7 @@
         "surname": "Shrestha",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1075,7 +1011,7 @@
         "surname": "Tonelli",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1086,7 +1022,7 @@
         "surname": "Lu",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1097,7 +1033,7 @@
         "surname": "Leucci",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1108,7 +1044,7 @@
         "surname": "Luco",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1119,7 +1055,7 @@
         "surname": "Nyamdavaa",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1130,7 +1066,7 @@
         "surname": "Kyerjee",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1141,7 +1077,7 @@
         "surname": "Nandini",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1152,7 +1088,7 @@
         "surname": "Mapoe",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1163,7 +1099,7 @@
         "surname": "Wu",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1174,7 +1110,7 @@
         "surname": "Chi",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1185,7 +1121,7 @@
         "surname": "Velardi",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1196,7 +1132,7 @@
         "surname": "Boffo",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1207,7 +1143,7 @@
         "surname": "Wu",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1218,7 +1154,7 @@
         "surname": "Gon\u00c3\u00a7alves Silva",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1229,7 +1165,7 @@
         "surname": "Bergamasco",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1240,7 +1176,7 @@
         "surname": "Shen",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1251,7 +1187,7 @@
         "surname": "Trevisan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1262,7 +1198,7 @@
         "surname": "Wang",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1273,7 +1209,7 @@
         "surname": "Donotti",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1284,7 +1220,7 @@
         "surname": "Do\u00c3\u00b1a",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1295,7 +1231,7 @@
         "surname": "Morellini",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1306,7 +1242,7 @@
         "surname": "Hrovatin",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1317,7 +1253,7 @@
         "surname": "Dauti",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1328,7 +1264,7 @@
         "surname": "Ilaqat",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1339,7 +1275,7 @@
         "surname": "Li",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1350,7 +1286,7 @@
         "surname": "Zhou",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1361,7 +1297,7 @@
         "surname": "Shami",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1372,7 +1308,7 @@
         "surname": "Sajjad",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1383,7 +1319,7 @@
         "surname": "Chatvorawit",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1394,7 +1330,7 @@
         "surname": "Puapermpoonsiri",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1405,7 +1341,7 @@
         "surname": "Kenjana",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1416,7 +1352,7 @@
         "surname": "Bertacco",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1427,7 +1363,7 @@
         "surname": "Chiasera",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1438,7 +1374,7 @@
         "surname": "Yang",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1449,7 +1385,7 @@
         "surname": "Badawi",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1460,7 +1396,7 @@
         "surname": "Guoyu",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1471,7 +1407,7 @@
         "surname": "Salam",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1482,7 +1418,7 @@
         "surname": "Hossain",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1493,7 +1429,7 @@
         "surname": "Vasilevski",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1504,7 +1440,7 @@
         "surname": "Guarasci",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1515,7 +1451,7 @@
         "surname": "Fadhil",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1526,7 +1462,7 @@
         "surname": "Nguyen Huy",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1537,7 +1473,7 @@
         "surname": "Miron",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1548,7 +1484,7 @@
         "surname": "Jahan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1559,7 +1495,7 @@
         "surname": "AbuRa'ed",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1570,7 +1506,7 @@
         "surname": "Chumakova",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1581,7 +1517,7 @@
         "surname": "Prest",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1592,7 +1528,7 @@
         "surname": "Qin",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1603,7 +1539,7 @@
         "surname": "Mogesse",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1614,7 +1550,7 @@
         "surname": "Shahi",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1625,7 +1561,7 @@
         "surname": "Ssekamatte",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1636,7 +1572,7 @@
         "surname": "Li",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1647,7 +1583,7 @@
         "surname": "Zhou",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1658,7 +1594,7 @@
         "surname": "Shami",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1669,7 +1605,7 @@
         "surname": "Sajjad",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1680,7 +1616,7 @@
         "surname": "Chatvorawit",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1691,7 +1627,7 @@
         "surname": "Puapermpoonsiri",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1702,7 +1638,7 @@
         "surname": "Kenjana",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1713,7 +1649,7 @@
         "surname": "Bertacco",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1724,7 +1660,7 @@
         "surname": "Chiasera",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1735,7 +1671,7 @@
         "surname": "Yang",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1746,7 +1682,7 @@
         "surname": "Badawi",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1757,7 +1693,7 @@
         "surname": "Guoyu",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1768,7 +1704,7 @@
         "surname": "Salam",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1779,7 +1715,7 @@
         "surname": "Hossain",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1790,7 +1726,7 @@
         "surname": "Vasilevski",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1801,7 +1737,7 @@
         "surname": "Guarasci",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1812,7 +1748,7 @@
         "surname": "Fadhil",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1823,7 +1759,7 @@
         "surname": "Nguyen Huy",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1834,7 +1770,7 @@
         "surname": "Miron",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1845,7 +1781,7 @@
         "surname": "Jahan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1856,7 +1792,7 @@
         "surname": "AbuRa'ed",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1867,7 +1803,7 @@
         "surname": "Chumakova",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1878,7 +1814,7 @@
         "surname": "Prest",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1889,7 +1825,7 @@
         "surname": "Qin",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1900,7 +1836,7 @@
         "surname": "Mogesse",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1911,7 +1847,7 @@
         "surname": "Shahi",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1922,7 +1858,7 @@
         "surname": "Ssekamatte",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1933,7 +1869,7 @@
         "surname": "Bogdan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1944,7 +1880,7 @@
         "surname": "Tan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1955,7 +1891,7 @@
         "surname": "Agrusti",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1966,7 +1902,7 @@
         "surname": "Ariane",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1977,7 +1913,7 @@
         "surname": "Lamon",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1988,7 +1924,7 @@
         "surname": "Duro",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -1999,7 +1935,7 @@
         "surname": "Bailoni",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2010,7 +1946,7 @@
         "surname": "Conti",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2021,7 +1957,7 @@
         "surname": "Song",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2032,7 +1968,7 @@
         "surname": "Ye",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2043,7 +1979,7 @@
         "surname": "Alghisi",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2054,7 +1990,7 @@
         "surname": "Yin",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2065,7 +2001,7 @@
         "surname": "Bernardi",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2076,7 +2012,7 @@
         "surname": "Fetz",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2087,7 +2023,7 @@
         "surname": "Stefan",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2098,7 +2034,7 @@
         "surname": "Provvedini",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2109,7 +2045,7 @@
         "surname": "Azari",
         "vcard:role": "Master Student",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2120,7 +2056,7 @@
         "surname": "Godyayev",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2131,7 +2067,7 @@
         "surname": "Vagin",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2142,7 +2078,7 @@
         "surname": "Hegazy",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2153,7 +2089,7 @@
         "surname": "Hasan",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2164,7 +2100,7 @@
         "surname": "Beloglazov",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2175,7 +2111,7 @@
         "surname": "Lapin",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2186,7 +2122,7 @@
         "surname": "Albarelli",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2197,7 +2133,7 @@
         "surname": "Margonar",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "Digital University"
@@ -2210,7 +2146,7 @@
         "surname": "Andersson",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2221,7 +2157,7 @@
         "surname": "Pravdin",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2232,7 +2168,7 @@
         "surname": "Marasca",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2243,7 +2179,7 @@
         "surname": "Togtokhdorj",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2254,7 +2190,7 @@
         "surname": "De Cristofaro",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2265,7 +2201,7 @@
         "surname": "G\u00c3\u00bcnel",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2276,7 +2212,7 @@
         "surname": "Tomasi",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2287,7 +2223,7 @@
         "surname": "Hossain",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2298,7 +2234,7 @@
         "surname": "Rizzi",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2309,7 +2245,7 @@
         "surname": "Labellarte",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2320,7 +2256,7 @@
         "surname": "Passamani",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2331,7 +2267,7 @@
         "surname": "Kanshin",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2342,7 +2278,7 @@
         "surname": "Kumar",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2353,7 +2289,7 @@
         "surname": "Martinelli",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2364,7 +2300,7 @@
         "surname": "Nicoletti",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2375,7 +2311,7 @@
         "surname": "Bux",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2386,7 +2322,7 @@
         "surname": "Leoni",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [
             "Safe Haven 1 - Healthcare Data Safe Havens",
@@ -2401,7 +2337,7 @@
         "surname": "Kai",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2412,7 +2348,7 @@
         "surname": "Maldaner",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2423,7 +2359,7 @@
         "surname": "Cheema",
         "vcard:role": "Software Engineer",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2434,7 +2370,7 @@
         "surname": "Mardare",
         "vcard:role": "Staff",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2445,7 +2381,7 @@
         "surname": "Petkanovska",
         "vcard:role": "Staff",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2456,7 +2392,7 @@
         "surname": "Maidana",
         "vcard:role": "Staff",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2467,7 +2403,7 @@
         "surname": "Vozna",
         "vcard:role": "Staff",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2478,7 +2414,7 @@
         "surname": "Poghosyan",
         "vcard:role": "Staff",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2489,7 +2425,7 @@
         "surname": "Kurdiani",
         "vcard:role": "Staff",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
@@ -2500,7 +2436,7 @@
         "surname": "Vozna",
         "vcard:role": "Staff",
         "researchTopic_name": "",
-        "researchProduct_name": [],
+        "researchProduct_name": "",
         "University": "University of Trento",
         "project_name": [],
         "phone": ""
