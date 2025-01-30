@@ -1,0 +1,250 @@
+<http://localhost:8080/source/CL-2024> <http://swrc.ontoware.org/ontology#year> "2024" .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/CL-2024> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/CL-2024> .
+<http://localhost:8080/source/CL-2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/CL-2024> <http://www.knowdive.disi.unitn.it/etype#Website> "https://datascientiafoundation.github.io/datascientia-education-logica-2024-25-unitn/" .
+<http://localhost:8080/source/l5f7c3d1> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/CL-2024> .
+<http://localhost:8080/source/l5f7c3d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/CL-2024> <http://swrc.ontoware.org/ontology#name> "Computational Logic (CL)" .
+
+<http://localhost:8080/source/KGE-2024> <http://www.knowdive.disi.unitn.it/etype#Website> "https://unitn-knowledge-graph-engineering.github.io/KGE2024-website/" .
+<http://localhost:8080/source/f2h4k1v9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2024> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KGE-2024> .
+<http://localhost:8080/source/KGE-2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/KGE-2024> <http://swrc.ontoware.org/ontology#year> "2024" .
+<http://localhost:8080/source/f2huw1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2024> .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2024> .
+<http://localhost:8080/source/KGE-2024> <http://swrc.ontoware.org/ontology#name> "Knowledge Graph Engineering (KGE)" .
+<http://localhost:8080/source/f2h4k1v9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f2huw1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/KGE-2023> <http://swrc.ontoware.org/ontology#year> "2023" .
+<http://localhost:8080/source/d8je90a5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2023> .
+<http://localhost:8080/source/d93m6fg7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KGE-2023> .
+<http://localhost:8080/source/f2h4k1v9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2023> .
+<http://localhost:8080/source/d8je90a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/d93m6fg7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2023> .
+<http://localhost:8080/source/f2huw1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2023> .
+<http://localhost:8080/source/f2h4k1v9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2023> .
+<http://localhost:8080/source/KGE-2023> <http://www.knowdive.disi.unitn.it/etype#Website> "https://unitn-knowledge-graph-engineering.github.io/KGE2023-website/" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/KGE-2023> <http://swrc.ontoware.org/ontology#name> "Knowledge Graph Engineering (KGE)" .
+<http://localhost:8080/source/f2huw1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/KGE-2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+
+<http://localhost:8080/source/KGE-2022> <http://swrc.ontoware.org/ontology#name> "Knowledge Graph Engineering (KGE)" .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KGE-2022> .
+<http://localhost:8080/source/KGE-2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/KGE-2022> <http://www.knowdive.disi.unitn.it/etype#Website> "https://unitn-knowledge-graph-engineering.github.io/KGE2022-website/" .
+<http://localhost:8080/source/f2huw1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2022> .
+<http://localhost:8080/source/f2h4k1v9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2022> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f2huw1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f2h4k1v9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2022> .
+<http://localhost:8080/source/KGE-2022> <http://swrc.ontoware.org/ontology#year> "2022" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/ID5a6b7c8> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2021> .
+<http://localhost:8080/source/f2huw1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2021> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KDI-2021> .
+<http://localhost:8080/source/KDI-2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/z1t7c4o5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2021> .
+<http://localhost:8080/source/z1t7c4o5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2021> .
+<http://localhost:8080/source/f2h4k1v9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/KDI-2021> <http://swrc.ontoware.org/ontology#year> "2021" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f2huw1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/KDI-2021> <http://www.knowdive.disi.unitn.it/etype#Website> "https://unitn-kdi-2021.github.io/unitn-kdi-2021-website/" .
+<http://localhost:8080/source/f2h4k1v9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2021> .
+<http://localhost:8080/source/ID5a6b7c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/KDI-2021> <http://swrc.ontoware.org/ontology#name> "Knowledge and Data Integration (KDI)" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KDI-2020> .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2020> .
+<http://localhost:8080/source/z1t7c4o5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/m3y2k8r4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f2huw1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2020> .
+<http://localhost:8080/source/z1t7c4o5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2020> .
+<http://localhost:8080/source/f2h4k1v9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/KDI-2020> <http://swrc.ontoware.org/ontology#year> "2020" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/Mauro%20Dragoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Mauro%20Dragoni> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2020> .
+<http://localhost:8080/source/f2huw1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f2h4k1v9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2020> .
+<http://localhost:8080/source/m3y2k8r4> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2020> .
+<http://localhost:8080/source/KDI-2020> <http://swrc.ontoware.org/ontology#name> "Knowledge and Data Integration (KDI)" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/KDI-2020> <http://www.knowdive.disi.unitn.it/etype#Website> "https://unitn-kdi-2020.github.io/unitn-kdi-2020/" .
+<http://localhost:8080/source/KDI-2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+
+<http://localhost:8080/source/Amarsanaa%20Ganbold> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/National%20University%20of%20Mongolia> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/ICSI500-2022> .
+<http://localhost:8080/source/National%20University%20of%20Mongolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ICSI500-2022> <http://swrc.ontoware.org/ontology#name> "Knowledge and Data Integration (ICSI500)" .
+<http://localhost:8080/source/Tsolmon%20Zundui> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ICSI500-2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/Amarsanaa%20Ganbold> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/ICSI500-2022> .
+<http://localhost:8080/source/ICSI500-2022> <http://www.knowdive.disi.unitn.it/etype#Website> "https://kde-milab.github.io/num-kdi-2022-website/" .
+<http://localhost:8080/source/Tsolmon%20Zundui> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/ICSI500-2022> .
+<http://localhost:8080/source/ICSI500-2022> <http://swrc.ontoware.org/ontology#year> "2022" .
+<http://localhost:8080/source/Naranchimeg%20Bold> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/ICSI500-2022> .
+<http://localhost:8080/source/Naranchimeg%20Bold> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Amarsanaa%20Ganbold> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/ICSI500-2024> .
+<http://localhost:8080/source/Amarsanaa%20Ganbold> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f2huw1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/ICSI500-2024> .
+<http://localhost:8080/source/National%20University%20of%20Mongolia> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/ICSI500-2024> .
+<http://localhost:8080/source/ICSI500-2024> <http://www.knowdive.disi.unitn.it/etype#Website> "https://kde-milab.github.io/num-kge-2024-website/" .
+<http://localhost:8080/source/National%20University%20of%20Mongolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ICSI500-2024> <http://swrc.ontoware.org/ontology#name> "Knowledge Graph Engineering (ICSI500)" .
+<http://localhost:8080/source/ICSI500-2024> <http://swrc.ontoware.org/ontology#year> "2024" .
+<http://localhost:8080/source/f2huw1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ICSI500-2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+
+<http://localhost:8080/source/p8b7n6q3> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI_2024Autumn> .
+<http://localhost:8080/source/University%20of%20Jilin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/University%20of%20Jilin> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KDI_2024Autumn> .
+<http://localhost:8080/source/KDI_2024Autumn> <http://swrc.ontoware.org/ontology#year> "2024Autumn" .
+<http://localhost:8080/source/KDI_2024Autumn> <http://swrc.ontoware.org/ontology#name> "Knowledge and Data Integration (KDI)" .
+<http://localhost:8080/source/KDI_2024Autumn> <http://www.knowdive.disi.unitn.it/etype#Website> "https://mooc1.chaoxing.com/course/245442552.html" .
+<http://localhost:8080/source/p8b7n6q3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/KDI_2024Autumn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+
+<http://localhost:8080/source/University%20of%20Jilin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/KDI_2024Spring> <http://swrc.ontoware.org/ontology#name> "Knowledge and Data Integration (KDI)" .
+<http://localhost:8080/source/KDI_2024Spring> <http://www.knowdive.disi.unitn.it/etype#Website> "https://mooc1.chaoxing.com/course/242145182.html" .
+<http://localhost:8080/source/KDI_2024Spring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/KDI_2024Spring> <http://swrc.ontoware.org/ontology#year> "2024Spring" .
+<http://localhost:8080/source/University%20of%20Jilin> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KDI_2024Spring> .
+<http://localhost:8080/source/p8b7n6q3> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI_2024Spring> .
+<http://localhost:8080/source/p8b7n6q3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/KDI_2023> <http://swrc.ontoware.org/ontology#year> "2023" .
+<http://localhost:8080/source/KDI_2023> <http://www.knowdive.disi.unitn.it/etype#Website> "https://mooc1.chaoxing.com/course/228885246.html" .
+<http://localhost:8080/source/p8b7n6q3> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI_2023> .
+<http://localhost:8080/source/University%20of%20Jilin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/KDI_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/KDI_2023> <http://swrc.ontoware.org/ontology#name> "Knowledge and Data Integration (KDI)" .
+<http://localhost:8080/source/University%20of%20Jilin> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KDI_2023> .
+<http://localhost:8080/source/p8b7n6q3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/p8b7n6q3> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI_2022> .
+<http://localhost:8080/source/University%20of%20Jilin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/KDI_2022> <http://www.knowdive.disi.unitn.it/etype#Website> "https://mooc1.chaoxing.com/course/228885246.html" .
+<http://localhost:8080/source/KDI_2022> <http://swrc.ontoware.org/ontology#name> "Knowledge and Data Integration (KDI)" .
+<http://localhost:8080/source/KDI_2022> <http://swrc.ontoware.org/ontology#year> "2022" .
+<http://localhost:8080/source/KDI_2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/University%20of%20Jilin> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/KDI_2022> .
+<http://localhost:8080/source/p8b7n6q3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/DEQS_2024> .
+<http://localhost:8080/source/d8je90a5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/DEQS_2024> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/DEQS_2024> .
+<http://localhost:8080/source/d8je90a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/DEQS_2024> <http://swrc.ontoware.org/ontology#year> "2024" .
+<http://localhost:8080/source/DEQS_2024> <http://www.knowdive.disi.unitn.it/etype#Website> "https://datascientiafoundation.github.io/datascientia-education-eai3-2024-25-unitn/" .
+<http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f2h4k1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/DEQS_2024> .
+<http://localhost:8080/source/DEQS_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/DEQS_2024> <http://swrc.ontoware.org/ontology#name> "Data engineering for the quantified self (SHB)" .
+<http://localhost:8080/source/w2b1k5t9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/DEQS_2024> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f2h4k1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/SHB_2024> <http://www.knowdive.disi.unitn.it/etype#Website> "https://datascientiafoundation.github.io/datascientia-education-eai3-2024-25-unitn/" .
+<http://localhost:8080/source/Marco%20Tonin> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2024> .
+<http://localhost:8080/source/Marcelo%20Rodas%20Britez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/SHB_2024> <http://swrc.ontoware.org/ontology#name> "Studies on Human Behaviour: procuring the data (SHB)" .
+<http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/SHB_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/w2b1k5t9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2024> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/SHB_2024> .
+<http://localhost:8080/source/Marcelo%20Rodas%20Britez> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2024> .
+<http://localhost:8080/source/Marco%20Tonin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/SHB_2024> <http://swrc.ontoware.org/ontology#year> "2024" .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2024> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/SHB_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/Marco%20Tonin> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2023> .
+<http://localhost:8080/source/SHB_2023> <http://www.knowdive.disi.unitn.it/etype#Website> "https://datascientiafoundation.github.io/datascientia-education-shb-2023-24-unitn-/" .
+<http://localhost:8080/source/Marcelo%20Rodas%20Britez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/w2b1k5t9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2023> .
+<http://localhost:8080/source/SHB_2023> <http://swrc.ontoware.org/ontology#year> "2023" .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/SHB_2023> .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2023> .
+<http://localhost:8080/source/Marco%20Tonin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Marcelo%20Rodas%20Britez> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2023> .
+<http://localhost:8080/source/SHB_2023> <http://swrc.ontoware.org/ontology#name> "Studies on Human Behaviour: procuring the data (SHB)" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Marcelo%20Rodas%20Britez> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2022> .
+<http://localhost:8080/source/SHB_2022> <http://swrc.ontoware.org/ontology#name> "Studies on Human Behaviour (SHB)" .
+<http://localhost:8080/source/Marcelo%20Rodas%20Britez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/SHB_2022> <http://swrc.ontoware.org/ontology#year> "2022" .
+<http://localhost:8080/source/w2b1k5t9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2022> .
+<http://localhost:8080/source/SHB_2022> <http://www.knowdive.disi.unitn.it/etype#Website> "https://unitn-shb-2020.github.io/unitn-shb-2022.github.io/" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/Marco%20Chierici> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2022> .
+<http://localhost:8080/source/SHB_2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2022> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/SHB_2022> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Marco%20Chierici> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Marcelo%20Rodas%20Britez> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2021> .
+<http://localhost:8080/source/SHB_2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/Marcelo%20Rodas%20Britez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/SHB_2021> <http://www.knowdive.disi.unitn.it/etype#Website> "https://unitn-shb-2020.github.io/unitn-shb-2021.github.io/" .
+<http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/w2b1k5t9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2021> .
+<http://localhost:8080/source/SHB_2021> <http://swrc.ontoware.org/ontology#year> "2021" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/Marco%20Chierici> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2021> .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2021> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/SHB_2021> .
+<http://localhost:8080/source/SHB_2021> <http://swrc.ontoware.org/ontology#name> "Studies on Human Behaviour (SHB)" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Marco%20Chierici> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/SHB_2020> <http://swrc.ontoware.org/ontology#name> "Studies on Human Behaviour (SHB)" .
+<http://localhost:8080/source/d8je90a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID7q8r9s0> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2020> .
+<http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/SHB_2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/SHB_2020> <http://www.knowdive.disi.unitn.it/etype#Website> "https://unitn-shb-2020.github.io/" .
+<http://localhost:8080/source/w2b1k5t9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2020> .
+<http://localhost:8080/source/SHB_2020> <http://swrc.ontoware.org/ontology#year> "2020" .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2020> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/SHB_2020> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/d8je90a5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2020> .
+
+<http://localhost:8080/source/AIEL_2024> <http://swrc.ontoware.org/ontology#name> "AI in Everyday Life" .
+<http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/AIEL_2024> .
+<http://localhost:8080/source/d8je90a5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/AIEL_2024> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/d8je90a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/AIEL_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
+<http://localhost:8080/source/University%20of%20Trento> <http://num.edu.mn/ontology#has_subject> <http://localhost:8080/source/AIEL_2024> .
+<http://localhost:8080/source/AIEL_2024> <http://swrc.ontoware.org/ontology#year> "2024" .
+<http://localhost:8080/source/AIEL_2024> <http://www.knowdive.disi.unitn.it/etype#Website> "https://datascientiafoundation.github.io/datascientia-education-eai-soi-2024-unitn/" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .

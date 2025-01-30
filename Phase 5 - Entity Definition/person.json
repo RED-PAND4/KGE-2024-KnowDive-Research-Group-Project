@@ -8,7 +8,7 @@
         "researchProduct_name": [
             "Towards Visual Semantics",
             "Continual egocentric object recognition",
-            "Teleologies: Objects, actions and functions.",
+            "Teleologies- Objects, actions and functions.",
             "Artificial Intelligence in 2027",
             "Computational Humanism",
             "Concepts as (Recognition) Abilities",
@@ -19,18 +19,18 @@
             "Personal context recognition via reliable human-machine collaboration",
             "Personal context modelling and annotation",
             "Multi-device activity logging",
-            "The open platform for personal lifelogging: the elifelog architecture",
+            "The open platform for personal lifelogging- the elifelog architecture",
             "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge",
             "On Knowledge Diversity",
             "Beyond being online as we are online now",
             "Language and Domain Aware Lightweight Ontology Matching",
-            "Teleologies: Objects, actions and functions.",
+            "Teleologies- Objects, actions and functions.",
             "Concepts as (Recognition) Abilities",
-            "Domains and context: first steps towards managing diversity in knowledge",
+            "Domains and context- first steps towards managing diversity in knowledge",
             " Managing diversity in Knowledge",
             "Lexical diversity in kinship across languages and dialects",
             "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge.",
-            "CogNet: a Large-Scale Cognate Database",
+            "CogNet- a Large-Scale Cognate Database",
             "One World - Seven Thousand Languages",
             "Understanding and Exploiting Language Diversity",
             "Language and Domain Aware Lightweight Ontology Matching",
@@ -38,7 +38,7 @@
         ],
         "University": "University of Trento",
         "project_name": [
-            "JIDEP: Joint Industrial Data Exchange Platform",
+            "JIDEP- Joint Industrial Data Exchange Platform",
             "Wenet - The Internet of Us",
             "Cyprus Center for Algorithmic Transparency (CyCAT)",
             "WhiteRabbit - Private Data Manager",
@@ -102,7 +102,7 @@
         "researchTopic_name": "Language Diversity",
         "researchProduct_name": [
             "Language and Domain Aware Lightweight Ontology Matching",
-            "CogNet: a Large-Scale Cognate Database",
+            "CogNet- a Large-Scale Cognate Database",
             "Understanding and Exploiting Language Diversity",
             "Language and Domain Aware Lightweight Ontology Matching",
             "Domain-Based Sense Disambiguation on Multilingual Structured Data"
@@ -122,7 +122,7 @@
         ],
         "University": "University of Trento",
         "project_name": [
-            "JIDEP: Joint Industrial Data Exchange Platform",
+            "JIDEP- Joint Industrial Data Exchange Platform",
             "Digital University"
         ],
         "phone": ""
@@ -171,7 +171,7 @@
         "researchProduct_name": [],
         "University": "University of Trento",
         "project_name": [
-            "JIDEP: Joint Industrial Data Exchange Platform"
+            "JIDEP- Joint Industrial Data Exchange Platform"
         ],
         "phone": ""
     },
@@ -184,8 +184,8 @@
         "researchProduct_name": [],
         "University": "University of Trento",
         "project_name": [
-            "JIDEP: Joint Industrial Data Exchange Platform",
-            "InteropEHRate: Health Records in People's Hands Across Europe",
+            "JIDEP- Joint Industrial Data Exchange Platform",
+            "InteropEHRate- Health Records in People's Hands Across Europe",
             "SPRINT - Graph-Based Data Federation for Healthcare Data Science"
         ],
         "phone": ""
@@ -513,7 +513,7 @@
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
         "researchProduct_name": [
-            "Domains and context: first steps towards managing diversity in knowledge"
+            "Domains and context- first steps towards managing diversity in knowledge"
         ],
         "University": "University of Trento",
         "project_name": [],
@@ -636,10 +636,10 @@
         "vcard:role": "Research Fellow",
         "researchTopic_name": "",
         "researchProduct_name": [
-            "Teleologies: Objects, actions and functions.",
+            "Teleologies- Objects, actions and functions.",
             "Concepts as (Recognition) Abilities",
             "On Knowledge Diversity",
-            "Teleologies: Objects, actions and functions.",
+            "Teleologies- Objects, actions and functions.",
             "Concepts as (Recognition) Abilities"
         ],
         "University": "University of Trento",

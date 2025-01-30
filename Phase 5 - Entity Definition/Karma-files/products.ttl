@@ -1,0 +1,358 @@
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Passerini%2C%20A.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Towards%20Visual%20Semantics> <http://swrc.ontoware.org/ontology#howpublished> "Springer Nature Computer Science (SN COMPUT. SCI.) 2, 446 (2021)" .
+<http://localhost:8080/source/Towards%20Visual%20Semantics> <https://trdf.sourceforge.net/provenance/ns.html#File> "b1ZmyD0ZzFRXfe4RwlQNchNByi7wbcMAY47Up2oNl2J0gPE6rey1h3xdKKbYxszUNEizxoEKhdrsKx7oTky7vamtUaDFtfdXQyii1UFbq68AxofyVnLNMykFVud8GwvQbPprB0ak_jEBqMMVzPKRf_3tSxLBRlYdBQ" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Towards%20Visual%20Semantics> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/Towards%20Visual%20Semantics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Passerini%2C%20A.> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Towards%20Visual%20Semantics> .
+<http://localhost:8080/source/Erculiani%2C%20L.> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Towards%20Visual%20Semantics> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Towards%20Visual%20Semantics> .
+<http://localhost:8080/source/Erculiani%2C%20L.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Passerini%2C%20Andrea> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Continual%20egocentric%20object%20recognition> .
+<http://localhost:8080/source/Erculiani%2C%20Luca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Passerini%2C%20Andrea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Continual%20egocentric%20object%20recognition> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/Continual%20egocentric%20object%20recognition> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1YFyB7EwnOsrmLOtXWPI9GYbIgH1ow4fW/view" .
+<http://localhost:8080/source/Continual%20egocentric%20object%20recognition> <http://swrc.ontoware.org/ontology#howpublished> "Proceeding of the 24th European Conference on Artificial Intelligence (ECAI), June 2020" .
+<http://localhost:8080/source/Erculiani%2C%20Luca> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Continual%20egocentric%20object%20recognition> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Continual%20egocentric%20object%20recognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Continual%20egocentric%20object%20recognition> .
+
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1V0JmiD4oWHVEeLz8UxAiLc7S8siZL8h8/view" .
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <http://swrc.ontoware.org/ontology#howpublished> "International conference on conceptual modeling (ER). Springer, Cham, 2017." .
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> .
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Artificial%20Intelligence%20in%202027> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1X9RTD2uK1uWC6Ub0Y14YXIIdnD-GGs3c/view" .
+<http://localhost:8080/source/Maria%20Gini> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Artificial%20Intelligence%20in%202027> .
+<http://localhost:8080/source/Noa%20Agmon> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Artificial%20Intelligence%20in%202027> .
+<http://localhost:8080/source/Kevin%20Leyton%27Brown> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Artificial%20Intelligence%20in%202027> .
+<http://localhost:8080/source/Artificial%20Intelligence%20in%202027> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/Maria%20Gini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Artificial%20Intelligence%20in%202027> .
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Kevin%20Leyton%27Brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Artificial%20Intelligence%20in%202027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Sven%20Koenig> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Artificial%20Intelligence%20in%202027> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Artificial%20Intelligence%20in%202027> <http://swrc.ontoware.org/ontology#howpublished> "IJCAI, AI Matters, vol. 4, 2017" .
+<http://localhost:8080/source/Sven%20Koenig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Noa%20Agmon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Computational%20Humanism> .
+<http://localhost:8080/source/Computational%20Humanism> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/Computational%20Humanism> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1rVUC6CSTVq9KowmrqfPxUAVg9h9AP9yq/view" .
+<http://localhost:8080/source/Computational%20Humanism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Computational%20Humanism> <http://swrc.ontoware.org/ontology#howpublished> "On Line presentation at DISI, 2017. Trento, Italy" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <http://swrc.ontoware.org/ontology#howpublished> "In Formal Ontology in Information System: Proceedings of the 9th International Conference (FOIS 2016), vol. 283, p. 153. IOS Press,2016" .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1XCUXEUVG_m0lY2hevCKOdHYIvDnkBpf8/view" .
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> .
+
+<http://localhost:8080/source/The%20future%20of%20AI> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/The%20future%20of%20AI> <http://swrc.ontoware.org/ontology#howpublished> "Invited talk: KR 2008 Sidney, Sept 2008; Symposium for Alan Bundy, Edinburgh July 2008. Online presentation. Sept 2008; Symposium for Alan Bundy, Edinburgh July 2008." .
+<http://localhost:8080/source/The%20future%20of%20AI> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1fYUADLKni0UCNG4R46yEzN35lJLD8Koq/view" .
+<http://localhost:8080/source/The%20future%20of%20AI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/The%20future%20of%20AI> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Managing%20diversity%20in%20Knowledge> .
+<http://localhost:8080/source/Managing%20diversity%20in%20Knowledge> <http://swrc.ontoware.org/ontology#howpublished> "Invited talk, ECAI 2006, Riva del Garda, Trento, Italy" .
+<http://localhost:8080/source/Managing%20diversity%20in%20Knowledge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Managing%20diversity%20in%20Knowledge> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/14ynFnMNwWejLYUsQPBXZs1TF67ziExsQ/view" .
+<http://localhost:8080/source/Managing%20diversity%20in%20Knowledge> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Fernando%20Reis> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> .
+<http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1vWMHbLVKXgK-fky7YzX9G2BsJoAa42kf/view" .
+<http://localhost:8080/source/Fernando%20Reis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/w2b1k5t9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> .
+<http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/Britta%20Gauckler> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> .
+<http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Improving%20time%20use%20measurement%20with%20personal%20big%20data%20collection%20-%20the%20experience%20of%20the%20European%20Big%20Data%20Hackathon%202019.> <http://swrc.ontoware.org/ontology#howpublished> "Journal of Official Statistics, 2020" .
+<http://localhost:8080/source/Britta%20Gauckler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> <http://swrc.ontoware.org/ontology#howpublished> "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2019, 3(1): 1-23" .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Bignotti%20E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1WLbBTwCM_Btr-zAhS2orcIq1QGosCN3A/view" .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> .
+<http://localhost:8080/source/Zhang%20W> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> .
+<http://localhost:8080/source/Zhang%20W> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Bignotti%20E> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> .
+
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/w2b1k5t9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> .
+<http://localhost:8080/source/Gobbi%2C%20Elisa> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> .
+<http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Bignotti%2C%20Enrico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> <http://swrc.ontoware.org/ontology#howpublished> "Computers in Human Behavior, vol. 82, p. 177-185, 2018" .
+<http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1yqhL-3AHojG-FM4wgSBraa9s7Kqlp0gw/view" .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> .
+<http://localhost:8080/source/Bignotti%2C%20Enrico> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> .
+<http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Gobbi%2C%20Elisa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Personal%20context%20recognition%20via%20reliable%20human-machine%20collaboration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Personal%20context%20recognition%20via%20reliable%20human-machine%20collaboration> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Personal%20context%20recognition%20via%20reliable%20human-machine%20collaboration> <http://swrc.ontoware.org/ontology#howpublished> "2018 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE, 2018: 379-384" .
+<http://localhost:8080/source/Big%20E> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Personal%20context%20recognition%20via%20reliable%20human-machine%20collaboration> .
+<http://localhost:8080/source/Personal%20context%20recognition%20via%20reliable%20human-machine%20collaboration> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/Big%20E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Personal%20context%20recognition%20via%20reliable%20human-machine%20collaboration> .
+<http://localhost:8080/source/Personal%20context%20recognition%20via%20reliable%20human-machine%20collaboration> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1Hj-DFlsCwB8djF_9vqeuU1Cfmy1FGe1C/view" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Personal%20context%20modelling%20and%20annotation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Personal%20context%20modelling%20and%20annotation> .
+<http://localhost:8080/source/Personal%20context%20modelling%20and%20annotation> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Bignotti%20E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Personal%20context%20modelling%20and%20annotation> <http://swrc.ontoware.org/ontology#howpublished> "2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE, 2017: 117-122" .
+<http://localhost:8080/source/Bignotti%20E> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Personal%20context%20modelling%20and%20annotation> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Personal%20context%20modelling%20and%20annotation> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1TJIHn26jeWRG51a4YbJFvo4xeohAo6_k/view" .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Personal%20context%20modelling%20and%20annotation> .
+
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Multi-device%20activity%20logging> .
+<http://localhost:8080/source/Zaihrayeu%20I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Multi-device%20activity%20logging> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/Multi-device%20activity%20logging> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Multi-device%20activity%20logging> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1wzmGS-tRrSeaBdrQCm2fW7wpDfiMUxOm/view" .
+<http://localhost:8080/source/Zaihrayeu%20I> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Multi-device%20activity%20logging> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Multi-device%20activity%20logging> .
+<http://localhost:8080/source/Multi-device%20activity%20logging> <http://swrc.ontoware.org/ontology#howpublished> "Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication. 2014: 299-302" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/The%20open%20platform%20for%20personal%20lifelogging-%20the%20elifelog%20architecture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/The%20open%20platform%20for%20personal%20lifelogging-%20the%20elifelog%20architecture> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1cvmQICd5mTnwNwqQtw87zyT_Q3e8gqsy/view" .
+<http://localhost:8080/source/The%20open%20platform%20for%20personal%20lifelogging-%20the%20elifelog%20architecture> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/The%20open%20platform%20for%20personal%20lifelogging-%20the%20elifelog%20architecture> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Kim%20P%20H> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/The%20open%20platform%20for%20personal%20lifelogging-%20the%20elifelog%20architecture> .
+<http://localhost:8080/source/The%20open%20platform%20for%20personal%20lifelogging-%20the%20elifelog%20architecture> <http://swrc.ontoware.org/ontology#howpublished> "Extended Abstracts on Human Factors in Computing Systems. 2013: 1677-1682" .
+<http://localhost:8080/source/Kim%20P%20H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> .
+<http://localhost:8080/source/Turra%2C%20E> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> .
+<http://localhost:8080/source/Robertson%2C%20D> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> .
+<http://localhost:8080/source/Das%2C%20S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Robertson%2C%20D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Pavis%2C%20S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> .
+<http://localhost:8080/source/Elliot%2C%20L> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> .
+<http://localhost:8080/source/Pavis%2C%20S> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> <http://swrc.ontoware.org/ontology#howpublished> "European Conference on Artificial Intelligence, Prestigious Applications of Intelligent Systems, 2020 (ECAI-PAIS), Spain 2020 Systems, 2020 (ECAI-PAIS), Spain 2020" .
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Elliot%2C%20L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Turra%2C%20E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Das%2C%20S> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1IRtcwcm7dNG5ibYyIr2Rz_y4CCRhWgq7/view" .
+
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/On%20Knowledge%20Diversity> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/On%20Knowledge%20Diversity> .
+<http://localhost:8080/source/On%20Knowledge%20Diversity> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1-Nq_q2nYo1Q2My2eDeXFE1LbCUI569sI/view" .
+<http://localhost:8080/source/On%20Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/On%20Knowledge%20Diversity> <http://swrc.ontoware.org/ontology#howpublished> "JOWO, 2019" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/On%20Knowledge%20Diversity> .
+
+<http://localhost:8080/source/Beyond%20being%20online%20as%20we%20are%20online%20now> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1Y1xFpt7v040iHNRryPPfHjJ5M4vstKFB/view" .
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Beyond%20being%20online%20as%20we%20are%20online%20now> <http://swrc.ontoware.org/ontology#howpublished> "IJCAI ,24 august 2017, University of Trento, Melbourne" .
+<http://localhost:8080/source/Beyond%20being%20online%20as%20we%20are%20online%20now> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Beyond%20being%20online%20as%20we%20are%20online%20now> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Beyond%20being%20online%20as%20we%20are%20online%20now> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> .
+<http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/a6f0x9l7> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> .
+<http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/14GWzWPHdSjViaTQoL7jBhSk82k5zF5Q0/view" .
+<http://localhost:8080/source/a6f0x9l7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> <http://swrc.ontoware.org/ontology#howpublished> "Journal of Web Semantics, vol. 43, March 2017, pp. 1-17" .
+<http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/Fiona%20McNeill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Fiona%20McNeill> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <http://swrc.ontoware.org/ontology#howpublished> "International conference on conceptual modeling (ER). Springer, Cham, 2017" .
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1V0JmiD4oWHVEeLz8UxAiLc7S8siZL8h8/view" .
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <http://swrc.ontoware.org/ontology#howpublished> "In Formal Ontology in Information System: Proceedings of the 9th International Conference (FOIS 2016), vol. 283, p. 153. IOS Press,2016" .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1XCUXEUVG_m0lY2hevCKOdHYIvDnkBpf8/view" .
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> .
+
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Domains%20and%20context-%20first%20steps%20towards%20managing%20diversity%20in%20knowledge> .
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Vincenzo%20Maltese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Domains%20and%20context-%20first%20steps%20towards%20managing%20diversity%20in%20knowledge> <http://swrc.ontoware.org/ontology#howpublished> "Journal of Web Semantics, special issue on Reasoning with Context in the Semantic Web, April 2012, Italy" .
+<http://localhost:8080/source/Vincenzo%20Maltese> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Domains%20and%20context-%20first%20steps%20towards%20managing%20diversity%20in%20knowledge> .
+<http://localhost:8080/source/Domains%20and%20context-%20first%20steps%20towards%20managing%20diversity%20in%20knowledge> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/Domains%20and%20context-%20first%20steps%20towards%20managing%20diversity%20in%20knowledge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/ID9g0h1i2> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Domains%20and%20context-%20first%20steps%20towards%20managing%20diversity%20in%20knowledge> .
+<http://localhost:8080/source/Domains%20and%20context-%20first%20steps%20towards%20managing%20diversity%20in%20knowledge> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1RoEDt-Pc-_1JvGG16Tcj8lj2EKpOoUMU/view" .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID9g0h1i2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/%20Managing%20diversity%20in%20Knowledge> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/%20Managing%20diversity%20in%20Knowledge> .
+<http://localhost:8080/source/%20Managing%20diversity%20in%20Knowledge> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/14ynFnMNwWejLYUsQPBXZs1TF67ziExsQ/view" .
+<http://localhost:8080/source/%20Managing%20diversity%20in%20Knowledge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/%20Managing%20diversity%20in%20Knowledge> <http://swrc.ontoware.org/ontology#howpublished> "Invited talk, ECAI 2006, Riva del Garda, Trento, Italy." .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/ID1t2u3v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/m6y1h8b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/m6y1h8b2> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> .
+<http://localhost:8080/source/v7s4b3z0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> .
+<http://localhost:8080/source/v7s4b3z0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> .
+<http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> <http://swrc.ontoware.org/ontology#howpublished> "Frontiers in Psychology, 14, 1229697, (2023)" .
+<http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Freihat%2C%20A.> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Freihat%2C%20A.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Elliot%2C%20L> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> .
+<http://localhost:8080/source/Das%2C%20S> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> .
+<http://localhost:8080/source/Pavis%2C%20S> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> .
+<http://localhost:8080/source/Das%2C%20S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Robertson%2C%20D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1IRtcwcm7dNG5ibYyIr2Rz_y4CCRhWgq7/view" .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Pavis%2C%20S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Robertson%2C%20D> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> <http://swrc.ontoware.org/ontology#howpublished> "Prestigious Applications of Intelligent Systems, ECAI 2020, Santiago de Compostela, Spain" .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/Elliot%2C%20L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> .
+<http://localhost:8080/source/Turra%2C%20E> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> .
+<http://localhost:8080/source/Turra%2C%20E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/CogNet-%20a%20Large-Scale%20Cognate%20Database> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1f-YkBoTemub0e64TFGFzLDgQcGWk4fLq/view" .
+<http://localhost:8080/source/CogNet-%20a%20Large-Scale%20Cognate%20Database> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/Khuyagbaatar%20Batsuren> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/CogNet-%20a%20Large-Scale%20Cognate%20Database> .
+<http://localhost:8080/source/a6f0x9l7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/CogNet-%20a%20Large-Scale%20Cognate%20Database> <http://swrc.ontoware.org/ontology#howpublished> "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 3136Ã¢â‚¬â€œ3145 Florence, Italy, July 28 - August 2, 2019" .
+<http://localhost:8080/source/a6f0x9l7> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/CogNet-%20a%20Large-Scale%20Cognate%20Database> .
+<http://localhost:8080/source/CogNet-%20a%20Large-Scale%20Cognate%20Database> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/CogNet-%20a%20Large-Scale%20Cognate%20Database> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Khuyagbaatar%20Batsuren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/One%20World%20-%20Seven%20Thousand%20Languages> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/15ur-I9FU4rJeIVG_0O2yr-kW_r5R2DOu/view" .
+<http://localhost:8080/source/One%20World%20-%20Seven%20Thousand%20Languages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Abel%20Alhakim%20Freihat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Khuyagbaatar%20Batsuren> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/One%20World%20-%20Seven%20Thousand%20Languages> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/One%20World%20-%20Seven%20Thousand%20Languages> .
+<http://localhost:8080/source/One%20World%20-%20Seven%20Thousand%20Languages> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/Abel%20Alhakim%20Freihat> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/One%20World%20-%20Seven%20Thousand%20Languages> .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Khuyagbaatar%20Batsuren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/One%20World%20-%20Seven%20Thousand%20Languages> <http://swrc.ontoware.org/ontology#howpublished> "19th International Conference on Computational Linguistics and Intelligent Text Processing, Hanoi, Vietnam, 2018" .
+
+<http://localhost:8080/source/a6f0x9l7> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Understanding%20and%20Exploiting%20Language%20Diversity> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Understanding%20and%20Exploiting%20Language%20Diversity> .
+<http://localhost:8080/source/Understanding%20and%20Exploiting%20Language%20Diversity> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1VtWxhG9Y5RHh9CHhwJvl0NPJP0kwmilI/view" .
+<http://localhost:8080/source/a6f0x9l7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Understanding%20and%20Exploiting%20Language%20Diversity> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/Understanding%20and%20Exploiting%20Language%20Diversity> <http://swrc.ontoware.org/ontology#howpublished> "Proceedings of IJCAI 2017, Melbourne" .
+<http://localhost:8080/source/Khuyagbaatar%20Batsuren> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Understanding%20and%20Exploiting%20Language%20Diversity> .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Understanding%20and%20Exploiting%20Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Khuyagbaatar%20Batsuren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> .
+<http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/a6f0x9l7> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> .
+<http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/14GWzWPHdSjViaTQoL7jBhSk82k5zF5Q0/view" .
+<http://localhost:8080/source/a6f0x9l7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> <http://swrc.ontoware.org/ontology#howpublished> "Journal of Web Semantics, vol. 43, March 2017, pp. 1-17" .
+<http://localhost:8080/source/Fiona%20McNeill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Fiona%20McNeill> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Language%20and%20Domain%20Aware%20Lightweight%20Ontology%20Matching> .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/Domain-Based%20Sense%20Disambiguation%20on%20Multilingual%20Structured%20Data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/z1t7c4o5> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Domain-Based%20Sense%20Disambiguation%20on%20Multilingual%20Structured%20Data> .
+<http://localhost:8080/source/a6f0x9l7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Domain-Based%20Sense%20Disambiguation%20on%20Multilingual%20Structured%20Data> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Domain-Based%20Sense%20Disambiguation%20on%20Multilingual%20Structured%20Data> .
+<http://localhost:8080/source/Domain-Based%20Sense%20Disambiguation%20on%20Multilingual%20Structured%20Data> <http://swrc.ontoware.org/ontology#howpublished> "Proceedings of the ECAI, 2016, workshop on Diversity Aware Artificial Intelligence, The Hague, Netherlands" .
+<http://localhost:8080/source/Domain-Based%20Sense%20Disambiguation%20on%20Multilingual%20Structured%20Data> <https://trdf.sourceforge.net/provenance/ns.html#File> "https://drive.google.com/file/d/1iN4fYgb6nsDhj9cn_Eubso2D3Dh01saC/view" .
+<http://localhost:8080/source/a6f0x9l7> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Domain-Based%20Sense%20Disambiguation%20on%20Multilingual%20Structured%20Data> .
+<http://localhost:8080/source/z1t7c4o5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
