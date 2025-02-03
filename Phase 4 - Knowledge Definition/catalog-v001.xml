@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://num.edu.mn/ontology" uri="file:/C:/Users/giare/Desktop/uni/KGE/project/KGE-Project/Phase%202%20-%20Information%20Gathering/Knowledge%20dataset/UNITN-DU.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.org/vocab/aiiso/schema" uri="file:/C:/Users/giare/Desktop/uni/KGE/project/KGE-Project/Phase%202%20-%20Information%20Gathering/Knowledge%20dataset/lov_aiiso.ttl"/>
+    <uri id="Imports Wizard Entry" name="http://swrc.ontoware.org/ontology-07" uri="file:/C:/Users/giare/Desktop/uni/KGE/project/KGE-Project/Phase%202%20-%20Information%20Gathering/Knowledge%20dataset/lov_swrc.ttl"/>
+    <uri id="Imports Wizard Entry" name="http://vivoweb.org/ontology/core" uri="file:/C:/Users/giare/Desktop/uni/KGE/project/KGE-Project/Phase%202%20-%20Information%20Gathering/Knowledge%20dataset/lov_vivo.ttl"/>
+    <uri id="Imports Wizard Entry" name="http://num.edu.mn/ontology" uri="file:/C:/Users/giare/Desktop/uni/KGE/project/KGE-Project/Phase%202%20-%20Information%20Gathering/Knowledge%20dataset/UNITN-DU.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="duplicate:http://knowdive.disi.unitn.it/etype#" uri="final_version.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="duplicate:http://knowdive.disi.unitn.it/etype#" uri="KGE-13_onthology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="http://vivoweb.org/ontology/core" uri="old-version/catalog-v002.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="duplicate:http://www.semanticweb.org/deborah/ontologies/2024/10/untitled-ontology-7" uri="old-version/version1.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="duplicate:http://www.semanticweb.org/deborah/ontologies/2024/10/untitled-ontology-7" uri="old-version/version2.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="duplicate:http://www.semanticweb.org/deborah/ontologies/2024/10/untitled-ontology-7" uri="old-version/version3.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="duplicate:http://www.semanticweb.org/ontologies/2024/10/KGE-13" uri="old-version/version4.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="duplicate:http://www.semanticweb.org/ontologies/2024/10/KGE-13" uri="old-version/version5.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1738420333837" name="http://www.semanticweb.org/ontologies/2024/KGE-13" uri="old-version/final_version_IRIOLD.owx"/>
+    </group>
+</catalog>
