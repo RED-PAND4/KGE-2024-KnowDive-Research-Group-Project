@@ -561,12 +561,12 @@
 <http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
 <http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> .
-<http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
 <http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Multi-device%20activity%20logging> .
 <http://localhost:8080/source/ID7q8r9s0> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
 <http://localhost:8080/source/Mobile%20social%20media%20usage%20and%20academic%20performance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
 <http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
-<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge[J]> .
+<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Fixing%20mislabeling%20by%20human%20annotators%20leveraging%20conflict%20resolution%20and%20prior%20knowledge> .
 <http://localhost:8080/source/ID7q8r9s0> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> .
 <http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Personal%20context%20modelling%20and%20annotation> .
 

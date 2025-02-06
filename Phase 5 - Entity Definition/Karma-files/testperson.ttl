@@ -1,0 +1,477 @@
+<http://localhost:8080/source/ID3y4z5a6> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID3y4z5a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID3y4z5a6> <http://swrc.ontoware.org/ontology#name> "Uladzimir" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID3y4z5a6> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
+<http://localhost:8080/source/ID3y4z5a6> <http://swrc.ontoware.org/ontology#name> "Kharkevich" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID7b8c9d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID7b8c9d0> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
+<http://localhost:8080/source/ID7b8c9d0> <http://swrc.ontoware.org/ontology#name> "Yang" .
+<http://localhost:8080/source/ID7b8c9d0> <http://swrc.ontoware.org/ontology#name> "Hui" .
+<http://localhost:8080/source/ID7b8c9d0> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/ID1e2f3g4> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
+<http://localhost:8080/source/ID1e2f3g4> <http://swrc.ontoware.org/ontology#name> "Pil Ho" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID1e2f3g4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID1e2f3g4> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID1e2f3g4> <http://swrc.ontoware.org/ontology#name> "Kim" .
+
+<http://localhost:8080/source/ID5h6i7j8> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID5h6i7j8> <http://swrc.ontoware.org/ontology#name> "Mladjan" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID5h6i7j8> <http://swrc.ontoware.org/ontology#name> "Jovanovic" .
+<http://localhost:8080/source/ID5h6i7j8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID5h6i7j8> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
+
+<http://localhost:8080/source/ID9k0l1m2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID9k0l1m2> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
+<http://localhost:8080/source/ID9k0l1m2> <http://swrc.ontoware.org/ontology#name> "Stefano" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID9k0l1m2> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID9k0l1m2> <http://swrc.ontoware.org/ontology#name> "Teso" .
+
+<http://localhost:8080/source/ID3n4o5p6> <http://swrc.ontoware.org/ontology#name> "Fumagalli" .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/On%20Knowledge%20Diversity> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> .
+<http://localhost:8080/source/Concepts%20as%20(Recognition)%20Abilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Teleologies-%20Objects%2C%20actions%20and%20functions.> .
+<http://localhost:8080/source/ID3n4o5p6> <http://swrc.ontoware.org/ontology#name> "Mattia" .
+<http://localhost:8080/source/On%20Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/ID3n4o5p6> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
+
+
+
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/ID1t2u3v4> <http://swrc.ontoware.org/ontology#name> "Gabor" .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID1t2u3v4> <http://swrc.ontoware.org/ontology#name> "Bella" .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> .
+<http://localhost:8080/source/Digital%20University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchProject> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/Lexical%20diversity%20in%20kinship%20across%20languages%20and%20dialects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/ontologies/2024/KGE-13/ResearchProduct> .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
+<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/has_produced> <http://localhost:8080/source/Cross-Border%20Medical%20Research%20using%20Multi-Layered%20and%20Distributed%20Knowledge.> .
+<http://localhost:8080/source/ID1t2u3v4> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Digital%20University> .
+
+<http://localhost:8080/source/ID5w6x7y8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID5w6x7y8> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID5w6x7y8> <http://swrc.ontoware.org/ontology#name> "Kyriakou" .
+<http://localhost:8080/source/ID5w6x7y8> <http://swrc.ontoware.org/ontology#name> "Kyriakos" .
+<http://localhost:8080/source/ID5w6x7y8> <http://www.knowdive.disi.unitn.it/etype#Position> "Research Fellow" .
+
+<http://localhost:8080/source/ID9z0a1b2> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID9z0a1b2> <http://swrc.ontoware.org/ontology#name> "Alexander" .
+<http://localhost:8080/source/ID9z0a1b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID9z0a1b2> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+<http://localhost:8080/source/ID9z0a1b2> <http://swrc.ontoware.org/ontology#name> "Ivanyukovich" .
+
+<http://localhost:8080/source/ID3c4d5e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID3c4d5e6> <http://swrc.ontoware.org/ontology#name> "Denys" .
+<http://localhost:8080/source/ID3c4d5e6> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID3c4d5e6> <http://swrc.ontoware.org/ontology#name> "Babenko" .
+<http://localhost:8080/source/ID3c4d5e6> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/ID7f8g9h0> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID7f8g9h0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID7f8g9h0> <http://swrc.ontoware.org/ontology#name> "Morshed" .
+<http://localhost:8080/source/ID7f8g9h0> <http://swrc.ontoware.org/ontology#name> "Md Ahsan-ul" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID7f8g9h0> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+
+<http://localhost:8080/source/ID1i2j3k4> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID1i2j3k4> <http://swrc.ontoware.org/ontology#name> "Hao" .
+<http://localhost:8080/source/ID1i2j3k4> <http://swrc.ontoware.org/ontology#name> "Xu" .
+<http://localhost:8080/source/ID1i2j3k4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID1i2j3k4> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+
+<http://localhost:8080/source/ID5l6m7n8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID5l6m7n8> <http://swrc.ontoware.org/ontology#name> "S.R.H." .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID5l6m7n8> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+<http://localhost:8080/source/ID5l6m7n8> <http://swrc.ontoware.org/ontology#name> "Noori" .
+<http://localhost:8080/source/ID5l6m7n8> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/ID9o0p1q2> <http://swrc.ontoware.org/ontology#name> "Radu Anca-Livia" .
+<http://localhost:8080/source/ID9o0p1q2> <http://swrc.ontoware.org/ontology#name> "Vintila" .
+<http://localhost:8080/source/ID9o0p1q2> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID9o0p1q2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID9o0p1q2> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID3r4s5t6> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+<http://localhost:8080/source/ID3r4s5t6> <http://swrc.ontoware.org/ontology#name> "Sandro" .
+<http://localhost:8080/source/ID3r4s5t6> <http://swrc.ontoware.org/ontology#name> "Battisti" .
+<http://localhost:8080/source/ID3r4s5t6> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID3r4s5t6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/ID7u8v9w0> <http://swrc.ontoware.org/ontology#name> "Frai" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID7u8v9w0> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+<http://localhost:8080/source/ID7u8v9w0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID7u8v9w0> <http://swrc.ontoware.org/ontology#name> "Abdelhakim" .
+<http://localhost:8080/source/ID7u8v9w0> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID1x2y3z4> <http://swrc.ontoware.org/ontology#name> "Sajan" .
+<http://localhost:8080/source/ID1x2y3z4> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+<http://localhost:8080/source/ID1x2y3z4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID1x2y3z4> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID1x2y3z4> <http://swrc.ontoware.org/ontology#name> "Ojha" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/ID5a6b7c8> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/ID5a6b7c8> <http://swrc.ontoware.org/ontology#name> "Daqian" .
+<http://localhost:8080/source/ID5a6b7c8> <http://www.knowdive.disi.unitn.it/etype#Position> "PhD Student" .
+<http://localhost:8080/source/ID5a6b7c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/ID5a6b7c8> <http://swrc.ontoware.org/ontology#name> "Shi" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/x7j3kL2b> <http://swrc.ontoware.org/ontology#name> "Giuffrida" .
+<http://localhost:8080/source/x7j3kL2b> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/x7j3kL2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/x7j3kL2b> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/x7j3kL2b> <http://swrc.ontoware.org/ontology#name> "Cristiano" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/y9r6nK1w> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/y9r6nK1w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/y9r6nK1w> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/y9r6nK1w> <http://swrc.ontoware.org/ontology#name> "Kanhabua" .
+<http://localhost:8080/source/y9r6nK1w> <http://swrc.ontoware.org/ontology#name> "Natitya" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/p5l2hQ8c> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/p5l2hQ8c> <http://swrc.ontoware.org/ontology#name> "Ahmad" .
+<http://localhost:8080/source/p5l2hQ8c> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/p5l2hQ8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/p5l2hQ8c> <http://swrc.ontoware.org/ontology#name> "Farooq" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/z3o5mH9x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/z3o5mH9x> <http://swrc.ontoware.org/ontology#name> "Nurjahan" .
+<http://localhost:8080/source/z3o5mH9x> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/z3o5mH9x> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/z3o5mH9x> <http://swrc.ontoware.org/ontology#name> "Dade" .
+
+<http://localhost:8080/source/a8b4jP0q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/a8b4jP0q> <http://swrc.ontoware.org/ontology#name> "Kaushik" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/a8b4jP0q> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/a8b4jP0q> <http://swrc.ontoware.org/ontology#name> "Kumar Nanduri" .
+<http://localhost:8080/source/a8b4jP0q> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/c9t6gR4l> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/c9t6gR4l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/c9t6gR4l> <http://swrc.ontoware.org/ontology#name> "Syed" .
+<http://localhost:8080/source/c9t6gR4l> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/c9t6gR4l> <http://swrc.ontoware.org/ontology#name> "Hamza Hydri" .
+
+<http://localhost:8080/source/f3s7kL1v> <http://swrc.ontoware.org/ontology#name> "Syed" .
+<http://localhost:8080/source/f3s7kL1v> <http://swrc.ontoware.org/ontology#name> "Madhusud Hogan" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f3s7kL1v> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/f3s7kL1v> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/f3s7kL1v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/k1o8hP3x> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/k1o8hP3x> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/k1o8hP3x> <http://swrc.ontoware.org/ontology#name> "Md Mahfuzur Rahman" .
+<http://localhost:8080/source/k1o8hP3x> <http://swrc.ontoware.org/ontology#name> "Khan" .
+<http://localhost:8080/source/k1o8hP3x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/j9m5bQ2f> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/j9m5bQ2f> <http://swrc.ontoware.org/ontology#name> "Liu" .
+<http://localhost:8080/source/j9m5bQ2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/j9m5bQ2f> <http://swrc.ontoware.org/ontology#name> "Sipei" .
+<http://localhost:8080/source/j9m5bQ2f> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/r4v8kW9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/r4v8kW9d> <http://swrc.ontoware.org/ontology#name> "Aslam" .
+<http://localhost:8080/source/r4v8kW9d> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/r4v8kW9d> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/r4v8kW9d> <http://swrc.ontoware.org/ontology#name> "Waseem" .
+
+<http://localhost:8080/source/l2p6fS3z> <http://swrc.ontoware.org/ontology#name> "Muhammad Ali" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/l2p6fS3z> <http://swrc.ontoware.org/ontology#name> "Jameel" .
+<http://localhost:8080/source/l2p6fS3z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/l2p6fS3z> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/l2p6fS3z> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/t8q1jL7y> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/t8q1jL7y> <http://swrc.ontoware.org/ontology#name> "Favero" .
+<http://localhost:8080/source/t8q1jL7y> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/t8q1jL7y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/t8q1jL7y> <http://swrc.ontoware.org/ontology#name> "Marco" .
+
+<http://localhost:8080/source/q3n4kM5x> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/q3n4kM5x> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/q3n4kM5x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/q3n4kM5x> <http://swrc.ontoware.org/ontology#name> "Bilegsaikhan" .
+<http://localhost:8080/source/q3n4kM5x> <http://swrc.ontoware.org/ontology#name> "Naidan" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/m7x3hN6o> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/m7x3hN6o> <http://swrc.ontoware.org/ontology#name> "Ishkakov" .
+<http://localhost:8080/source/m7x3hN6o> <http://swrc.ontoware.org/ontology#name> "Ruslan" .
+<http://localhost:8080/source/m7x3hN6o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/m7x3hN6o> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/g6p5jQ8y> <http://swrc.ontoware.org/ontology#name> "Martin" .
+<http://localhost:8080/source/g6p5jQ8y> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/g6p5jQ8y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/g6p5jQ8y> <http://swrc.ontoware.org/ontology#name> "Schuster" .
+<http://localhost:8080/source/g6p5jQ8y> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/w2q7fP3k> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/w2q7fP3k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/w2q7fP3k> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/w2q7fP3k> <http://swrc.ontoware.org/ontology#name> "Billal Qwaider" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/w2q7fP3k> <http://swrc.ontoware.org/ontology#name> "Thair" .
+
+<http://localhost:8080/source/u9j2lH5v> <http://swrc.ontoware.org/ontology#name> "Fahed" .
+<http://localhost:8080/source/u9j2lH5v> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/u9j2lH5v> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/u9j2lH5v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/u9j2lH5v> <http://swrc.ontoware.org/ontology#name> "Alkhabbas" .
+
+<http://localhost:8080/source/n3x4jK2c> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/n3x4jK2c> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/n3x4jK2c> <http://swrc.ontoware.org/ontology#name> "Karanjit" .
+<http://localhost:8080/source/n3x4jK2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/n3x4jK2c> <http://swrc.ontoware.org/ontology#name> "Sampada" .
+
+<http://localhost:8080/source/b6v5mQ9x> <http://swrc.ontoware.org/ontology#name> "Bazyad Ashik" .
+<http://localhost:8080/source/b6v5mQ9x> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/b6v5mQ9x> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/b6v5mQ9x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/b6v5mQ9x> <http://swrc.ontoware.org/ontology#name> "Hossain" .
+
+<http://localhost:8080/source/o5l8pK7w> <http://swrc.ontoware.org/ontology#name> "Reddy Daggumati" .
+<http://localhost:8080/source/o5l8pK7w> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/o5l8pK7w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/o5l8pK7w> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/o5l8pK7w> <http://swrc.ontoware.org/ontology#name> "Suresh" .
+
+<http://localhost:8080/source/v1q6rS9z> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/v1q6rS9z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/v1q6rS9z> <http://swrc.ontoware.org/ontology#name> "Carla Donovan" .
+<http://localhost:8080/source/v1q6rS9z> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/v1q6rS9z> <http://swrc.ontoware.org/ontology#name> "Das" .
+
+<http://localhost:8080/source/z5j4pM1y> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/z5j4pM1y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/z5j4pM1y> <http://swrc.ontoware.org/ontology#name> "Pandey" .
+<http://localhost:8080/source/z5j4pM1y> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/z5j4pM1y> <http://swrc.ontoware.org/ontology#name> "Anand Kumar" .
+
+<http://localhost:8080/source/p2m7qN8k> <http://swrc.ontoware.org/ontology#name> "Aje" .
+<http://localhost:8080/source/p2m7qN8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/p2m7qN8k> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/p2m7qN8k> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/p2m7qN8k> <http://swrc.ontoware.org/ontology#name> "Yang" .
+
+<http://localhost:8080/source/f9x6bP4w> <http://swrc.ontoware.org/ontology#name> "Shrestha" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f9x6bP4w> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/f9x6bP4w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f9x6bP4w> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/f9x6bP4w> <http://swrc.ontoware.org/ontology#name> "Ajay" .
+
+<http://localhost:8080/source/g8r5mK1x> <http://swrc.ontoware.org/ontology#name> "Gabriele" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/g8r5mK1x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/g8r5mK1x> <http://swrc.ontoware.org/ontology#name> "Tonelli" .
+<http://localhost:8080/source/g8r5mK1x> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/g8r5mK1x> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/j3q4hL7y> <http://swrc.ontoware.org/ontology#name> "Pranab" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/j3q4hL7y> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/j3q4hL7y> <http://swrc.ontoware.org/ontology#name> "Lu" .
+<http://localhost:8080/source/j3q4hL7y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/j3q4hL7y> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/y5p6kW3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/y5p6kW3f> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/y5p6kW3f> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/y5p6kW3f> <http://swrc.ontoware.org/ontology#name> "Leucci" .
+<http://localhost:8080/source/y5p6kW3f> <http://swrc.ontoware.org/ontology#name> "Stefano" .
+
+<http://localhost:8080/source/r7q3jS8z> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/r7q3jS8z> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/r7q3jS8z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/r7q3jS8z> <http://swrc.ontoware.org/ontology#name> "Massimiliano" .
+<http://localhost:8080/source/r7q3jS8z> <http://swrc.ontoware.org/ontology#name> "Luco" .
+
+<http://localhost:8080/source/h1o9bQ5k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/h1o9bQ5k> <http://swrc.ontoware.org/ontology#name> "Onyurdai" .
+<http://localhost:8080/source/h1o9bQ5k> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/h1o9bQ5k> <http://swrc.ontoware.org/ontology#name> "Nyamdavaa" .
+<http://localhost:8080/source/h1o9bQ5k> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/k3m8pL6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/k3m8pL6c> <http://swrc.ontoware.org/ontology#name> "Yegshenyeeb" .
+<http://localhost:8080/source/k3m8pL6c> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/k3m8pL6c> <http://swrc.ontoware.org/ontology#name> "Kyerjee" .
+<http://localhost:8080/source/k3m8pL6c> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/d967a01d> <http://swrc.ontoware.org/ontology#name> "Nandini" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/d967a01d> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/d967a01d> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/d967a01d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/d967a01d> <http://swrc.ontoware.org/ontology#name> "Durgesh" .
+
+<http://localhost:8080/source/a82b2b2e> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/a82b2b2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/a82b2b2e> <http://swrc.ontoware.org/ontology#name> "Mapoe" .
+<http://localhost:8080/source/a82b2b2e> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/a82b2b2e> <http://swrc.ontoware.org/ontology#name> "Gina" .
+
+<http://localhost:8080/source/f019e12f> <http://swrc.ontoware.org/ontology#name> "Wu" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f019e12f> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/f019e12f> <http://swrc.ontoware.org/ontology#name> "Ivonu" .
+<http://localhost:8080/source/f019e12f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f019e12f> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/b13c63d7> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/b13c63d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/b13c63d7> <http://swrc.ontoware.org/ontology#name> "Chi" .
+<http://localhost:8080/source/b13c63d7> <http://swrc.ontoware.org/ontology#name> "Yang" .
+<http://localhost:8080/source/b13c63d7> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/e6291a3a> <http://swrc.ontoware.org/ontology#name> "Velardi" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/e6291a3a> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/e6291a3a> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/e6291a3a> <http://swrc.ontoware.org/ontology#name> "Sara" .
+<http://localhost:8080/source/e6291a3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/c21c8721> <http://swrc.ontoware.org/ontology#name> "Marco" .
+<http://localhost:8080/source/c21c8721> <http://swrc.ontoware.org/ontology#name> "Boffo" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/c21c8721> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/c21c8721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/c21c8721> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/f45f762a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f45f762a> <http://swrc.ontoware.org/ontology#name> "Tingting" .
+<http://localhost:8080/source/f45f762a> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/f45f762a> <http://swrc.ontoware.org/ontology#name> "Wu" .
+<http://localhost:8080/source/f45f762a> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/e98b1c4e> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/e98b1c4e> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/e98b1c4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/e98b1c4e> <http://swrc.ontoware.org/ontology#name> "JoÃƒÂ£o Manuel" .
+<http://localhost:8080/source/e98b1c4e> <http://swrc.ontoware.org/ontology#name> "GonÃƒÂ§alves Silva" .
+
+<http://localhost:8080/source/d12f4e5d> <http://swrc.ontoware.org/ontology#name> "Bergamasco" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/d12f4e5d> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/d12f4e5d> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/d12f4e5d> <http://swrc.ontoware.org/ontology#name> "Davide" .
+<http://localhost:8080/source/d12f4e5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+
+<http://localhost:8080/source/f3a61d2e> <http://swrc.ontoware.org/ontology#name> "Shen" .
+<http://localhost:8080/source/f3a61d2e> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/f3a61d2e> <http://swrc.ontoware.org/ontology#name> "Qiang" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f3a61d2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f3a61d2e> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/a94b2f3c> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/a94b2f3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/a94b2f3c> <http://swrc.ontoware.org/ontology#name> "Trevisan" .
+<http://localhost:8080/source/a94b2f3c> <http://swrc.ontoware.org/ontology#name> "Thomas" .
+<http://localhost:8080/source/a94b2f3c> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/e05a3d7c> <http://swrc.ontoware.org/ontology#name> "Wang" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/e05a3d7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/e05a3d7c> <http://swrc.ontoware.org/ontology#name> "Tao" .
+<http://localhost:8080/source/e05a3d7c> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/e05a3d7c> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/c35d6b8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/c35d6b8f> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/c35d6b8f> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/c35d6b8f> <http://swrc.ontoware.org/ontology#name> "Filippo" .
+<http://localhost:8080/source/c35d6b8f> <http://swrc.ontoware.org/ontology#name> "Donotti" .
+
+<http://localhost:8080/source/f67b4a6e> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/f67b4a6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f67b4a6e> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/f67b4a6e> <http://swrc.ontoware.org/ontology#name> "Ivan" .
+<http://localhost:8080/source/f67b4a6e> <http://swrc.ontoware.org/ontology#name> "DoÃƒÂ±a" .
+
+<http://localhost:8080/source/e79f3b5c> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/e79f3b5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/e79f3b5c> <http://swrc.ontoware.org/ontology#name> "Alessandra" .
+<http://localhost:8080/source/e79f3b5c> <http://swrc.ontoware.org/ontology#name> "Morellini" .
+<http://localhost:8080/source/e79f3b5c> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+
+<http://localhost:8080/source/c14f5d2b> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/c14f5d2b> <http://swrc.ontoware.org/ontology#name> "Alice" .
+<http://localhost:8080/source/c14f5d2b> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/c14f5d2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/c14f5d2b> <http://swrc.ontoware.org/ontology#name> "Hrovatin" .
+
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/d81b3e5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/d81b3e5d> <http://swrc.ontoware.org/ontology#name> "Dauti" .
+<http://localhost:8080/source/d81b3e5d> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
+<http://localhost:8080/source/d81b3e5d> <http://swrc.ontoware.org/ontology#name> "Andriano" .
+<http://localhost:8080/source/d81b3e5d> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+
+<http://localhost:8080/source/f13e6d7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/f13e6d7a> <http://swrc.ontoware.org/ontology#name> "Ilaqat" .
+<http://localhost:8080/source/University%20of%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#University> .
+<http://localhost:8080/source/f13e6d7a> <http://www.semanticweb.org/ontologies/2024/KGE-13/is_part_of> <http://localhost:8080/source/University%20of%20Trento> .
+<http://localhost:8080/source/f13e6d7a> <http://swrc.ontoware.org/ontology#name> "Hafiz Muhammad Bilal" .
+<http://localhost:8080/source/f13e6d7a> <http://www.knowdive.disi.unitn.it/etype#Position> "Master Student" .
