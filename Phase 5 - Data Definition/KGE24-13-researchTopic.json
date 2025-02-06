@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Artificial Human Cognition",
+        "leader_id": "z1t7c4o5",
+        "member_id": [
+            "b4f19e70",
+            "v4w6x9y0z1a",
+            "q3c8v6r1",
+            "z1t7c4o5",
+            "s9b4z2n6",
+            "n1p2o3q4r5s",
+            "e98b1c4e",
+            "i2j4k6l7m8n",
+            "f2h4k1v7"
+        ],
+        "researchProduct_name": [
+            "Towards Visual Semantics",
+            "Continual egocentric object recognition",
+            "Teleologies- Objects, actions and functions.",
+            "Artificial Intelligence in 2027",
+            "Computational Humanism",
+            "Concepts as (Recognition) Abilities",
+            "The future of AI",
+            "Managing diversity in Knowledge"
+        ],
+        "project_name": [
+            "Wenet - The Internet of Us",
+            "SmartSociety - Hybrid and Diversity-Aware Collective Adaptive Systems"
+        ]
+    },
+    {
+        "name": "Language Diversity",
+        "leader_id": "u7n5a3p9",
+        "member_id": [
+            "ID1t2u3v4",
+            "m6y1h8b2",
+            "a3b9c5d8e1j",
+            "b2c3d5e7f9g",
+            "m3y2k8r4",
+            "v7s4b3z0",
+            "ID1i2j3k4",
+            "v5w6x7y9z2a"
+        ],
+        "researchProduct_name": [
+            "Lexical diversity in kinship across languages and dialects",
+            "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge.",
+            "CogNet- a Large-Scale Cognate Database",
+            "One World - Seven Thousand Languages",
+            "Understanding and Exploiting Language Diversity",
+            "Language and Domain Aware Lightweight Ontology Matching",
+            "Domain-Based Sense Disambiguation on Multilingual Structured Data"
+        ],
+        "project_name": [
+            "InteropEHRate: Health Records in People's Hands Across Europe",
+            "Cyprus Center for Algorithmic Transparency (CyCAT)",
+            "SPRINT - Graph-Based Data Federation for Healthcare Data Science",
+            "Safe Haven 1 - Healthcare Data Safe Havens",
+            "Safe Haven 2 - Digital Health Data Federation",
+            "SHIB - Safe Haven in a Box"
+        ]
+    },
+    {
+        "name": "Knowledge Diversity",
+        "leader_id": "f2huw1v7",
+        "member_id": [
+            "f2h4k1v9",
+            "z1t7c4o5",
+            "f2huw1v7",
+            "p9a8k4w2",
+            "d6e8a9f",
+            "p8b7n6q3",
+            "x1j9d0p7",
+            "d93m6fg7",
+            "t6u8i9o0p1q"
+        ],
+        "researchProduct_name": [
+            "Cross-Border Medical Research using Multi-Layered and Distributed Knowledge",
+            "On Knowledge Diversity",
+            "Beyond being online as we are online now",
+            "Language and Domain Aware Lightweight Ontology Matching",
+            "Teleologies- Objects, actions and functions.",
+            "Concepts as (Recognition) Abilities",
+            "Domains and context- first steps towards managing diversity in knowledge",
+            " Managing diversity in Knowledge"
+        ],
+        "project_name": [
+            "JIDEP- Joint Industrial Data Exchange Platform",
+            "Cyprus Center for Algorithmic Transparency (CyCAT)",
+            "SPRINT - Graph-Based Data Federation for Healthcare Data Science",
+            "SHIB - Safe Haven in a Box",
+            "QROWD - Because Big Data Integration is Humanly Possible"
+        ]
+    },
+    {
+        "name": "Human-Machine Symbiosis",
+        "leader_id": "f2h4k1v7",
+        "member_id": [
+            "k93ds1f0",
+            "v4w6x9y0z1a",
+            "l5f7c3d1",
+            "w2b1k5t9",
+            "g2h4j5k7l8m",
+            "h5j7k8l0m9n",
+            "ID1i2j3k4",
+            "d8je90a5",
+            "z2n0f1c8",
+            "f2h4k1v7",
+            "d93m6fg7",
+            "q4p3t6a9",
+            "a2r8y6k3"
+        ],
+        "researchProduct_name": [
+            "Improving time use measurement with personal big data collection - the experience of the European Big Data Hackathon 2019.",
+            "Fixing mislabeling by human annotators leveraging conflict resolution and prior knowledge[J]",
+            "Mobile social media usage and academic performance",
+            "Personal context recognition via reliable human-machine collaboration",
+            "Personal context modelling and annotation",
+            "Multi-device activity logging",
+            "The open platform for personal lifelogging: the elifelog architecture"
+        ],
+        "project_name": [
+            "Wenet - The Internet of Us",
+            "WhiteRabbit - Private Data Manager",
+            "SmartSociety - Hybrid and Diversity-Aware Collective Adaptive Systems",
+            "Eurostat",
+            "QROWD - Because Big Data Integration is Humanly Possible"
+        ]
+    }
+]
