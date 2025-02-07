@@ -23,7 +23,7 @@
 <http://localhost:8080/source/JIDEP-%20Joint%20Industrial%20Data%20Exchange%20Platform> <https://dbpedia.org/ontology/partner> "Zorlu Enerji Elektrik Uretim As" .
 <http://localhost:8080/source/JIDEP-%20Joint%20Industrial%20Data%20Exchange%20Platform> <https://dbpedia.org/ontology/partner> "MB" .
 <http://localhost:8080/source/JIDEP-%20Joint%20Industrial%20Data%20Exchange%20Platform> <https://dbpedia.org/ontology/partner> "Adscensus" .
-<http://localhost:8080/source/JIDEP-%20Joint%20Industrial%20Data%20Exchange%20Platform> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/JIDEP-%20Joint%20Industrial%20Data%20Exchange%20Platform> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/u7n5a3p9> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/JIDEP-%20Joint%20Industrial%20Data%20Exchange%20Platform> .
 <http://localhost:8080/source/JIDEP-%20Joint%20Industrial%20Data%20Exchange%20Platform> <https://dbpedia.org/ontology/partner> "Arteevo Technologies Ltd" .
 <http://localhost:8080/source/u7n5a3p9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
@@ -36,7 +36,7 @@
 <http://localhost:8080/source/Ronald%20Chenu%20Abente> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/ISTAT%20-%20SmartSurveys> .
 <http://localhost:8080/source/Can%20Gunel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ISTAT%20-%20SmartSurveys> <http://vivoweb.org/ontology/core#Keyword> "Smart Surveys, Pervasive Systems, Data Streams, Modelling and Understanding Human Behavior, Machine Learning" .
-<http://localhost:8080/source/ISTAT%20-%20SmartSurveys> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20symbiosis> .
+<http://localhost:8080/source/ISTAT%20-%20SmartSurveys> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/ISTAT%20-%20SmartSurveys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchProject> .
 <http://localhost:8080/source/Ronald%20Chenu%20Abente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ISTAT%20-%20SmartSurveys> <http://num.edu.mn/ontology#Fund> "Self-funded by the partners" .
@@ -48,7 +48,7 @@
 <http://localhost:8080/source/Can%20Gunel> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/ISTAT%20-%20SmartSurveys> .
 <http://localhost:8080/source/ISTAT%20-%20SmartSurveys> <http://swrc.ontoware.org/ontology#endDate> "June 2026" .
 <http://localhost:8080/source/ISTAT%20-%20SmartSurveys> <https://dbpedia.org/ontology/partner> "Dipartimento di Sociologia dellâ€™UniversitÃ  di Trento" .
-<http://localhost:8080/source/Human-Machine%20symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 
 <http://localhost:8080/source/Delphi%20â€“%20Discovering%20Life%20Patterns> <http://num.edu.mn/ontology#Fund> "Programma MUR anno 2017, Prot. 2017F3LMRF, Costo totale 919,790, Finanziamento UniTn." .
 <http://localhost:8080/source/N/A> <http://purl.org/vocab/aiiso/schema#responsibleFor> <http://localhost:8080/source/Delphi%20â€“%20Discovering%20Life%20Patterns> .
@@ -63,10 +63,10 @@
 <http://localhost:8080/source/Ronald%20Chenu%20Abente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Delphi%20â€“%20Discovering%20Life%20Patterns> <http://swrc.ontoware.org/ontology#startDate> "01/09/2021" .
 <http://localhost:8080/source/Delphi%20â€“%20Discovering%20Life%20Patterns> <http://vivoweb.org/ontology/core#Keyword> "N/A" .
-<http://localhost:8080/source/Delphi%20â€“%20Discovering%20Life%20Patterns> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20symbiosis> .
+<http://localhost:8080/source/Delphi%20â€“%20Discovering%20Life%20Patterns> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/Marcelo%20Dario%20Rodas%20Brites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Marcelo%20Dario%20Rodas%20Brites> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Delphi%20â€“%20Discovering%20Life%20Patterns> .
-<http://localhost:8080/source/Human-Machine%20symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 
 <http://localhost:8080/source/Fausto%20Giuchiglia> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> .
 <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <https://dbpedia.org/ontology/partner> "FONDATION DE L'INSTITUT DE RECHERCHE" .
@@ -74,7 +74,7 @@
 <http://localhost:8080/source/Fausto%20Giuchiglia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <http://vivoweb.org/ontology/core#Keyword> "Socially and Perception-aware Knowledge, Knowledge Management, Language Processing, Domain Development, Data Integration, Machine Learning, Artificial Intelligence" .
 <http://localhost:8080/source/d8je90a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/Roberto%20Bona> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> .
 <http://localhost:8080/source/Wanyi%20Zhang> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> .
 <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <https://dbpedia.org/ontology/partner> "UNIVERSITY OF TRENTO" .
@@ -99,7 +99,7 @@
 <http://localhost:8080/source/Sergio%20de%20Cristofaro> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> .
 <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <https://dbpedia.org/ontology/partner> "INSTITUTO POTOSINO DE INVESTIGACION CIENTIFICA Y TECNOLOGIA" .
 <http://localhost:8080/source/Marcelo%20Dario%20Rodas%20Britez> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> .
-<http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <https://dbpedia.org/ontology/partner> "UNIVERSIDAD CATOLICA NUESTRA SENORA DE LA ASUNCION" .
 <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <http://swrc.ontoware.org/ontology#endDate> "December 2022" .
 <http://localhost:8080/source/Wenet%20-%20The%20Internet%20of%20Us> <https://dbpedia.org/ontology/partner> "BEN-GURION UNIVERSITY OF THE NEGEV" .
@@ -121,7 +121,7 @@
 <http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> <http://swrc.ontoware.org/ontology#endDate> "30 June 2022" .
 <http://localhost:8080/source/GÃ¡bor%20Bella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> <https://dbpedia.org/ontology/partner> "Fraunhofer ISST â€“ Institute for Software and Systems Engineering (Germany)" .
-<http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> <https://dbpedia.org/ontology/partner> "ISA â€“ Iatrikos Syllogos Athinon (Greece)" .
 <http://localhost:8080/source/f2huw1v7> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> .
 <http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchProject> .
@@ -140,7 +140,7 @@
 <http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> <http://vivoweb.org/ontology/core#Keyword> "Multilingual Lexical Semantics, Multilingual NLP, Knowledge-Based Data Integration, Domain Knowledge, Health Data Integration" .
 <http://localhost:8080/source/InteropEHRate-%20Health%20Records%20in%20People%27s%20Hands%20Across%20Europe> <https://dbpedia.org/ontology/partner> "EHTEL â€“ European Health Telematics Association (Belgium)" .
 
-<http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/u7n5a3p9> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> .
 <http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchProject> .
 <http://localhost:8080/source/Open%20University%20of%20Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
@@ -149,7 +149,7 @@
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/Nandu%20Chandran%20Nair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> <http://swrc.ontoware.org/ontology#endDate> "(Ongoing)" .
 <http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> <https://dbpedia.org/ontology/partner> "University of Sheffield" .
 <http://localhost:8080/source/Cyprus%20Center%20for%20Algorithmic%20Transparency%20(CyCAT)> <http://swrc.ontoware.org/ontology#startDate> "November 2018" .
@@ -172,14 +172,14 @@
 <http://localhost:8080/source/Vincenzo%20Maltese> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Digital%20University> .
 <http://localhost:8080/source/Digital%20University> <http://num.edu.mn/ontology#Fund> "University of Trento" .
 <http://localhost:8080/source/Digital%20University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchProject> .
-<http://localhost:8080/source/Digital%20University> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/%20Knowledge%20Diversity> .
+<http://localhost:8080/source/Digital%20University> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/%20Knowledge%20Diversity> .
 <http://localhost:8080/source/Digital%20University> <https://dbpedia.org/ontology/partner> "University of Trento" .
 <http://localhost:8080/source/a7b63e2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID1t2u3v4> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Digital%20University> .
 
 <http://localhost:8080/source/WhiteRabbit%20-%20Private%20Data%20Manager> <https://dbpedia.org/ontology/partner> "META GROUP SRL, Italy" .
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/WhiteRabbit%20-%20Private%20Data%20Manager> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/WhiteRabbit%20-%20Private%20Data%20Manager> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/Ronald%20Chenu-Abente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/WhiteRabbit%20-%20Private%20Data%20Manager> <http://swrc.ontoware.org/ontology#startDate> "April 2017" .
 <http://localhost:8080/source/WhiteRabbit%20-%20Private%20Data%20Manager> <http://swrc.ontoware.org/ontology#endDate> "July 2018" .
@@ -193,9 +193,9 @@
 <http://localhost:8080/source/WhiteRabbit%20-%20Private%20Data%20Manager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchProject> .
 
 <http://localhost:8080/source/u7n5a3p9> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> .
-<http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/Ronald%20Chenu-Abente> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> .
-<http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
+<http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 <http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> <http://vivoweb.org/ontology/core#Keyword> "Socially and Perception-aware Knowledge, Privacy protection, Knowledge Management, Domain Development, Data Integration, Machine Learning, Artificial Intelligence" .
 <http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> <https://dbpedia.org/ontology/partner> "Austria" .
 <http://localhost:8080/source/SmartSociety%20-%20Hybrid%20and%20Diversity-Aware%20Collective%20Adaptive%20Systems> <https://dbpedia.org/ontology/partner> "BEN-GURION UNIVERSITY OF THE NEGEV" .
@@ -234,7 +234,7 @@
 <http://localhost:8080/source/Eurostat> <http://vivoweb.org/ontology/core#Keyword> "Sensor Data Collection, Big Data, Big Data Analysis" .
 <http://localhost:8080/source/Roberto%20Bona> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Eurostat> .
 <http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/Eurostat> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/Eurostat> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/Mattia%20Zeni%2C%20Enrico%20Bignotti> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/Eurostat> .
 <http://localhost:8080/source/ID7q8r9s0> <http://purl.org/vocab/aiiso/schema#responsibleFor> <http://localhost:8080/source/Eurostat> .
 <http://localhost:8080/source/Eurostat> <https://dbpedia.org/ontology/partner> "European Commission (Eurostat)" .
@@ -249,9 +249,9 @@
 <http://localhost:8080/source/SPRINT%20-%20Graph-Based%20Data%20Federation%20for%20Healthcare%20Data%20Science> <https://dbpedia.org/ontology/partner> "NSS National Health Services of Scotland" .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/University%20of%20Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/SPRINT%20-%20Graph-Based%20Data%20Federation%20for%20Healthcare%20Data%20Science> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/SPRINT%20-%20Graph-Based%20Data%20Federation%20for%20Healthcare%20Data%20Science> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/SPRINT%20-%20Graph-Based%20Data%20Federation%20for%20Healthcare%20Data%20Science> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/SPRINT%20-%20Graph-Based%20Data%20Federation%20for%20Healthcare%20Data%20Science> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/SPRINT%20-%20Graph-Based%20Data%20Federation%20for%20Healthcare%20Data%20Science> <https://dbpedia.org/ontology/partner> "University of Aberdeen" .
 <http://localhost:8080/source/SPRINT%20-%20Graph-Based%20Data%20Federation%20for%20Healthcare%20Data%20Science> <http://vivoweb.org/ontology/core#Keyword> "Knowledge-Based Data Integration, Domain Knowledge, Health Data Integration" .
 <http://localhost:8080/source/SPRINT%20-%20Graph-Based%20Data%20Federation%20for%20Healthcare%20Data%20Science> <http://swrc.ontoware.org/ontology#startDate> "April 2019" .
@@ -270,7 +270,7 @@
 <http://localhost:8080/source/Safe%20Haven%201%20-%20Healthcare%20Data%20Safe%20Havens> <https://dbpedia.org/ontology/partner> "University of Trento" .
 <http://localhost:8080/source/65f84e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/Safe%20Haven%201%20-%20Healthcare%20Data%20Safe%20Havens> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/Safe%20Haven%201%20-%20Healthcare%20Data%20Safe%20Havens> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/Safe%20Haven%201%20-%20Healthcare%20Data%20Safe%20Havens> <http://swrc.ontoware.org/ontology#endDate> "December 2017" .
 <http://localhost:8080/source/Safe%20Haven%201%20-%20Healthcare%20Data%20Safe%20Havens> <http://num.edu.mn/ontology#Fund> "EIT Digital" .
 <http://localhost:8080/source/Safe%20Haven%201%20-%20Healthcare%20Data%20Safe%20Havens> <https://dbpedia.org/ontology/partner> "The DataLab (UK)" .
@@ -298,7 +298,7 @@
 <http://localhost:8080/source/The%20DataLab%2C%20UK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Safe%20Haven%202%20-%20Digital%20Health%20Data%20Federation> <https://dbpedia.org/ontology/partner> "Engineering â€“ Ingegneria Informatica S.p.A. (Italy)" .
 <http://localhost:8080/source/Safe%20Haven%202%20-%20Digital%20Health%20Data%20Federation> <http://vivoweb.org/ontology/core#Keyword> "Knowledge-Based Data Integration, Domain Knowledge, Health Data Integration" .
-<http://localhost:8080/source/Safe%20Haven%202%20-%20Digital%20Health%20Data%20Federation> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/Safe%20Haven%202%20-%20Digital%20Health%20Data%20Federation> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/Subhashis%20Das> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Safe%20Haven%202%20-%20Digital%20Health%20Data%20Federation> <https://dbpedia.org/ontology/partner> "University of Trento" .
 
@@ -316,9 +316,9 @@
 <http://localhost:8080/source/65f84e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/SHIB%20-%20Safe%20Haven%20in%20a%20Box> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/SHIB%20-%20Safe%20Haven%20in%20a%20Box> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/University%20of%20Trento%2C%20Fausto%20Giunchiglia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/SHIB%20-%20Safe%20Haven%20in%20a%20Box> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/SHIB%20-%20Safe%20Haven%20in%20a%20Box> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/Subhashis%20Das> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/SHIB%20-%20Safe%20Haven%20in%20a%20Box> <https://dbpedia.org/ontology/partner> "University of Edinburgh" .
 
@@ -334,9 +334,9 @@
 <http://localhost:8080/source/ID7q8r9s0> <http://swrc.ontoware.org/ontology#worksAtProject> <http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> .
 <http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> <https://dbpedia.org/ontology/partner> "COMUNE DI TRENTO" .
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
+<http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> <https://dbpedia.org/ontology/partner> "Germany" .
-<http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> <http://www.semanticweb.org/ontologies/2024/KGE-13/related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> <http://knowdive.disi.unitn.it/etype#related_to> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> <http://swrc.ontoware.org/ontology#startDate> "December 2016" .
 <http://localhost:8080/source/QROWD%20-%20Because%20Big%20Data%20Integration%20is%20Humanly%20Possible> <https://dbpedia.org/ontology/partner> "INSTITUT FUR ANGEWANDTE INFORMATIK (INFAI)" .
 <http://localhost:8080/source/Ronald%20Chenu-Abente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .

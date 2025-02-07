@@ -11,8 +11,8 @@
 <http://localhost:8080/source/CL-2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2022> .
 <http://localhost:8080/source/SHB_2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
-<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
-<http://localhost:8080/source/u7n5a3p9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/u7n5a3p9> .
+<http://localhost:8080/source/u7n5a3p9> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
+<http://localhost:8080/source/u7n5a3p9> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/u7n5a3p9> .
 <http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2022> .
 <http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2020> .
 <http://localhost:8080/source/u7n5a3p9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2024> .
@@ -37,11 +37,11 @@
 <http://localhost:8080/source/q3c8v6r1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/q3c8v6r1> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 <http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/q3c8v6r1> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/q3c8v6r1> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/q3c8v6r1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/q3c8v6r1> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/q3c8v6r1> .
+<http://localhost:8080/source/q3c8v6r1> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/q3c8v6r1> .
 
-<http://localhost:8080/source/w2b1k5t9> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/w2b1k5t9> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/w2b1k5t9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/SHB_2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
@@ -59,19 +59,21 @@
 <http://localhost:8080/source/w2b1k5t9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/SHB_2020> .
 <http://localhost:8080/source/w2b1k5t9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/DEQS_2024> .
 <http://localhost:8080/source/w2b1k5t9> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
-<http://localhost:8080/source/w2b1k5t9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/w2b1k5t9> .
+<http://localhost:8080/source/w2b1k5t9> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/w2b1k5t9> .
 
 <http://localhost:8080/source/ID1i2j3k4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
-<http://localhost:8080/source/ID1i2j3k4> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity%2C%20Human-Machine%20Symbiosis> .
-<http://localhost:8080/source/ID1i2j3k4> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Language%20Diversity%2C%20Human-Machine%20Symbiosis> .
-<http://localhost:8080/source/Language%20Diversity%2C%20Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/ID1i2j3k4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/ID1i2j3k4> .
-<http://localhost:8080/source/ID1i2j3k4> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/ID1i2j3k4> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/ID1i2j3k4> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Laguage%20Diversity> .
+<http://localhost:8080/source/ID1i2j3k4> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/ID1i2j3k4> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/ID1i2j3k4> .
+<http://localhost:8080/source/ID1i2j3k4> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/ID1i2j3k4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/y5k3b1w8> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "Teaching HCI, ML, DS" .
+<http://localhost:8080/source/y5k3b1w8> <http://knowdive.disi.unitn.it/etype#support_role> "Teaching HCI, ML, DS" .
 <http://localhost:8080/source/Human-Computer%20Interaction%20(HCI)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/y5k3b1w8> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/y5k3b1w8> .
+<http://localhost:8080/source/y5k3b1w8> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/y5k3b1w8> .
 <http://localhost:8080/source/y5k3b1w8> <http://num.edu.mn/ontology#Email> "tabin@aiub.edu" .
 <http://localhost:8080/source/y5k3b1w8> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Computer%20Interaction%20(HCI)> .
 <http://localhost:8080/source/y5k3b1w8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
@@ -79,12 +81,12 @@
 <http://localhost:8080/source/y5k3b1w8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/ID1t2u3v4> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Language%20Diversity> .
-<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/ID1t2u3v4> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/ID1t2u3v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID1t2u3v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/ID1t2u3v4> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/ID1t2u3v4> <http://num.edu.mn/ontology#Email> "gabor.bella@unitn.it" .
-<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/ID1t2u3v4> .
+<http://localhost:8080/source/ID1t2u3v4> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/ID1t2u3v4> .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 
 <http://localhost:8080/source/z1t7c4o5> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
@@ -92,16 +94,16 @@
 <http://localhost:8080/source/z1t7c4o5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/KDI-2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/z1t7c4o5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/z1t7c4o5> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "Code Repository Coordinator, Knowledge Diversity Coordinator" .
+<http://localhost:8080/source/z1t7c4o5> <http://knowdive.disi.unitn.it/etype#support_role> "Code Repository Coordinator, Knowledge Diversity Coordinator" .
 <http://localhost:8080/source/z1t7c4o5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2021> .
 <http://localhost:8080/source/z1t7c4o5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI-2020> .
 <http://localhost:8080/source/Artificial%20Human%20Cognition> <https://dbpedia.org/ontology/leader> "Artificial Human Cognition" .
 <http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/z1t7c4o5> <http://num.edu.mn/ontology#Email> "alessio.zamboni@unitn.it" .
-<http://localhost:8080/source/z1t7c4o5> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/z1t7c4o5> .
+<http://localhost:8080/source/z1t7c4o5> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/z1t7c4o5> .
 <http://localhost:8080/source/KDI-2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 
-<http://localhost:8080/source/m3y2k8r4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/m3y2k8r4> .
+<http://localhost:8080/source/m3y2k8r4> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/m3y2k8r4> .
 <http://localhost:8080/source/m3y2k8r4> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/m3y2k8r4> <http://num.edu.mn/ontology#Email> "yamini.chandrashekar@studenti.unitn.it" .
 <http://localhost:8080/source/m3y2k8r4> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Language%20Diversity> .
@@ -109,10 +111,10 @@
 <http://localhost:8080/source/m3y2k8r4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/m3y2k8r4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/m3y2k8r4> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/m3y2k8r4> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/KDI-2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 
-<http://localhost:8080/source/p8b7n6q3> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "Teaching (Distribute Knowledge and Data Integration)" .
+<http://localhost:8080/source/p8b7n6q3> <http://knowdive.disi.unitn.it/etype#support_role> "Teaching (Distribute Knowledge and Data Integration)" .
 <http://localhost:8080/source/p8b7n6q3> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/KDI_2024Spring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/KDI_2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
@@ -123,27 +125,38 @@
 <http://localhost:8080/source/p8b7n6q3> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI_2023> .
 <http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/p8b7n6q3> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI_2024Autumn> .
-<http://localhost:8080/source/p8b7n6q3> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/p8b7n6q3> .
+<http://localhost:8080/source/p8b7n6q3> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/p8b7n6q3> .
 <http://localhost:8080/source/p8b7n6q3> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KDI_2022> .
 <http://localhost:8080/source/KDI_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/p8b7n6q3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 
-<http://localhost:8080/source/Artificial%20Human%20Cognition%2C%20Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/f2h4k1v7> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Artificial%20Human%20Cognition%2C%20Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/r9m6z4p2> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
+<http://localhost:8080/source/r9m6z4p2> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity> .
+<http://localhost:8080/source/r9m6z4p2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
+<http://localhost:8080/source/r9m6z4p2> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/r9m6z4p2> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/r9m6z4p2> .
+<http://localhost:8080/source/r9m6z4p2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
+
+<http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/f2h4k1v7> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/f2h4k1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/DEQS_2024> .
 <http://localhost:8080/source/DEQS_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
-<http://localhost:8080/source/Artificial%20Human%20Cognition%2C%20Human-Machine%20Symbiosis> <https://dbpedia.org/ontology/leader> "Human-Machine Symbiosis" .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <https://dbpedia.org/ontology/leader> "Human-Machine Symbiosis" .
 <http://localhost:8080/source/f2h4k1v7> <http://num.edu.mn/ontology#Email> "andrea.bontempelli@unitn.it" .
-<http://localhost:8080/source/f2h4k1v7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/f2h4k1v7> .
+<http://localhost:8080/source/f2h4k1v7> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/f2h4k1v7> .
 <http://localhost:8080/source/f2h4k1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
-<http://localhost:8080/source/f2h4k1v7> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
-<http://localhost:8080/source/f2h4k1v7> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Artificial%20Human%20Cognition%2C%20Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/f2h4k1v7> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
+<http://localhost:8080/source/f2h4k1v7> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/f2h4k1v7> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 <http://localhost:8080/source/f2h4k1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/f2h4k1v9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/f2h4k1v9> .
+<http://localhost:8080/source/f2h4k1v9> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/f2h4k1v9> .
 <http://localhost:8080/source/f2h4k1v9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2024> .
 <http://localhost:8080/source/f2h4k1v9> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2023> .
-<http://localhost:8080/source/f2h4k1v9> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/f2h4k1v9> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/KDI-2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/KGE-2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/f2h4k1v9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
@@ -174,32 +187,32 @@
 <http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/f2huw1v7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/ICSI500-2024> .
 <http://localhost:8080/source/Knowledge%20Diversity> <https://dbpedia.org/ontology/leader> "Knowledge Diversity" .
-<http://localhost:8080/source/f2huw1v7> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/f2huw1v7> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/f2huw1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/f2huw1v7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/f2huw1v7> .
+<http://localhost:8080/source/f2huw1v7> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/f2huw1v7> .
 <http://localhost:8080/source/f2huw1v7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/KDI-2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/KGE-2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 
-<http://localhost:8080/source/d6e8a9f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/d6e8a9f> .
+<http://localhost:8080/source/d6e8a9f> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/d6e8a9f> .
 <http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/d6e8a9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/d6e8a9f> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/d6e8a9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
-<http://localhost:8080/source/d6e8a9f> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/d6e8a9f> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/d6e8a9f> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/d6e8a9f> <http://num.edu.mn/ontology#Email> "marco.barbieri@studenti.unitn.it" .
 
 <http://localhost:8080/source/d8je90a5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2023> .
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/d8je90a5> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/d8je90a5> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/d8je90a5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/AIEL_2024> .
 <http://localhost:8080/source/d8je90a5> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/DEQS_2024> .
 <http://localhost:8080/source/d8je90a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/AIEL_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/d8je90a5> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/DEQS_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
-<http://localhost:8080/source/d8je90a5> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/d8je90a5> .
+<http://localhost:8080/source/d8je90a5> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/d8je90a5> .
 <http://localhost:8080/source/SHB_2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 <http://localhost:8080/source/d8je90a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/d8je90a5> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
@@ -208,53 +221,55 @@
 <http://localhost:8080/source/KGE-2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 
 <http://localhost:8080/source/d93m6fg7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/Human-Machine%20Symbiosis%2C%20Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/d93m6fg7> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "Seminar Coordinator" .
+<http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
+<http://localhost:8080/source/d93m6fg7> <http://knowdive.disi.unitn.it/etype#support_role> "Seminar Coordinator" .
 <http://localhost:8080/source/d93m6fg7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
-<http://localhost:8080/source/d93m6fg7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/d93m6fg7> .
+<http://localhost:8080/source/d93m6fg7> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/d93m6fg7> .
 <http://localhost:8080/source/d93m6fg7> <http://num.edu.mn/ontology#Email> "xiaoyue.li@unitn.it" .
 <http://localhost:8080/source/d93m6fg7> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/KGE-2023> .
-<http://localhost:8080/source/d93m6fg7> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis%2C%20Knowledge%20Diversity> .
-<http://localhost:8080/source/d93m6fg7> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis%2C%20Knowledge%20Diversity> .
+<http://localhost:8080/source/d93m6fg7> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/HKnowledge%20Diversity> .
+<http://localhost:8080/source/d93m6fg7> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
+<http://localhost:8080/source/d93m6fg7> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/KGE-2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
 
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/k93ds1f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/k93ds1f0> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/k93ds1f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
-<http://localhost:8080/source/k93ds1f0> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/k93ds1f0> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/k93ds1f0> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
-<http://localhost:8080/source/k93ds1f0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/k93ds1f0> .
+<http://localhost:8080/source/k93ds1f0> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/k93ds1f0> .
 
 <http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/p9a8k4w2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/p9a8k4w2> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/p9a8k4w2> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Knowledge%20Diversity> .
-<http://localhost:8080/source/p9a8k4w2> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "Website Coordinator, Social Media Coordinator" .
+<http://localhost:8080/source/p9a8k4w2> <http://knowdive.disi.unitn.it/etype#support_role> "Website Coordinator, Social Media Coordinator" .
 <http://localhost:8080/source/p9a8k4w2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/p9a8k4w2> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/p9a8k4w2> .
+<http://localhost:8080/source/p9a8k4w2> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/p9a8k4w2> .
 <http://localhost:8080/source/p9a8k4w2> <http://num.edu.mn/ontology#Email> "xiaolei.diao@unitn.it" .
 
 <http://localhost:8080/source/v7s4b3z0> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity> .
-<http://localhost:8080/source/v7s4b3z0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/v7s4b3z0> .
+<http://localhost:8080/source/v7s4b3z0> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/v7s4b3z0> .
 <http://localhost:8080/source/v7s4b3z0> <http://num.edu.mn/ontology#Email> "shandy.darma@studenti.unitn.it" .
 <http://localhost:8080/source/v7s4b3z0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
-<http://localhost:8080/source/v7s4b3z0> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/v7s4b3z0> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/v7s4b3z0> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/v7s4b3z0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/z2n0f1c8> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
-<http://localhost:8080/source/z2n0f1c8> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/z2n0f1c8> .
+<http://localhost:8080/source/z2n0f1c8> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
+<http://localhost:8080/source/z2n0f1c8> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/z2n0f1c8> .
 <http://localhost:8080/source/z2n0f1c8> <http://num.edu.mn/ontology#Email> "haonan.zhao@unitn.it" .
 <http://localhost:8080/source/z2n0f1c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/z2n0f1c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/z2n0f1c8> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/z2n0f1c8> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 
-<http://localhost:8080/source/q4p3t6a9> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "Software Engineer" .
-<http://localhost:8080/source/q4p3t6a9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/q4p3t6a9> .
+<http://localhost:8080/source/q4p3t6a9> <http://knowdive.disi.unitn.it/etype#support_role> "Software Engineer" .
+<http://localhost:8080/source/q4p3t6a9> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/q4p3t6a9> .
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/q4p3t6a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/q4p3t6a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
@@ -262,11 +277,11 @@
 <http://localhost:8080/source/q4p3t6a9> <http://num.edu.mn/ontology#Email> "ali.hamza@studenti.unitn.it" .
 <http://localhost:8080/source/q4p3t6a9> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 
-<http://localhost:8080/source/m6y1h8b2> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/m6y1h8b2> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/m6y1h8b2> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/m6y1h8b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/m6y1h8b2> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity> .
-<http://localhost:8080/source/m6y1h8b2> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/m6y1h8b2> .
+<http://localhost:8080/source/m6y1h8b2> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/m6y1h8b2> .
 <http://localhost:8080/source/m6y1h8b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/m6y1h8b2> <http://num.edu.mn/ontology#Email> "hadi.khalilia@unitn.it" .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
@@ -274,19 +289,19 @@
 <http://localhost:8080/source/l5f7c3d1> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/l5f7c3d1> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
-<http://localhost:8080/source/l5f7c3d1> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/l5f7c3d1> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/CL-2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/aiiso/schema#Course> .
-<http://localhost:8080/source/l5f7c3d1> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/l5f7c3d1> .
+<http://localhost:8080/source/l5f7c3d1> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/l5f7c3d1> .
 <http://localhost:8080/source/l5f7c3d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/l5f7c3d1> <http://purl.org/vocab/aiiso/schema#teaches> <http://localhost:8080/source/CL-2024> .
 <http://localhost:8080/source/l5f7c3d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/s9b4z2n6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/s9b4z2n6> .
+<http://localhost:8080/source/s9b4z2n6> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/s9b4z2n6> .
 <http://localhost:8080/source/s9b4z2n6> <http://num.edu.mn/ontology#Email> "qzang@stu.xidian.edu.cn" .
 <http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/s9b4z2n6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/s9b4z2n6> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
-<http://localhost:8080/source/s9b4z2n6> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/s9b4z2n6> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/s9b4z2n6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/s9b4z2n6> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 
@@ -296,72 +311,72 @@
 <http://localhost:8080/source/x1j9d0p7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/x1j9d0p7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/x1j9d0p7> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Knowledge%20Diversity> .
-<http://localhost:8080/source/x1j9d0p7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/x1j9d0p7> .
-<http://localhost:8080/source/x1j9d0p7> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/x1j9d0p7> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/x1j9d0p7> .
+<http://localhost:8080/source/x1j9d0p7> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 
 <http://localhost:8080/source/a2r8y6k3> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/a2r8y6k3> <http://num.edu.mn/ontology#Email> "royalia.asiku@studenti.unitn.it" .
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/a2r8y6k3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/a2r8y6k3> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/a2r8y6k3> .
-<http://localhost:8080/source/a2r8y6k3> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "Software Engineer" .
+<http://localhost:8080/source/a2r8y6k3> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/a2r8y6k3> .
+<http://localhost:8080/source/a2r8y6k3> <http://knowdive.disi.unitn.it/etype#support_role> "Software Engineer" .
 <http://localhost:8080/source/a2r8y6k3> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/a2r8y6k3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 
 <http://localhost:8080/source/b4f19e70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/b4f19e70> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 <http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/b4f19e70> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/b4f19e70> .
+<http://localhost:8080/source/b4f19e70> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/b4f19e70> .
 <http://localhost:8080/source/b4f19e70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/b4f19e70> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
-<http://localhost:8080/source/b4f19e70> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/b4f19e70> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 
 <http://localhost:8080/source/a3b9c5d8e1j> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/a3b9c5d8e1j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/a3b9c5d8e1j> <http://num.edu.mn/ontology#Email> "kybra.korkmaz@gmail.com" .
-<http://localhost:8080/source/a3b9c5d8e1j> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/a3b9c5d8e1j> .
-<http://localhost:8080/source/a3b9c5d8e1j> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/a3b9c5d8e1j> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/a3b9c5d8e1j> .
+<http://localhost:8080/source/a3b9c5d8e1j> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/a3b9c5d8e1j> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/a3b9c5d8e1j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/g2h4j5k7l8m> <http://num.edu.mn/ontology#Email> "alessia.angeli@studenti.unitn.it" .
-<http://localhost:8080/source/g2h4j5k7l8m> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/g2h4j5k7l8m> .
+<http://localhost:8080/source/g2h4j5k7l8m> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/g2h4j5k7l8m> .
 <http://localhost:8080/source/g2h4j5k7l8m> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/g2h4j5k7l8m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/g2h4j5k7l8m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/g2h4j5k7l8m> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
-<http://localhost:8080/source/g2h4j5k7l8m> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/g2h4j5k7l8m> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 
-<http://localhost:8080/source/n1p2o3q4r5s> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/n1p2o3q4r5s> .
+<http://localhost:8080/source/n1p2o3q4r5s> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/n1p2o3q4r5s> .
 <http://localhost:8080/source/n1p2o3q4r5s> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 <http://localhost:8080/source/n1p2o3q4r5s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/n1p2o3q4r5s> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/n1p2o3q4r5s> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/n1p2o3q4r5s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/n1p2o3q4r5s> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 
 <http://localhost:8080/source/Knowledge%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/t6u8i9o0p1q> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/t6u8i9o0p1q> .
+<http://localhost:8080/source/t6u8i9o0p1q> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/t6u8i9o0p1q> .
 <http://localhost:8080/source/t6u8i9o0p1q> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Knowledge%20Diversity> .
-<http://localhost:8080/source/t6u8i9o0p1q> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/t6u8i9o0p1q> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/t6u8i9o0p1q> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Knowledge%20Diversity> .
 <http://localhost:8080/source/t6u8i9o0p1q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/t6u8i9o0p1q> <http://num.edu.mn/ontology#Email> "alessio.novel@studenti.unitn.it" .
 <http://localhost:8080/source/t6u8i9o0p1q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/Human-Machine%20Symbiosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
-<http://localhost:8080/source/v4w6x9y0z1a> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/v4w6x9y0z1a> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/v4w6x9y0z1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/v4w6x9y0z1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/v4w6x9y0z1a> <http://num.edu.mn/ontology#Email> "ra.escalhaosamorinha@unitn.it" .
 <http://localhost:8080/source/v4w6x9y0z1a> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/v4w6x9y0z1a> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
-<http://localhost:8080/source/v4w6x9y0z1a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/v4w6x9y0z1a> .
+<http://localhost:8080/source/v4w6x9y0z1a> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/v4w6x9y0z1a> .
 
-<http://localhost:8080/source/b2c3d5e7f9g> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
-<http://localhost:8080/source/b2c3d5e7f9g> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/b2c3d5e7f9g> .
+<http://localhost:8080/source/b2c3d5e7f9g> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
+<http://localhost:8080/source/b2c3d5e7f9g> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/b2c3d5e7f9g> .
 <http://localhost:8080/source/b2c3d5e7f9g> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/b2c3d5e7f9g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/b2c3d5e7f9g> <http://num.edu.mn/ontology#Email> "virendra.mehta@unitn.it" .
@@ -374,23 +389,23 @@
 <http://localhost:8080/source/h5j7k8l0m9n> <http://num.edu.mn/ontology#Email> "m.bayanjargal@studenti.unitn.it" .
 <http://localhost:8080/source/h5j7k8l0m9n> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
 <http://localhost:8080/source/h5j7k8l0m9n> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Human-Machine%20Symbiosis> .
-<http://localhost:8080/source/h5j7k8l0m9n> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
-<http://localhost:8080/source/h5j7k8l0m9n> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/h5j7k8l0m9n> .
+<http://localhost:8080/source/h5j7k8l0m9n> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
+<http://localhost:8080/source/h5j7k8l0m9n> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/h5j7k8l0m9n> .
 <http://localhost:8080/source/h5j7k8l0m9n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 
-<http://localhost:8080/source/e98b1c4e> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/e98b1c4e> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/e98b1c4e> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
 <http://localhost:8080/source/e98b1c4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/e98b1c4e> <http://num.edu.mn/ontology#Email> "jmgsilva22@gmail.com" .
 <http://localhost:8080/source/e98b1c4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e98b1c4e> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
-<http://localhost:8080/source/e98b1c4e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/e98b1c4e> .
+<http://localhost:8080/source/e98b1c4e> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/e98b1c4e> .
 
-<http://localhost:8080/source/v5w6x7y9z2a> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/v5w6x7y9z2a> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/v5w6x7y9z2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/v5w6x7y9z2a> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Language%20Diversity> .
-<http://localhost:8080/source/v5w6x7y9z2a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/v5w6x7y9z2a> .
+<http://localhost:8080/source/v5w6x7y9z2a> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/v5w6x7y9z2a> .
 <http://localhost:8080/source/v5w6x7y9z2a> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Language%20Diversity> .
 <http://localhost:8080/source/v5w6x7y9z2a> <http://num.edu.mn/ontology#Email> "patrikcalin.maniui@studenti.unitn.it" .
 <http://localhost:8080/source/Language%20Diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
@@ -398,22 +413,22 @@
 
 <http://localhost:8080/source/b1c3d4f5g7h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/b1c3d4f5g7h> <http://num.edu.mn/ontology#Email> "rodrigo.salas@studenti.unitn.it" .
-<http://localhost:8080/source/b1c3d4f5g7h> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
-<http://localhost:8080/source/b1c3d4f5g7h> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/b1c3d4f5g7h> .
+<http://localhost:8080/source/b1c3d4f5g7h> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
+<http://localhost:8080/source/b1c3d4f5g7h> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/b1c3d4f5g7h> .
 <http://localhost:8080/source/b1c3d4f5g7h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/i2j4k6l7m8n> <http://swrc.ontoware.org/ontology#headOf> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
-<http://localhost:8080/source/i2j4k6l7m8n> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "None" .
+<http://localhost:8080/source/i2j4k6l7m8n> <http://knowdive.disi.unitn.it/etype#support_role> "None" .
 <http://localhost:8080/source/Artificial%20Human%20Cognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#ResearchTopic> .
 <http://localhost:8080/source/i2j4k6l7m8n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/i2j4k6l7m8n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
 <http://localhost:8080/source/i2j4k6l7m8n> <http://num.edu.mn/ontology#expertise_in> <http://localhost:8080/source/Artificial%20Human%20Cognition> .
-<http://localhost:8080/source/i2j4k6l7m8n> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/i2j4k6l7m8n> .
+<http://localhost:8080/source/i2j4k6l7m8n> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/i2j4k6l7m8n> .
 <http://localhost:8080/source/i2j4k6l7m8n> <http://num.edu.mn/ontology#Email> "dragos-cristian.gruia19@imperial.ac.uk" .
 
 <http://localhost:8080/source/o3p5q7r8s0t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/member> .
-<http://localhost:8080/source/o3p5q7r8s0t> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_member> <http://localhost:8080/source/o3p5q7r8s0t> .
+<http://localhost:8080/source/o3p5q7r8s0t> <http://knowdive.disi.unitn.it/etype#status_member> <http://localhost:8080/source/o3p5q7r8s0t> .
 <http://localhost:8080/source/o3p5q7r8s0t> <http://num.edu.mn/ontology#Email> "tetiana.bihun@studenti.unitn.it" .
 <http://localhost:8080/source/o3p5q7r8s0t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/o3p5q7r8s0t> <http://www.semanticweb.org/ontologies/2024/KGE-13/support_role> "Content Creator" .
+<http://localhost:8080/source/o3p5q7r8s0t> <http://knowdive.disi.unitn.it/etype#support_role> "Content Creator" .
 

@@ -1,10 +1,10 @@
-@prefix : <http://www.semanticweb.org/ontologies/2024/KGE-13/> .
+@prefix : <http://knowdive.disi.unitn.it/etype#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@base <http://www.semanticweb.org/ontologies/2024/KGE-13/> .
+@base <http://knowdive.disi.unitn.it/etype#> .
 
 <http://knowdive.disi.unitn.it/etype#> rdf:type owl:Ontology .
 
@@ -255,21 +255,21 @@
 
 
 ###  http://www.knowdive.disi.unitn.it/etype#Language
-<http://www.knowdive.disi.unitn.it/etype#Language> rdf:type owl:DatatypeProperty ;
+<http://knowdive.disi.unitn.it/etype#Language> rdf:type owl:DatatypeProperty ;
                                                    rdfs:domain :ResearchProduct ;
                                                    <http://num.edu.mn/ontology#ConceptID> "UKC-33289" ;
                                                    rdfs:isDefinedBy "a systematic means of communicating by the use of sounds or conventional symbols"@en .
 
 
 ###  http://www.knowdive.disi.unitn.it/etype#Position
-<http://www.knowdive.disi.unitn.it/etype#Position> rdf:type owl:DatatypeProperty ;
+<http://knowdive.disi.unitn.it/etype#Position> rdf:type owl:DatatypeProperty ;
                                                    rdfs:domain <http://num.edu.mn/ontology#Person> ;
                                                    <http://num.edu.mn/ontology#ConceptID> "UKC-2929" ;
                                                    rdfs:isDefinedBy "a job in an organization"@en .
 
 
 ###  http://www.knowdive.disi.unitn.it/etype#Website
-<http://www.knowdive.disi.unitn.it/etype#Website> rdf:type owl:DatatypeProperty ;
+<http://knowdive.disi.unitn.it/etype#Website> rdf:type owl:DatatypeProperty ;
                                                   rdfs:domain <http://purl.org/vocab/aiiso/schema#Course> ;
                                                   <http://num.edu.mn/ontology#ConceptID> "UKC-33648" ;
                                                   rdfs:isDefinedBy "a document connected to the World Wide Web and viewable by anyone connected to the internet who has a web browser"@en .

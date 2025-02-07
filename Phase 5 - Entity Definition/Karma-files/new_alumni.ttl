@@ -1,39 +1,39 @@
 <http://localhost:8080/source/ID1a2b3c4> <http://swrc.ontoware.org/ontology#endDate> "June-2008" .
 <http://localhost:8080/source/ID1a2b3c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID1a2b3c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/ID1a2b3c4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID1a2b3c4> .
+<http://localhost:8080/source/ID1a2b3c4> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID1a2b3c4> .
 
 <http://localhost:8080/source/ID5d6e7f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID5d6e7f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID5d6e7f8> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID5d6e7f8> .
+<http://localhost:8080/source/ID5d6e7f8> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID5d6e7f8> .
 <http://localhost:8080/source/ID5d6e7f8> <http://swrc.ontoware.org/ontology#endDate> "2011" .
 
-<http://localhost:8080/source/ID9g0h1i2> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID9g0h1i2> .
+<http://localhost:8080/source/ID9g0h1i2> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID9g0h1i2> .
 <http://localhost:8080/source/ID9g0h1i2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID9g0h1i2> <http://swrc.ontoware.org/ontology#endDate> "2012" .
 <http://localhost:8080/source/ID9g0h1i2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/ID3j4k5l6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID3j4k5l6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID3j4k5l6> .
+<http://localhost:8080/source/ID3j4k5l6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID3j4k5l6> .
 <http://localhost:8080/source/ID3j4k5l6> <http://swrc.ontoware.org/ontology#endDate> "2012" .
 <http://localhost:8080/source/ID3j4k5l6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/ID7m8n9o0> <http://swrc.ontoware.org/ontology#endDate> "2013" .
 <http://localhost:8080/source/ID7m8n9o0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/ID7m8n9o0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID7m8n9o0> .
+<http://localhost:8080/source/ID7m8n9o0> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID7m8n9o0> .
 <http://localhost:8080/source/ID7m8n9o0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/ID1p2q3r4> <http://swrc.ontoware.org/ontology#endDate> "2013" .
 <http://localhost:8080/source/ID1p2q3r4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID1p2q3r4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID1p2q3r4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID1p2q3r4> .
+<http://localhost:8080/source/ID1p2q3r4> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID1p2q3r4> .
 
 <http://localhost:8080/source/ID5s6t7u8> <http://swrc.ontoware.org/ontology#endDate> "2013" .
-<http://localhost:8080/source/ID5s6t7u8> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID5s6t7u8> .
+<http://localhost:8080/source/ID5s6t7u8> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID5s6t7u8> .
 <http://localhost:8080/source/ID5s6t7u8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID5s6t7u8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/ID9v0w1x2> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID9v0w1x2> .
+<http://localhost:8080/source/ID9v0w1x2> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID9v0w1x2> .
 <http://localhost:8080/source/ID9v0w1x2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID9v0w1x2> <http://swrc.ontoware.org/ontology#endDate> "March-2015" .
 <http://localhost:8080/source/ID9v0w1x2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
@@ -41,19 +41,19 @@
 <http://localhost:8080/source/ID3y4z5a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID3y4z5a6> <http://swrc.ontoware.org/ontology#endDate> "June-2015" .
 <http://localhost:8080/source/ID3y4z5a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/ID3y4z5a6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID3y4z5a6> .
+<http://localhost:8080/source/ID3y4z5a6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID3y4z5a6> .
 
 <http://localhost:8080/source/ID7b8c9d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID7b8c9d0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID7b8c9d0> .
+<http://localhost:8080/source/ID7b8c9d0> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID7b8c9d0> .
 <http://localhost:8080/source/ID7b8c9d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID7b8c9d0> <http://swrc.ontoware.org/ontology#endDate> "2015" .
 
 <http://localhost:8080/source/ID1e2f3g4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID1e2f3g4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID1e2f3g4> <http://swrc.ontoware.org/ontology#endDate> "2015" .
-<http://localhost:8080/source/ID1e2f3g4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID1e2f3g4> .
+<http://localhost:8080/source/ID1e2f3g4> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID1e2f3g4> .
 
-<http://localhost:8080/source/ID5h6i7j8> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID5h6i7j8> .
+<http://localhost:8080/source/ID5h6i7j8> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID5h6i7j8> .
 <http://localhost:8080/source/ID5h6i7j8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID5h6i7j8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID5h6i7j8> <http://swrc.ontoware.org/ontology#endDate> "2016" .
@@ -61,94 +61,94 @@
 <http://localhost:8080/source/ID9k0l1m2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID9k0l1m2> <http://swrc.ontoware.org/ontology#endDate> "September-2019" .
 <http://localhost:8080/source/ID9k0l1m2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/ID9k0l1m2> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID9k0l1m2> .
+<http://localhost:8080/source/ID9k0l1m2> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID9k0l1m2> .
 
-<http://localhost:8080/source/ID3n4o5p6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID3n4o5p6> .
+<http://localhost:8080/source/ID3n4o5p6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID3n4o5p6> .
 <http://localhost:8080/source/ID3n4o5p6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID3n4o5p6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID3n4o5p6> <http://swrc.ontoware.org/ontology#endDate> "2022" .
 
 <http://localhost:8080/source/ID7q8r9s0> <http://swrc.ontoware.org/ontology#endDate> "June-2022" .
 <http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID7q8r9s0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID7q8r9s0> .
+<http://localhost:8080/source/ID7q8r9s0> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID7q8r9s0> .
 <http://localhost:8080/source/ID7q8r9s0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/ID1t2u3v4> <http://swrc.ontoware.org/ontology#endDate> "September-2023" .
 <http://localhost:8080/source/ID1t2u3v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID1t2u3v4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID1t2u3v4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID1t2u3v4> .
+<http://localhost:8080/source/ID1t2u3v4> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID1t2u3v4> .
 
 <http://localhost:8080/source/ID5w6x7y8> <http://swrc.ontoware.org/ontology#endDate> "July-2024" .
 <http://localhost:8080/source/ID5w6x7y8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID5w6x7y8> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID5w6x7y8> .
+<http://localhost:8080/source/ID5w6x7y8> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID5w6x7y8> .
 <http://localhost:8080/source/ID5w6x7y8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/ID9z0a1b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID9z0a1b2> <http://swrc.ontoware.org/ontology#endDate> "March-2008" .
-<http://localhost:8080/source/ID9z0a1b2> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID9z0a1b2> .
+<http://localhost:8080/source/ID9z0a1b2> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID9z0a1b2> .
 <http://localhost:8080/source/ID9z0a1b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/ID3c4d5e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID3c4d5e6> <http://swrc.ontoware.org/ontology#endDate> "November-2009" .
 <http://localhost:8080/source/ID3c4d5e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/ID3c4d5e6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID3c4d5e6> .
+<http://localhost:8080/source/ID3c4d5e6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID3c4d5e6> .
 
 <http://localhost:8080/source/ID7f8g9h0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID7f8g9h0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID7f8g9h0> .
+<http://localhost:8080/source/ID7f8g9h0> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID7f8g9h0> .
 <http://localhost:8080/source/ID7f8g9h0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID7f8g9h0> <http://swrc.ontoware.org/ontology#endDate> "2009" .
 
 <http://localhost:8080/source/ID1i2j3k4> <http://swrc.ontoware.org/ontology#endDate> "2011" .
 <http://localhost:8080/source/ID1i2j3k4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID1i2j3k4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID1i2j3k4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID1i2j3k4> .
+<http://localhost:8080/source/ID1i2j3k4> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID1i2j3k4> .
 
 <http://localhost:8080/source/ID5l6m7n8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ID5l6m7n8> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID5l6m7n8> .
+<http://localhost:8080/source/ID5l6m7n8> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID5l6m7n8> .
 <http://localhost:8080/source/ID5l6m7n8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ID5l6m7n8> <http://swrc.ontoware.org/ontology#endDate> "2011" .
 
 <http://localhost:8080/source/ID9o0p1q2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID9o0p1q2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/ID9o0p1q2> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID9o0p1q2> .
+<http://localhost:8080/source/ID9o0p1q2> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID9o0p1q2> .
 <http://localhost:8080/source/ID9o0p1q2> <http://swrc.ontoware.org/ontology#endDate> "2014" .
 
-<http://localhost:8080/source/ID3r4s5t6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID3r4s5t6> .
+<http://localhost:8080/source/ID3r4s5t6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID3r4s5t6> .
 <http://localhost:8080/source/ID3r4s5t6> <http://swrc.ontoware.org/ontology#endDate> "2015" .
 <http://localhost:8080/source/ID3r4s5t6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID3r4s5t6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/ID7u8v9w0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/ID7u8v9w0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID7u8v9w0> .
+<http://localhost:8080/source/ID7u8v9w0> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID7u8v9w0> .
 <http://localhost:8080/source/ID7u8v9w0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID7u8v9w0> <http://swrc.ontoware.org/ontology#endDate> "September-2018" .
 
 <http://localhost:8080/source/ID1x2y3z4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID1x2y3z4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/ID1x2y3z4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID1x2y3z4> .
+<http://localhost:8080/source/ID1x2y3z4> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID1x2y3z4> .
 <http://localhost:8080/source/ID1x2y3z4> <http://swrc.ontoware.org/ontology#endDate> "2018" .
 
-<http://localhost:8080/source/ID5a6b7c8> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ID5a6b7c8> .
+<http://localhost:8080/source/ID5a6b7c8> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ID5a6b7c8> .
 <http://localhost:8080/source/ID5a6b7c8> <http://swrc.ontoware.org/ontology#endDate> "July-2024" .
 <http://localhost:8080/source/ID5a6b7c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ID5a6b7c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/x7j3kL2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/x7j3kL2b> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/x7j3kL2b> .
+<http://localhost:8080/source/x7j3kL2b> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/x7j3kL2b> .
 <http://localhost:8080/source/x7j3kL2b> <http://swrc.ontoware.org/ontology#endDate> "2002" .
 <http://localhost:8080/source/x7j3kL2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/y9r6nK1w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/y9r6nK1w> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/y9r6nK1w> .
+<http://localhost:8080/source/y9r6nK1w> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/y9r6nK1w> .
 <http://localhost:8080/source/y9r6nK1w> <http://swrc.ontoware.org/ontology#endDate> "2007" .
 <http://localhost:8080/source/y9r6nK1w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/p5l2hQ8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/p5l2hQ8c> <http://swrc.ontoware.org/ontology#endDate> "2007" .
 <http://localhost:8080/source/p5l2hQ8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/p5l2hQ8c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/p5l2hQ8c> .
+<http://localhost:8080/source/p5l2hQ8c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/p5l2hQ8c> .
 
-<http://localhost:8080/source/z3o5mH9x> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/z3o5mH9x> .
+<http://localhost:8080/source/z3o5mH9x> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/z3o5mH9x> .
 <http://localhost:8080/source/z3o5mH9x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/z3o5mH9x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/z3o5mH9x> <http://swrc.ontoware.org/ontology#endDate> "2007" .
@@ -156,29 +156,29 @@
 <http://localhost:8080/source/a8b4jP0q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/a8b4jP0q> <http://swrc.ontoware.org/ontology#endDate> "2008" .
 <http://localhost:8080/source/a8b4jP0q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/a8b4jP0q> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/a8b4jP0q> .
+<http://localhost:8080/source/a8b4jP0q> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/a8b4jP0q> .
 
 <http://localhost:8080/source/c9t6gR4l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/c9t6gR4l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/c9t6gR4l> <http://swrc.ontoware.org/ontology#endDate> "2008" .
-<http://localhost:8080/source/c9t6gR4l> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/c9t6gR4l> .
+<http://localhost:8080/source/c9t6gR4l> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/c9t6gR4l> .
 
 <http://localhost:8080/source/f3s7kL1v> <http://swrc.ontoware.org/ontology#endDate> "2008" .
-<http://localhost:8080/source/f3s7kL1v> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f3s7kL1v> .
+<http://localhost:8080/source/f3s7kL1v> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f3s7kL1v> .
 <http://localhost:8080/source/f3s7kL1v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f3s7kL1v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/k1o8hP3x> <http://swrc.ontoware.org/ontology#endDate> "2008" .
 <http://localhost:8080/source/k1o8hP3x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/k1o8hP3x> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/k1o8hP3x> .
+<http://localhost:8080/source/k1o8hP3x> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/k1o8hP3x> .
 <http://localhost:8080/source/k1o8hP3x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/j9m5bQ2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/j9m5bQ2f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/j9m5bQ2f> .
+<http://localhost:8080/source/j9m5bQ2f> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/j9m5bQ2f> .
 <http://localhost:8080/source/j9m5bQ2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/j9m5bQ2f> <http://swrc.ontoware.org/ontology#endDate> "2008" .
 
-<http://localhost:8080/source/r4v8kW9d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/r4v8kW9d> .
+<http://localhost:8080/source/r4v8kW9d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/r4v8kW9d> .
 <http://localhost:8080/source/r4v8kW9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/r4v8kW9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/r4v8kW9d> <http://swrc.ontoware.org/ontology#endDate> "2008" .
@@ -186,89 +186,89 @@
 <http://localhost:8080/source/l2p6fS3z> <http://swrc.ontoware.org/ontology#endDate> "2008" .
 <http://localhost:8080/source/l2p6fS3z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/l2p6fS3z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/l2p6fS3z> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/l2p6fS3z> .
+<http://localhost:8080/source/l2p6fS3z> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/l2p6fS3z> .
 
 <http://localhost:8080/source/t8q1jL7y> <http://swrc.ontoware.org/ontology#endDate> "2009" .
 <http://localhost:8080/source/t8q1jL7y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/t8q1jL7y> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/t8q1jL7y> .
+<http://localhost:8080/source/t8q1jL7y> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/t8q1jL7y> .
 <http://localhost:8080/source/t8q1jL7y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/q3n4kM5x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/q3n4kM5x> <http://swrc.ontoware.org/ontology#endDate> "2009" .
-<http://localhost:8080/source/q3n4kM5x> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/q3n4kM5x> .
+<http://localhost:8080/source/q3n4kM5x> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/q3n4kM5x> .
 <http://localhost:8080/source/q3n4kM5x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/m7x3hN6o> <http://swrc.ontoware.org/ontology#endDate> "2009" .
 <http://localhost:8080/source/m7x3hN6o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/m7x3hN6o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/m7x3hN6o> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/m7x3hN6o> .
+<http://localhost:8080/source/m7x3hN6o> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/m7x3hN6o> .
 
-<http://localhost:8080/source/g6p5jQ8y> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/g6p5jQ8y> .
+<http://localhost:8080/source/g6p5jQ8y> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/g6p5jQ8y> .
 <http://localhost:8080/source/g6p5jQ8y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/g6p5jQ8y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/g6p5jQ8y> <http://swrc.ontoware.org/ontology#endDate> "October-2010" .
 
 <http://localhost:8080/source/w2q7fP3k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/w2q7fP3k> <http://swrc.ontoware.org/ontology#endDate> "2010" .
-<http://localhost:8080/source/w2q7fP3k> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/w2q7fP3k> .
+<http://localhost:8080/source/w2q7fP3k> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/w2q7fP3k> .
 <http://localhost:8080/source/w2q7fP3k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
-<http://localhost:8080/source/u9j2lH5v> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/u9j2lH5v> .
+<http://localhost:8080/source/u9j2lH5v> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/u9j2lH5v> .
 <http://localhost:8080/source/u9j2lH5v> <http://swrc.ontoware.org/ontology#endDate> "2010" .
 <http://localhost:8080/source/u9j2lH5v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/u9j2lH5v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/n3x4jK2c> <http://swrc.ontoware.org/ontology#endDate> "2011" .
-<http://localhost:8080/source/n3x4jK2c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/n3x4jK2c> .
+<http://localhost:8080/source/n3x4jK2c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/n3x4jK2c> .
 <http://localhost:8080/source/n3x4jK2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/n3x4jK2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/b6v5mQ9x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/b6v5mQ9x> <http://swrc.ontoware.org/ontology#endDate> "2011" .
-<http://localhost:8080/source/b6v5mQ9x> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b6v5mQ9x> .
+<http://localhost:8080/source/b6v5mQ9x> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b6v5mQ9x> .
 <http://localhost:8080/source/b6v5mQ9x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/o5l8pK7w> <http://swrc.ontoware.org/ontology#endDate> "2011" .
-<http://localhost:8080/source/o5l8pK7w> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/o5l8pK7w> .
+<http://localhost:8080/source/o5l8pK7w> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/o5l8pK7w> .
 <http://localhost:8080/source/o5l8pK7w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/o5l8pK7w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/v1q6rS9z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/v1q6rS9z> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/v1q6rS9z> .
+<http://localhost:8080/source/v1q6rS9z> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/v1q6rS9z> .
 <http://localhost:8080/source/v1q6rS9z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/v1q6rS9z> <http://swrc.ontoware.org/ontology#endDate> "2013" .
 
 <http://localhost:8080/source/z5j4pM1y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/z5j4pM1y> <http://swrc.ontoware.org/ontology#endDate> "2013" .
-<http://localhost:8080/source/z5j4pM1y> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/z5j4pM1y> .
+<http://localhost:8080/source/z5j4pM1y> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/z5j4pM1y> .
 <http://localhost:8080/source/z5j4pM1y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/p2m7qN8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/p2m7qN8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/p2m7qN8k> <http://swrc.ontoware.org/ontology#endDate> "2013" .
-<http://localhost:8080/source/p2m7qN8k> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/p2m7qN8k> .
+<http://localhost:8080/source/p2m7qN8k> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/p2m7qN8k> .
 
 <http://localhost:8080/source/f9x6bP4w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/f9x6bP4w> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f9x6bP4w> .
+<http://localhost:8080/source/f9x6bP4w> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f9x6bP4w> .
 <http://localhost:8080/source/f9x6bP4w> <http://swrc.ontoware.org/ontology#endDate> "2014" .
 <http://localhost:8080/source/f9x6bP4w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/g8r5mK1x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/g8r5mK1x> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/g8r5mK1x> .
+<http://localhost:8080/source/g8r5mK1x> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/g8r5mK1x> .
 <http://localhost:8080/source/g8r5mK1x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/g8r5mK1x> <http://swrc.ontoware.org/ontology#endDate> "2015" .
 
-<http://localhost:8080/source/j3q4hL7y> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/j3q4hL7y> .
+<http://localhost:8080/source/j3q4hL7y> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/j3q4hL7y> .
 <http://localhost:8080/source/j3q4hL7y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/j3q4hL7y> <http://swrc.ontoware.org/ontology#endDate> "2015" .
 <http://localhost:8080/source/j3q4hL7y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/y5p6kW3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/y5p6kW3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/y5p6kW3f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/y5p6kW3f> .
+<http://localhost:8080/source/y5p6kW3f> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/y5p6kW3f> .
 <http://localhost:8080/source/y5p6kW3f> <http://swrc.ontoware.org/ontology#endDate> "2016" .
 
-<http://localhost:8080/source/r7q3jS8z> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/r7q3jS8z> .
+<http://localhost:8080/source/r7q3jS8z> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/r7q3jS8z> .
 <http://localhost:8080/source/r7q3jS8z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/r7q3jS8z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/r7q3jS8z> <http://swrc.ontoware.org/ontology#endDate> "2017" .
@@ -276,34 +276,34 @@
 <http://localhost:8080/source/h1o9bQ5k> <http://swrc.ontoware.org/ontology#endDate> "2017" .
 <http://localhost:8080/source/h1o9bQ5k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/h1o9bQ5k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/h1o9bQ5k> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/h1o9bQ5k> .
+<http://localhost:8080/source/h1o9bQ5k> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/h1o9bQ5k> .
 
 <http://localhost:8080/source/k3m8pL6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/k3m8pL6c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/k3m8pL6c> .
+<http://localhost:8080/source/k3m8pL6c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/k3m8pL6c> .
 <http://localhost:8080/source/k3m8pL6c> <http://swrc.ontoware.org/ontology#endDate> "2017" .
 <http://localhost:8080/source/k3m8pL6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/d967a01d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/d967a01d> <http://swrc.ontoware.org/ontology#endDate> "July-2017" .
 <http://localhost:8080/source/d967a01d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/d967a01d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d967a01d> .
+<http://localhost:8080/source/d967a01d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d967a01d> .
 
 <http://localhost:8080/source/a82b2b2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/a82b2b2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/a82b2b2e> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
-<http://localhost:8080/source/a82b2b2e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/a82b2b2e> .
+<http://localhost:8080/source/a82b2b2e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/a82b2b2e> .
 
 <http://localhost:8080/source/f019e12f> <http://swrc.ontoware.org/ontology#endDate> "December-2018" .
 <http://localhost:8080/source/f019e12f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/f019e12f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/f019e12f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f019e12f> .
+<http://localhost:8080/source/f019e12f> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f019e12f> .
 
 <http://localhost:8080/source/b13c63d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/b13c63d7> <http://swrc.ontoware.org/ontology#endDate> "July-2019" .
 <http://localhost:8080/source/b13c63d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/b13c63d7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b13c63d7> .
+<http://localhost:8080/source/b13c63d7> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b13c63d7> .
 
-<http://localhost:8080/source/e6291a3a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e6291a3a> .
+<http://localhost:8080/source/e6291a3a> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e6291a3a> .
 <http://localhost:8080/source/e6291a3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/e6291a3a> <http://swrc.ontoware.org/ontology#endDate> "June-2021" .
 <http://localhost:8080/source/e6291a3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
@@ -311,44 +311,44 @@
 <http://localhost:8080/source/c21c8721> <http://swrc.ontoware.org/ontology#endDate> "December-2021" .
 <http://localhost:8080/source/c21c8721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/c21c8721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/c21c8721> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/c21c8721> .
+<http://localhost:8080/source/c21c8721> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/c21c8721> .
 
 <http://localhost:8080/source/f45f762a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/f45f762a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f45f762a> .
+<http://localhost:8080/source/f45f762a> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f45f762a> .
 <http://localhost:8080/source/f45f762a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f45f762a> <http://swrc.ontoware.org/ontology#endDate> "July-2021" .
 
 <http://localhost:8080/source/e98b1c4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/e98b1c4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e98b1c4e> <http://swrc.ontoware.org/ontology#endDate> "December-2021" .
-<http://localhost:8080/source/e98b1c4e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e98b1c4e> .
+<http://localhost:8080/source/e98b1c4e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e98b1c4e> .
 
-<http://localhost:8080/source/d12f4e5d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d12f4e5d> .
+<http://localhost:8080/source/d12f4e5d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d12f4e5d> .
 <http://localhost:8080/source/d12f4e5d> <http://swrc.ontoware.org/ontology#endDate> "June-2022" .
 <http://localhost:8080/source/d12f4e5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/d12f4e5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/f3a61d2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f3a61d2e> <http://swrc.ontoware.org/ontology#endDate> "June-2022" .
-<http://localhost:8080/source/f3a61d2e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f3a61d2e> .
+<http://localhost:8080/source/f3a61d2e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f3a61d2e> .
 <http://localhost:8080/source/f3a61d2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/a94b2f3c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/a94b2f3c> .
+<http://localhost:8080/source/a94b2f3c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/a94b2f3c> .
 <http://localhost:8080/source/a94b2f3c> <http://swrc.ontoware.org/ontology#endDate> "July-2022" .
 <http://localhost:8080/source/a94b2f3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/a94b2f3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
-<http://localhost:8080/source/e05a3d7c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e05a3d7c> .
+<http://localhost:8080/source/e05a3d7c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e05a3d7c> .
 <http://localhost:8080/source/e05a3d7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/e05a3d7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e05a3d7c> <http://swrc.ontoware.org/ontology#endDate> "July-2022" .
 
 <http://localhost:8080/source/c35d6b8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/c35d6b8f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/c35d6b8f> .
+<http://localhost:8080/source/c35d6b8f> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/c35d6b8f> .
 <http://localhost:8080/source/c35d6b8f> <http://swrc.ontoware.org/ontology#endDate> "July-2022" .
 <http://localhost:8080/source/c35d6b8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
-<http://localhost:8080/source/f67b4a6e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f67b4a6e> .
+<http://localhost:8080/source/f67b4a6e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f67b4a6e> .
 <http://localhost:8080/source/f67b4a6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/f67b4a6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f67b4a6e> <http://swrc.ontoware.org/ontology#endDate> "July-2022" .
@@ -356,14 +356,14 @@
 <http://localhost:8080/source/e79f3b5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e79f3b5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/e79f3b5c> <http://swrc.ontoware.org/ontology#endDate> "April-2023" .
-<http://localhost:8080/source/e79f3b5c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e79f3b5c> .
+<http://localhost:8080/source/e79f3b5c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e79f3b5c> .
 
 <http://localhost:8080/source/c14f5d2b> <http://swrc.ontoware.org/ontology#endDate> "June-2023" .
-<http://localhost:8080/source/c14f5d2b> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/c14f5d2b> .
+<http://localhost:8080/source/c14f5d2b> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/c14f5d2b> .
 <http://localhost:8080/source/c14f5d2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/c14f5d2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/d81b3e5d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d81b3e5d> .
+<http://localhost:8080/source/d81b3e5d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d81b3e5d> .
 <http://localhost:8080/source/d81b3e5d> <http://swrc.ontoware.org/ontology#endDate> "June-2023" .
 <http://localhost:8080/source/d81b3e5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/d81b3e5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
@@ -371,19 +371,19 @@
 <http://localhost:8080/source/f13e6d7a> <http://swrc.ontoware.org/ontology#endDate> "September-2023" .
 <http://localhost:8080/source/f13e6d7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f13e6d7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/f13e6d7a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f13e6d7a> .
+<http://localhost:8080/source/f13e6d7a> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f13e6d7a> .
 
 <http://localhost:8080/source/e79f3b5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e79f3b5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/e79f3b5c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e79f3b5c> .
+<http://localhost:8080/source/e79f3b5c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e79f3b5c> .
 <http://localhost:8080/source/e79f3b5c> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
 
 <http://localhost:8080/source/ac34dfe1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ac34dfe1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ac34dfe1> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
-<http://localhost:8080/source/ac34dfe1> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ac34dfe1> .
+<http://localhost:8080/source/ac34dfe1> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ac34dfe1> .
 
-<http://localhost:8080/source/f51a3e12> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f51a3e12> .
+<http://localhost:8080/source/f51a3e12> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f51a3e12> .
 <http://localhost:8080/source/f51a3e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f51a3e12> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
 <http://localhost:8080/source/f51a3e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
@@ -391,99 +391,99 @@
 <http://localhost:8080/source/3b28f9c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/3b28f9c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/3b28f9c6> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
-<http://localhost:8080/source/3b28f9c6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/3b28f9c6> .
+<http://localhost:8080/source/3b28f9c6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/3b28f9c6> .
 
 <http://localhost:8080/source/1a56cbd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/1a56cbd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/1a56cbd7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/1a56cbd7> .
+<http://localhost:8080/source/1a56cbd7> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/1a56cbd7> .
 <http://localhost:8080/source/1a56cbd7> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
 
 <http://localhost:8080/source/6d9b503b> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
-<http://localhost:8080/source/6d9b503b> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/6d9b503b> .
+<http://localhost:8080/source/6d9b503b> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/6d9b503b> .
 <http://localhost:8080/source/6d9b503b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/6d9b503b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/8e32b4a9> <http://swrc.ontoware.org/ontology#endDate> "December-2009" .
 <http://localhost:8080/source/8e32b4a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/8e32b4a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/8e32b4a9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/8e32b4a9> .
+<http://localhost:8080/source/8e32b4a9> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/8e32b4a9> .
 
 <http://localhost:8080/source/f2d5e08d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f2d5e08d> <http://swrc.ontoware.org/ontology#endDate> "December-2009" .
-<http://localhost:8080/source/f2d5e08d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f2d5e08d> .
+<http://localhost:8080/source/f2d5e08d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f2d5e08d> .
 <http://localhost:8080/source/f2d5e08d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/aa9b5d72> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 <http://localhost:8080/source/aa9b5d72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/aa9b5d72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/aa9b5d72> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/aa9b5d72> .
+<http://localhost:8080/source/aa9b5d72> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/aa9b5d72> .
 
 <http://localhost:8080/source/30e9d6a1> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
-<http://localhost:8080/source/30e9d6a1> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/30e9d6a1> .
+<http://localhost:8080/source/30e9d6a1> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/30e9d6a1> .
 <http://localhost:8080/source/30e9d6a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/30e9d6a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
-<http://localhost:8080/source/bdadf312> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/bdadf312> .
+<http://localhost:8080/source/bdadf312> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/bdadf312> .
 <http://localhost:8080/source/bdadf312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/bdadf312> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 <http://localhost:8080/source/bdadf312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/4c2f5e18> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 <http://localhost:8080/source/4c2f5e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/4c2f5e18> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/4c2f5e18> .
+<http://localhost:8080/source/4c2f5e18> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/4c2f5e18> .
 <http://localhost:8080/source/4c2f5e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/b68f3d49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/b68f3d49> <http://swrc.ontoware.org/ontology#endDate> "December-2011" .
 <http://localhost:8080/source/b68f3d49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/b68f3d49> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b68f3d49> .
+<http://localhost:8080/source/b68f3d49> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b68f3d49> .
 
-<http://localhost:8080/source/7f92c8e4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/7f92c8e4> .
+<http://localhost:8080/source/7f92c8e4> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/7f92c8e4> .
 <http://localhost:8080/source/7f92c8e4> <http://swrc.ontoware.org/ontology#endDate> "December-2011" .
 <http://localhost:8080/source/7f92c8e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/7f92c8e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/9c7b6d03> <http://swrc.ontoware.org/ontology#endDate> "December-2012" .
-<http://localhost:8080/source/9c7b6d03> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9c7b6d03> .
+<http://localhost:8080/source/9c7b6d03> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9c7b6d03> .
 <http://localhost:8080/source/9c7b6d03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/9c7b6d03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/cb283fc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/cb283fc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/cb283fc7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/cb283fc7> .
+<http://localhost:8080/source/cb283fc7> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/cb283fc7> .
 <http://localhost:8080/source/cb283fc7> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 
 <http://localhost:8080/source/4f2a9b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/4f2a9b14> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/4f2a9b14> .
+<http://localhost:8080/source/4f2a9b14> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/4f2a9b14> .
 <http://localhost:8080/source/4f2a9b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/4f2a9b14> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 
 <http://localhost:8080/source/ae9b7d31> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 <http://localhost:8080/source/ae9b7d31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ae9b7d31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ae9b7d31> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ae9b7d31> .
+<http://localhost:8080/source/ae9b7d31> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ae9b7d31> .
 
 <http://localhost:8080/source/7e4f9c67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/7e4f9c67> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/7e4f9c67> .
+<http://localhost:8080/source/7e4f9c67> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/7e4f9c67> .
 <http://localhost:8080/source/7e4f9c67> <http://swrc.ontoware.org/ontology#endDate> "December-2014" .
 <http://localhost:8080/source/7e4f9c67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/b82c5d9a> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 <http://localhost:8080/source/b82c5d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/b82c5d9a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b82c5d9a> .
+<http://localhost:8080/source/b82c5d9a> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b82c5d9a> .
 <http://localhost:8080/source/b82c5d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/d3a7f914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/d3a7f914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/d3a7f914> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d3a7f914> .
+<http://localhost:8080/source/d3a7f914> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d3a7f914> .
 <http://localhost:8080/source/d3a7f914> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 
 <http://localhost:8080/source/20a7c9d6> <http://swrc.ontoware.org/ontology#endDate> "December-2016" .
 <http://localhost:8080/source/20a7c9d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/20a7c9d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/20a7c9d6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/20a7c9d6> .
+<http://localhost:8080/source/20a7c9d6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/20a7c9d6> .
 
-<http://localhost:8080/source/e5a7c61d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e5a7c61d> .
+<http://localhost:8080/source/e5a7c61d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e5a7c61d> .
 <http://localhost:8080/source/e5a7c61d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/e5a7c61d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e5a7c61d> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
@@ -491,34 +491,34 @@
 <http://localhost:8080/source/9b6f713c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/9b6f713c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/9b6f713c> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
-<http://localhost:8080/source/9b6f713c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9b6f713c> .
+<http://localhost:8080/source/9b6f713c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9b6f713c> .
 
-<http://localhost:8080/source/77d5fa6e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/77d5fa6e> .
+<http://localhost:8080/source/77d5fa6e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/77d5fa6e> .
 <http://localhost:8080/source/77d5fa6e> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
 <http://localhost:8080/source/77d5fa6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/77d5fa6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
-<http://localhost:8080/source/1a7d4d30> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/1a7d4d30> .
+<http://localhost:8080/source/1a7d4d30> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/1a7d4d30> .
 <http://localhost:8080/source/1a7d4d30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/1a7d4d30> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
 <http://localhost:8080/source/1a7d4d30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/607b4d21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/607b4d21> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
-<http://localhost:8080/source/607b4d21> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/607b4d21> .
+<http://localhost:8080/source/607b4d21> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/607b4d21> .
 <http://localhost:8080/source/607b4d21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/e79f3b5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e79f3b5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/e79f3b5c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e79f3b5c> .
+<http://localhost:8080/source/e79f3b5c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e79f3b5c> .
 <http://localhost:8080/source/e79f3b5c> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
 
 <http://localhost:8080/source/ac34dfe1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/ac34dfe1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ac34dfe1> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
-<http://localhost:8080/source/ac34dfe1> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ac34dfe1> .
+<http://localhost:8080/source/ac34dfe1> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ac34dfe1> .
 
-<http://localhost:8080/source/f51a3e12> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f51a3e12> .
+<http://localhost:8080/source/f51a3e12> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f51a3e12> .
 <http://localhost:8080/source/f51a3e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f51a3e12> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
 <http://localhost:8080/source/f51a3e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
@@ -526,99 +526,99 @@
 <http://localhost:8080/source/3b28f9c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/3b28f9c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/3b28f9c6> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
-<http://localhost:8080/source/3b28f9c6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/3b28f9c6> .
+<http://localhost:8080/source/3b28f9c6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/3b28f9c6> .
 
 <http://localhost:8080/source/1a56cbd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/1a56cbd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/1a56cbd7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/1a56cbd7> .
+<http://localhost:8080/source/1a56cbd7> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/1a56cbd7> .
 <http://localhost:8080/source/1a56cbd7> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
 
 <http://localhost:8080/source/6d9b503b> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
-<http://localhost:8080/source/6d9b503b> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/6d9b503b> .
+<http://localhost:8080/source/6d9b503b> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/6d9b503b> .
 <http://localhost:8080/source/6d9b503b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/6d9b503b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/8e32b4a9> <http://swrc.ontoware.org/ontology#endDate> "December-2009" .
 <http://localhost:8080/source/8e32b4a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/8e32b4a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/8e32b4a9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/8e32b4a9> .
+<http://localhost:8080/source/8e32b4a9> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/8e32b4a9> .
 
 <http://localhost:8080/source/f2d5e08d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f2d5e08d> <http://swrc.ontoware.org/ontology#endDate> "December-2009" .
-<http://localhost:8080/source/f2d5e08d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f2d5e08d> .
+<http://localhost:8080/source/f2d5e08d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f2d5e08d> .
 <http://localhost:8080/source/f2d5e08d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/aa9b5d72> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 <http://localhost:8080/source/aa9b5d72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/aa9b5d72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/aa9b5d72> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/aa9b5d72> .
+<http://localhost:8080/source/aa9b5d72> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/aa9b5d72> .
 
 <http://localhost:8080/source/30e9d6a1> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
-<http://localhost:8080/source/30e9d6a1> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/30e9d6a1> .
+<http://localhost:8080/source/30e9d6a1> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/30e9d6a1> .
 <http://localhost:8080/source/30e9d6a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/30e9d6a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
-<http://localhost:8080/source/bdadf312> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/bdadf312> .
+<http://localhost:8080/source/bdadf312> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/bdadf312> .
 <http://localhost:8080/source/bdadf312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/bdadf312> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 <http://localhost:8080/source/bdadf312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/4c2f5e18> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 <http://localhost:8080/source/4c2f5e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/4c2f5e18> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/4c2f5e18> .
+<http://localhost:8080/source/4c2f5e18> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/4c2f5e18> .
 <http://localhost:8080/source/4c2f5e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/b68f3d49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/b68f3d49> <http://swrc.ontoware.org/ontology#endDate> "December-2011" .
 <http://localhost:8080/source/b68f3d49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/b68f3d49> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b68f3d49> .
+<http://localhost:8080/source/b68f3d49> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b68f3d49> .
 
-<http://localhost:8080/source/7f92c8e4> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/7f92c8e4> .
+<http://localhost:8080/source/7f92c8e4> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/7f92c8e4> .
 <http://localhost:8080/source/7f92c8e4> <http://swrc.ontoware.org/ontology#endDate> "December-2011" .
 <http://localhost:8080/source/7f92c8e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/7f92c8e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/9c7b6d03> <http://swrc.ontoware.org/ontology#endDate> "December-2012" .
-<http://localhost:8080/source/9c7b6d03> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9c7b6d03> .
+<http://localhost:8080/source/9c7b6d03> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9c7b6d03> .
 <http://localhost:8080/source/9c7b6d03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/9c7b6d03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/cb283fc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/cb283fc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/cb283fc7> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/cb283fc7> .
+<http://localhost:8080/source/cb283fc7> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/cb283fc7> .
 <http://localhost:8080/source/cb283fc7> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 
 <http://localhost:8080/source/4f2a9b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/4f2a9b14> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/4f2a9b14> .
+<http://localhost:8080/source/4f2a9b14> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/4f2a9b14> .
 <http://localhost:8080/source/4f2a9b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/4f2a9b14> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 
 <http://localhost:8080/source/ae9b7d31> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 <http://localhost:8080/source/ae9b7d31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/ae9b7d31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/ae9b7d31> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/ae9b7d31> .
+<http://localhost:8080/source/ae9b7d31> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/ae9b7d31> .
 
 <http://localhost:8080/source/7e4f9c67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/7e4f9c67> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/7e4f9c67> .
+<http://localhost:8080/source/7e4f9c67> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/7e4f9c67> .
 <http://localhost:8080/source/7e4f9c67> <http://swrc.ontoware.org/ontology#endDate> "December-2014" .
 <http://localhost:8080/source/7e4f9c67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/b82c5d9a> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 <http://localhost:8080/source/b82c5d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/b82c5d9a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b82c5d9a> .
+<http://localhost:8080/source/b82c5d9a> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b82c5d9a> .
 <http://localhost:8080/source/b82c5d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/d3a7f914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/d3a7f914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/d3a7f914> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d3a7f914> .
+<http://localhost:8080/source/d3a7f914> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d3a7f914> .
 <http://localhost:8080/source/d3a7f914> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 
 <http://localhost:8080/source/20a7c9d6> <http://swrc.ontoware.org/ontology#endDate> "December-2016" .
 <http://localhost:8080/source/20a7c9d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/20a7c9d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/20a7c9d6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/20a7c9d6> .
+<http://localhost:8080/source/20a7c9d6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/20a7c9d6> .
 
-<http://localhost:8080/source/e5a7c61d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e5a7c61d> .
+<http://localhost:8080/source/e5a7c61d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e5a7c61d> .
 <http://localhost:8080/source/e5a7c61d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/e5a7c61d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e5a7c61d> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
@@ -626,49 +626,49 @@
 <http://localhost:8080/source/9b6f713c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/9b6f713c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/9b6f713c> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
-<http://localhost:8080/source/9b6f713c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9b6f713c> .
+<http://localhost:8080/source/9b6f713c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9b6f713c> .
 
-<http://localhost:8080/source/77d5fa6e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/77d5fa6e> .
+<http://localhost:8080/source/77d5fa6e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/77d5fa6e> .
 <http://localhost:8080/source/77d5fa6e> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
 <http://localhost:8080/source/77d5fa6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/77d5fa6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
-<http://localhost:8080/source/1a7d4d30> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/1a7d4d30> .
+<http://localhost:8080/source/1a7d4d30> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/1a7d4d30> .
 <http://localhost:8080/source/1a7d4d30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/1a7d4d30> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
 <http://localhost:8080/source/1a7d4d30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/607b4d21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/607b4d21> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
-<http://localhost:8080/source/607b4d21> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/607b4d21> .
+<http://localhost:8080/source/607b4d21> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/607b4d21> .
 <http://localhost:8080/source/607b4d21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/c99f8d2a> <http://swrc.ontoware.org/ontology#endDate> "December-2017" .
-<http://localhost:8080/source/c99f8d2a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/c99f8d2a> .
+<http://localhost:8080/source/c99f8d2a> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/c99f8d2a> .
 <http://localhost:8080/source/c99f8d2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/c99f8d2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/f3419dcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/f3419dcb> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f3419dcb> .
+<http://localhost:8080/source/f3419dcb> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f3419dcb> .
 <http://localhost:8080/source/f3419dcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f3419dcb> <http://swrc.ontoware.org/ontology#endDate> "December-2019" .
 
-<http://localhost:8080/source/1c6f7e45> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/1c6f7e45> .
+<http://localhost:8080/source/1c6f7e45> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/1c6f7e45> .
 <http://localhost:8080/source/1c6f7e45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/1c6f7e45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/1c6f7e45> <http://swrc.ontoware.org/ontology#endDate> "December-2020" .
 
 <http://localhost:8080/source/4b3e1f28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/4b3e1f28> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/4b3e1f28> .
+<http://localhost:8080/source/4b3e1f28> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/4b3e1f28> .
 <http://localhost:8080/source/4b3e1f28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/4b3e1f28> <http://swrc.ontoware.org/ontology#endDate> "December-2021" .
 
-<http://localhost:8080/source/a2b469e9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/a2b469e9> .
+<http://localhost:8080/source/a2b469e9> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/a2b469e9> .
 <http://localhost:8080/source/a2b469e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/a2b469e9> <http://swrc.ontoware.org/ontology#endDate> "December-2021" .
 <http://localhost:8080/source/a2b469e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
-<http://localhost:8080/source/b4f19e70> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b4f19e70> .
+<http://localhost:8080/source/b4f19e70> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b4f19e70> .
 <http://localhost:8080/source/b4f19e70> <http://swrc.ontoware.org/ontology#endDate> "December-2021" .
 <http://localhost:8080/source/b4f19e70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/b4f19e70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
@@ -676,34 +676,34 @@
 <http://localhost:8080/source/7e49db24> <http://swrc.ontoware.org/ontology#endDate> "March-2022" .
 <http://localhost:8080/source/7e49db24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/7e49db24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/7e49db24> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/7e49db24> .
+<http://localhost:8080/source/7e49db24> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/7e49db24> .
 
-<http://localhost:8080/source/0a3d4e89> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/0a3d4e89> .
+<http://localhost:8080/source/0a3d4e89> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/0a3d4e89> .
 <http://localhost:8080/source/0a3d4e89> <http://swrc.ontoware.org/ontology#endDate> "December-2022" .
 <http://localhost:8080/source/0a3d4e89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/0a3d4e89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/72f1e3b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/72f1e3b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/72f1e3b9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/72f1e3b9> .
+<http://localhost:8080/source/72f1e3b9> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/72f1e3b9> .
 <http://localhost:8080/source/72f1e3b9> <http://swrc.ontoware.org/ontology#endDate> "December-2022" .
 
 <http://localhost:8080/source/d9e4c67a> <http://swrc.ontoware.org/ontology#endDate> "December-2022" .
 <http://localhost:8080/source/d9e4c67a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/d9e4c67a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/d9e4c67a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d9e4c67a> .
+<http://localhost:8080/source/d9e4c67a> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d9e4c67a> .
 
 <http://localhost:8080/source/1f36b4ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/1f36b4ea> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/1f36b4ea> .
+<http://localhost:8080/source/1f36b4ea> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/1f36b4ea> .
 <http://localhost:8080/source/1f36b4ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/1f36b4ea> <http://swrc.ontoware.org/ontology#endDate> "December-2022" .
 
 <http://localhost:8080/source/9e3b51c5> <http://swrc.ontoware.org/ontology#endDate> "December-2022" .
 <http://localhost:8080/source/9e3b51c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/9e3b51c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/9e3b51c5> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9e3b51c5> .
+<http://localhost:8080/source/9e3b51c5> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9e3b51c5> .
 
-<http://localhost:8080/source/0a39c716> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/0a39c716> .
+<http://localhost:8080/source/0a39c716> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/0a39c716> .
 <http://localhost:8080/source/0a39c716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/0a39c716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/0a39c716> <http://swrc.ontoware.org/ontology#endDate> "December-2022" .
@@ -711,59 +711,59 @@
 <http://localhost:8080/source/d0f4b9ae> <http://swrc.ontoware.org/ontology#endDate> "February-2023" .
 <http://localhost:8080/source/d0f4b9ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/d0f4b9ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/d0f4b9ae> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d0f4b9ae> .
+<http://localhost:8080/source/d0f4b9ae> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d0f4b9ae> .
 
 <http://localhost:8080/source/9c52d0a0> <http://swrc.ontoware.org/ontology#endDate> "May-2023" .
 <http://localhost:8080/source/9c52d0a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/9c52d0a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/9c52d0a0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9c52d0a0> .
+<http://localhost:8080/source/9c52d0a0> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9c52d0a0> .
 
 <http://localhost:8080/source/b1d29c3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/b1d29c3e> <http://swrc.ontoware.org/ontology#endDate> "September-2023" .
-<http://localhost:8080/source/b1d29c3e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b1d29c3e> .
+<http://localhost:8080/source/b1d29c3e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b1d29c3e> .
 <http://localhost:8080/source/b1d29c3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/4c7d9e3b> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/4c7d9e3b> .
+<http://localhost:8080/source/4c7d9e3b> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/4c7d9e3b> .
 <http://localhost:8080/source/4c7d9e3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/4c7d9e3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/4c7d9e3b> <http://swrc.ontoware.org/ontology#endDate> "July-2024" .
 
 <http://localhost:8080/source/be77d15e> <http://swrc.ontoware.org/ontology#endDate> "December-2007" .
-<http://localhost:8080/source/be77d15e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/be77d15e> .
+<http://localhost:8080/source/be77d15e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/be77d15e> .
 <http://localhost:8080/source/be77d15e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/be77d15e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/a6b4d9d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/a6b4d9d3> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
-<http://localhost:8080/source/a6b4d9d3> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/a6b4d9d3> .
+<http://localhost:8080/source/a6b4d9d3> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/a6b4d9d3> .
 <http://localhost:8080/source/a6b4d9d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/4f9e8a7d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/4f9e8a7d> .
+<http://localhost:8080/source/4f9e8a7d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/4f9e8a7d> .
 <http://localhost:8080/source/4f9e8a7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/4f9e8a7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/4f9e8a7d> <http://swrc.ontoware.org/ontology#endDate> "December-2009" .
 
 <http://localhost:8080/source/b3471f68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/b3471f68> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
-<http://localhost:8080/source/b3471f68> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b3471f68> .
+<http://localhost:8080/source/b3471f68> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b3471f68> .
 <http://localhost:8080/source/b3471f68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/e53284c0> <http://swrc.ontoware.org/ontology#endDate> "December-2011" .
 <http://localhost:8080/source/e53284c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/e53284c0> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e53284c0> .
+<http://localhost:8080/source/e53284c0> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e53284c0> .
 <http://localhost:8080/source/e53284c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/f06a4d0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/f06a4d0c> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f06a4d0c> .
+<http://localhost:8080/source/f06a4d0c> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f06a4d0c> .
 <http://localhost:8080/source/f06a4d0c> <http://swrc.ontoware.org/ontology#endDate> "December-2012" .
 <http://localhost:8080/source/f06a4d0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/c23f7e9b> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/c23f7e9b> .
+<http://localhost:8080/source/c23f7e9b> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/c23f7e9b> .
 <http://localhost:8080/source/c23f7e9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/c23f7e9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/c23f7e9b> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 
-<http://localhost:8080/source/a7b63e2f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/a7b63e2f> .
+<http://localhost:8080/source/a7b63e2f> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/a7b63e2f> .
 <http://localhost:8080/source/a7b63e2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/a7b63e2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/a7b63e2f> <http://swrc.ontoware.org/ontology#endDate> "December-2014" .
@@ -771,129 +771,129 @@
 <http://localhost:8080/source/c536a7c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/c536a7c9> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 <http://localhost:8080/source/c536a7c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/c536a7c9> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/c536a7c9> .
+<http://localhost:8080/source/c536a7c9> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/c536a7c9> .
 
 <http://localhost:8080/source/e4c2a3d6> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 <http://localhost:8080/source/e4c2a3d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/e4c2a3d6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e4c2a3d6> .
+<http://localhost:8080/source/e4c2a3d6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e4c2a3d6> .
 <http://localhost:8080/source/e4c2a3d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/d25a5e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/d25a5e12> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 <http://localhost:8080/source/d25a5e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/d25a5e12> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d25a5e12> .
+<http://localhost:8080/source/d25a5e12> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d25a5e12> .
 
-<http://localhost:8080/source/14b7d9b6> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/14b7d9b6> .
+<http://localhost:8080/source/14b7d9b6> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/14b7d9b6> .
 <http://localhost:8080/source/14b7d9b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/14b7d9b6> <http://swrc.ontoware.org/ontology#endDate> "December-2018" .
 <http://localhost:8080/source/14b7d9b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/78d9d56f> <http://swrc.ontoware.org/ontology#endDate> "December-2020" .
-<http://localhost:8080/source/78d9d56f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/78d9d56f> .
+<http://localhost:8080/source/78d9d56f> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/78d9d56f> .
 <http://localhost:8080/source/78d9d56f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/78d9d56f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/8e576a9f> <http://swrc.ontoware.org/ontology#endDate> "December-2022" .
-<http://localhost:8080/source/8e576a9f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/8e576a9f> .
+<http://localhost:8080/source/8e576a9f> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/8e576a9f> .
 <http://localhost:8080/source/8e576a9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/8e576a9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/bf0a7c92> <http://swrc.ontoware.org/ontology#endDate> "December-2007" .
-<http://localhost:8080/source/bf0a7c92> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/bf0a7c92> .
+<http://localhost:8080/source/bf0a7c92> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/bf0a7c92> .
 <http://localhost:8080/source/bf0a7c92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/bf0a7c92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/be42e32b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/be42e32b> <http://swrc.ontoware.org/ontology#endDate> "December-2008" .
 <http://localhost:8080/source/be42e32b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/be42e32b> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/be42e32b> .
+<http://localhost:8080/source/be42e32b> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/be42e32b> .
 
-<http://localhost:8080/source/e6f4b289> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e6f4b289> .
+<http://localhost:8080/source/e6f4b289> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e6f4b289> .
 <http://localhost:8080/source/e6f4b289> <http://swrc.ontoware.org/ontology#endDate> "December-2009" .
 <http://localhost:8080/source/e6f4b289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/e6f4b289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/4e73a5bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/4e73a5bf> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/4e73a5bf> .
+<http://localhost:8080/source/4e73a5bf> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/4e73a5bf> .
 <http://localhost:8080/source/4e73a5bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/4e73a5bf> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 
 <http://localhost:8080/source/7c3c4d5e> <http://swrc.ontoware.org/ontology#endDate> "December-2011" .
 <http://localhost:8080/source/7c3c4d5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/7c3c4d5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/7c3c4d5e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/7c3c4d5e> .
+<http://localhost:8080/source/7c3c4d5e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/7c3c4d5e> .
 
 <http://localhost:8080/source/c3a5e271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/c3a5e271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/c3a5e271> <http://swrc.ontoware.org/ontology#endDate> "December-2011" .
-<http://localhost:8080/source/c3a5e271> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/c3a5e271> .
+<http://localhost:8080/source/c3a5e271> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/c3a5e271> .
 
 <http://localhost:8080/source/607f5a98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/607f5a98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/607f5a98> <http://swrc.ontoware.org/ontology#endDate> "December-2012" .
-<http://localhost:8080/source/607f5a98> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/607f5a98> .
+<http://localhost:8080/source/607f5a98> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/607f5a98> .
 
 <http://localhost:8080/source/47e9b32a> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 <http://localhost:8080/source/47e9b32a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/47e9b32a> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/47e9b32a> .
+<http://localhost:8080/source/47e9b32a> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/47e9b32a> .
 <http://localhost:8080/source/47e9b32a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/9b5a7e63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/9b5a7e63> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9b5a7e63> .
+<http://localhost:8080/source/9b5a7e63> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9b5a7e63> .
 <http://localhost:8080/source/9b5a7e63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/9b5a7e63> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 
-<http://localhost:8080/source/2e33c07d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/2e33c07d> .
+<http://localhost:8080/source/2e33c07d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/2e33c07d> .
 <http://localhost:8080/source/2e33c07d> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 <http://localhost:8080/source/2e33c07d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/2e33c07d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/65f84e12> <http://swrc.ontoware.org/ontology#endDate> "December-2018" .
 <http://localhost:8080/source/65f84e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/65f84e12> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/65f84e12> .
+<http://localhost:8080/source/65f84e12> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/65f84e12> .
 <http://localhost:8080/source/65f84e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/b6c1a1f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/b6c1a1f3> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/b6c1a1f3> .
+<http://localhost:8080/source/b6c1a1f3> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/b6c1a1f3> .
 <http://localhost:8080/source/b6c1a1f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/b6c1a1f3> <http://swrc.ontoware.org/ontology#endDate> "December-2019" .
 
 <http://localhost:8080/source/f39a9c87> <http://swrc.ontoware.org/ontology#endDate> "December-2021" .
 <http://localhost:8080/source/f39a9c87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/f39a9c87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/f39a9c87> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/f39a9c87> .
+<http://localhost:8080/source/f39a9c87> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/f39a9c87> .
 
 <http://localhost:8080/source/e417d72d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/e417d72d> <http://swrc.ontoware.org/ontology#endDate> "December-2022" .
-<http://localhost:8080/source/e417d72d> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/e417d72d> .
+<http://localhost:8080/source/e417d72d> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/e417d72d> .
 <http://localhost:8080/source/e417d72d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 
 <http://localhost:8080/source/91b2c639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/91b2c639> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 <http://localhost:8080/source/91b2c639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/91b2c639> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/91b2c639> .
+<http://localhost:8080/source/91b2c639> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/91b2c639> .
 
 <http://localhost:8080/source/d8a2f645> <http://swrc.ontoware.org/ontology#endDate> "December-2013" .
 <http://localhost:8080/source/d8a2f645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/d8a2f645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/d8a2f645> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/d8a2f645> .
+<http://localhost:8080/source/d8a2f645> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/d8a2f645> .
 
 <http://localhost:8080/source/9bdfb8ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/9bdfb8ca> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
-<http://localhost:8080/source/9bdfb8ca> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9bdfb8ca> .
+<http://localhost:8080/source/9bdfb8ca> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9bdfb8ca> .
 <http://localhost:8080/source/9bdfb8ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/df5420d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/df5420d3> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/df5420d3> .
+<http://localhost:8080/source/df5420d3> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/df5420d3> .
 <http://localhost:8080/source/df5420d3> <http://swrc.ontoware.org/ontology#endDate> "December-2020" .
 <http://localhost:8080/source/df5420d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
 <http://localhost:8080/source/5041f75e> <http://swrc.ontoware.org/ontology#endDate> "December-2010" .
 <http://localhost:8080/source/5041f75e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
-<http://localhost:8080/source/5041f75e> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/5041f75e> .
+<http://localhost:8080/source/5041f75e> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/5041f75e> .
 <http://localhost:8080/source/5041f75e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 
-<http://localhost:8080/source/73972f34> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/73972f34> .
+<http://localhost:8080/source/73972f34> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/73972f34> .
 <http://localhost:8080/source/73972f34> <http://swrc.ontoware.org/ontology#endDate> "December-2015" .
 <http://localhost:8080/source/73972f34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
 <http://localhost:8080/source/73972f34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
@@ -901,5 +901,5 @@
 <http://localhost:8080/source/9cc2c30f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/alumni> .
 <http://localhost:8080/source/9cc2c30f> <http://swrc.ontoware.org/ontology#endDate> "December-2018" .
 <http://localhost:8080/source/9cc2c30f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://num.edu.mn/ontology#Person> .
-<http://localhost:8080/source/9cc2c30f> <http://www.semanticweb.org/ontologies/2024/KGE-13/status_alumni> <http://localhost:8080/source/9cc2c30f> .
+<http://localhost:8080/source/9cc2c30f> <http://knowdive.disi.unitn.it/etype#status_alumni> <http://localhost:8080/source/9cc2c30f> .
 

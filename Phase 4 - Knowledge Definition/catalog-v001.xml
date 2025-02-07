@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://knowdive.disi.unitn.it/etype#" uri="file:/Users/deborah/Documents/Università/Magistrale/2-anno/KGE/KGE-Project/Phase%205%20-%20Entity%20Definition/extended_ontology/KGE-13_Extension.owx"/>
     <uri id="Imports Wizard Entry" name="http://num.edu.mn/ontology" uri="file:/C:/Users/giare/Desktop/uni/KGE/project/KGE-Project/Phase%202%20-%20Information%20Gathering/Knowledge%20dataset/UNITN-DU.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.org/vocab/aiiso/schema" uri="file:/C:/Users/giare/Desktop/uni/KGE/project/KGE-Project/Phase%202%20-%20Information%20Gathering/Knowledge%20dataset/lov_aiiso.ttl"/>
     <uri id="Imports Wizard Entry" name="http://swrc.ontoware.org/ontology-07" uri="file:/C:/Users/giare/Desktop/uni/KGE/project/KGE-Project/Phase%202%20-%20Information%20Gathering/Knowledge%20dataset/lov_swrc.ttl"/>
