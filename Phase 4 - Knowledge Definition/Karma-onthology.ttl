@@ -45,7 +45,7 @@
 ###  http://knowdive.disi.unitn.it/etype#related_to
 :related_to rdf:type owl:ObjectProperty ;
             rdfs:domain :ResearchProduct ,
-                        <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                        <http://knowdive.disi.unitn.it/etype#ResearchTopic ;
             rdfs:range <http://swrc.ontoware.org/ontology#ResearchTopic> .
 
 
@@ -78,7 +78,7 @@
 ###  http://purl.org/vocab/aiiso/schema#responsibleFor
 <http://purl.org/vocab/aiiso/schema#responsibleFor> rdf:type owl:ObjectProperty ;
                                                     rdfs:domain <http://num.edu.mn/ontology#Person> ;
-                                                    rdfs:range <http://swrc.ontoware.org/ontology#ResearchProject> .
+                                                    rdfs:range <http://knowdive.disi.unitn.it/etype#ResearchTopic .
 
 
 ###  http://purl.org/vocab/aiiso/schema#teaches
@@ -96,7 +96,7 @@
 ###  http://swrc.ontoware.org/ontology#worksAtProject
 <http://swrc.ontoware.org/ontology#worksAtProject> rdf:type owl:ObjectProperty ;
                                                    rdfs:domain <http://num.edu.mn/ontology#Person> ;
-                                                   rdfs:range <http://swrc.ontoware.org/ontology#ResearchProject> .
+                                                   rdfs:range <http://knowdive.disi.unitn.it/etype#ResearchTopic .
 
 
 #################################################################
@@ -135,7 +135,7 @@
 
 ###  http://num.edu.mn/ontology#Fund
 <http://num.edu.mn/ontology#Fund> rdf:type owl:DatatypeProperty ;
-                                  rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                  rdfs:domain <http://knowdive.disi.unitn.it/etype#ResearchTopic ;
                                   <http://num.edu.mn/ontology#ConceptID> "UKC-63194" ;
                                   rdfs:isDefinedBy "a reserve of money set aside for some purpose"@en .
 
@@ -156,7 +156,7 @@
 
 ###  http://swrc.ontoware.org/ontology#endDate
 <http://swrc.ontoware.org/ontology#endDate> rdf:type owl:DatatypeProperty ;
-                                            rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ,
+                                            rdfs:domain <http://knowdive.disi.unitn.it/etype#ResearchTopic ,
                                                         <https://schema.org/alumni> ;
                                             <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0004" ;
                                             rdfs:isDefinedBy "the date in which something ended"@en .
@@ -181,7 +181,7 @@
                                          rdfs:domain :ResearchProduct ,
                                                      <http://num.edu.mn/ontology#Person> ,
                                                      <http://purl.org/vocab/aiiso/schema#Course> ,
-                                                     <http://swrc.ontoware.org/ontology#ResearchProject> ,
+                                                     <http://knowdive.disi.unitn.it/etype#ResearchTopic ,
                                                      <http://swrc.ontoware.org/ontology#ResearchTopic> ,
                                                      <http://vivoweb.org/ontology/core#University> ;
                                          <http://num.edu.mn/ontology#ConceptID> "UKC-2" ;
@@ -198,7 +198,7 @@
 
 ###  http://swrc.ontoware.org/ontology#startDate
 <http://swrc.ontoware.org/ontology#startDate> rdf:type owl:DatatypeProperty ;
-                                              rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                              rdfs:domain <http://knowdive.disi.unitn.it/etype#ResearchTopic ;
                                               <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0005" ;
                                               rdfs:isDefinedBy "the date in which something started"@en .
 
@@ -220,7 +220,7 @@
 
 ###  http://vivoweb.org/ontology/core#Keyword
 <http://vivoweb.org/ontology/core#Keyword> rdf:type owl:DatatypeProperty ;
-                                           rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                           rdfs:domain <http://knowdive.disi.unitn.it/etype#ResearchTopic ;
                                            <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0006" ;
                                            rdfs:isDefinedBy "a word or a list of words that describe the content of the thing they are associated to"@en .
 
@@ -257,7 +257,7 @@
 <http://www.ontotext.com/proton/protontop.html#Topic> rdf:type owl:DatatypeProperty ;
                                                       rdfs:subPropertyOf owl:topDataProperty ;
                                                       rdfs:domain :ResearchProduct ,
-                                                                  <http://swrc.ontoware.org/ontology#ResearchProject> ,
+                                                                  <http://knowdive.disi.unitn.it/etype#ResearchTopic ,
                                                                   <https://schema.org/member> ;
                                                       <http://num.edu.mn/ontology#ConceptID> "KGE24-13-0001" ;
                                                       rdfs:isDefinedBy "the subject matter of a research" .
@@ -282,7 +282,7 @@
 ###  https://dbpedia.org/ontology/partner
 <https://dbpedia.org/ontology/partner> rdf:type owl:DatatypeProperty ;
                                        rdfs:subPropertyOf owl:topDataProperty ;
-                                       rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                       rdfs:domain <http://knowdive.disi.unitn.it/etype#ResearchTopic ;
                                        <http://num.edu.mn/ontology#ConceptID> "UKC-48778" ;
                                        rdfs:isDefinedBy "an associate who works with others toward a common goal"@en .
 
@@ -290,7 +290,7 @@
 ###  https://dbpedia.org/ontology/projectCoordinator
 <https://dbpedia.org/ontology/projectCoordinator> rdf:type owl:DatatypeProperty ;
                                                   rdfs:subPropertyOf owl:topDataProperty ;
-                                                  rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ;
+                                                  rdfs:domain <http://knowdive.disi.unitn.it/etype#ResearchTopic ;
                                                   <http://num.edu.mn/ontology#ConceptID> "UKC-48923" ;
                                                   rdfs:isDefinedBy "someone whose task is to see that work goes harmoniously"@en .
 
@@ -322,7 +322,7 @@
 ###  https://schema.org/member
 <https://schema.org/member> rdf:type owl:DatatypeProperty ;
                             rdfs:subPropertyOf owl:topDataProperty ;
-                            rdfs:domain <http://swrc.ontoware.org/ontology#ResearchProject> ,
+                            rdfs:domain <http://knowdive.disi.unitn.it/etype#ResearchTopic ,
                                         <http://swrc.ontoware.org/ontology#ResearchTopic> .
 
 
@@ -362,7 +362,7 @@ research purpose"""@en .
 
 
 ###  http://swrc.ontoware.org/ontology#ResearchProject
-<http://swrc.ontoware.org/ontology#ResearchProject> rdf:type owl:Class ;
+<http://knowdive.disi.unitn.it/etype#ResearchTopic rdf:type owl:Class ;
                                                     <http://num.edu.mn/ontology#ConceptID> "UKC-4011" ;
                                                     rdfs:isDefinedBy "any piece of work that is undertaken or attempted"@en .
 
@@ -419,7 +419,7 @@ who have joined and participates in a group organization)"""@en .
 [ rdf:type owl:AllDisjointClasses ;
   owl:members ( :ResearchProduct
                 <http://num.edu.mn/ontology#Person>
-                <http://swrc.ontoware.org/ontology#ResearchProject>
+                <http://knowdive.disi.unitn.it/etype#ResearchTopic
                 <http://swrc.ontoware.org/ontology#ResearchTopic>
                 <http://vivoweb.org/ontology/core#University>
               )
